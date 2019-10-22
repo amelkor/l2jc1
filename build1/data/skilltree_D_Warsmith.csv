@@ -1,0 +1,154 @@
+#id;name;level;sp;level
+239;Expertise C;2;0;40
+248;Crystallize;2;44000;40
+36;Whirlwind;1;15000;40
+36;Whirlwind;2;15000;40
+36;Whirlwind;3;15000;40
+260;Hammer Crush;1;15000;40
+260;Hammer Crush;2;15000;40
+260;Hammer Crush;3;15000;40
+212;Fast HP Recovery;3;24000;40
+205;Blunt Mastery;9;15000;40
+205;Blunt Mastery;10;15000;40
+205;Blunt Mastery;11;15000;40
+232;Heavy Armor Mastery;14;15000;40
+232;Heavy Armor Mastery;15;15000;40
+232;Heavy Armor Mastery;16;15000;40
+216;Polearm Mastery;9;15000;40
+216;Polearm Mastery;10;15000;40
+216;Polearm Mastery;11;15000;40
+227;Light Armor Mastery;14;15000;40
+227;Light Armor Mastery;15;15000;40
+227;Light Armor Mastery;16;15000;40
+148;Vital Force;3;44000;40
+25;Summon Mechanic Golem;3;41000;43
+36;Whirlwind;4;14000;43
+36;Whirlwind;5;14000;43
+36;Whirlwind;6;14000;43
+165;Trade;4;0;43
+172;Create Item;5;41000;43
+260;Hammer Crush;4;14000;43
+260;Hammer Crush;5;14000;43
+260;Hammer Crush;6;14000;43
+212;Fast HP Recovery;4;41000;43
+211;Boost HP;4;41000;43
+205;Blunt Mastery;12;14000;43
+205;Blunt Mastery;13;14000;43
+205;Blunt Mastery;14;14000;43
+232;Heavy Armor Mastery;17;14000;43
+232;Heavy Armor Mastery;18;14000;43
+232;Heavy Armor Mastery;19;14000;43
+216;Polearm Mastery;12;14000;43
+216;Polearm Mastery;13;14000;43
+216;Polearm Mastery;14;14000;43
+227;Light Armor Mastery;17;14000;43
+227;Light Armor Mastery;18;14000;43
+227;Light Armor Mastery;19;14000;43
+150;Weight Limit;2;67000;46
+36;Whirlwind;7;22000;46
+36;Whirlwind;8;22000;46
+36;Whirlwind;9;22000;46
+260;Hammer Crush;7;22000;46
+260;Hammer Crush;8;22000;46
+260;Hammer Crush;9;22000;46
+34;Bandage;2;67000;46
+205;Blunt Mastery;15;22000;46
+205;Blunt Mastery;16;22000;46
+205;Blunt Mastery;17;22000;46
+232;Heavy Armor Mastery;20;22000;46
+232;Heavy Armor Mastery;21;22000;46
+232;Heavy Armor Mastery;22;22000;46
+216;Polearm Mastery;15;22000;46
+216;Polearm Mastery;16;22000;46
+216;Polearm Mastery;17;22000;46
+227;Light Armor Mastery;20;22000;46
+227;Light Armor Mastery;21;22000;46
+227;Light Armor Mastery;22;22000;46
+148;Vital Force;4;67000;46
+172;Create Item;6;100000;49
+25;Summon Mechanic Golem;4;100000;49
+36;Whirlwind;10;33000;49
+36;Whirlwind;11;33000;49
+36;Whirlwind;12;33000;49
+165;Trade;5;0;49
+260;Hammer Crush;10;33000;49
+260;Hammer Crush;11;33000;49
+260;Hammer Crush;12;33000;49
+211;Boost HP;5;100000;49
+205;Blunt Mastery;18;33000;49
+205;Blunt Mastery;19;33000;49
+205;Blunt Mastery;20;33000;49
+232;Heavy Armor Mastery;23;33000;49
+232;Heavy Armor Mastery;24;33000;49
+232;Heavy Armor Mastery;25;33000;49
+216;Polearm Mastery;18;33000;49
+216;Polearm Mastery;19;33000;49
+216;Polearm Mastery;20;33000;49
+227;Light Armor Mastery;23;33000;49
+227;Light Armor Mastery;24;33000;49
+227;Light Armor Mastery;25;33000;49
+239;Expertise B;3;0;52
+248;Crystallize;3;160000;52
+36;Whirlwind;13;56000;52
+36;Whirlwind;14;56000;52
+36;Whirlwind;15;56000;52
+260;Hammer Crush;13;56000;52
+260;Hammer Crush;14;56000;52
+260;Hammer Crush;15;56000;52
+212;Fast HP Recovery;5;160000;52
+205;Blunt Mastery;21;56000;52
+205;Blunt Mastery;22;56000;52
+205;Blunt Mastery;23;56000;52
+232;Heavy Armor Mastery;26;56000;52
+232;Heavy Armor Mastery;27;56000;52
+232;Heavy Armor Mastery;28;56000;52
+216;Polearm Mastery;21;56000;52
+216;Polearm Mastery;22;56000;52
+216;Polearm Mastery;23;56000;52
+227;Light Armor Mastery;26;56000;52
+227;Light Armor Mastery;27;56000;52
+227;Light Armor Mastery;28;56000;52
+148;Vital Force;5;160000;52
+172;Create Item;7;260000;55
+25;Summon Mechanic Golem;3;260000;55
+36;Whirlwind;16;89000;55
+36;Whirlwind;17;89000;55
+36;Whirlwind;18;89000;55
+260;Hammer Crush;16;89000;55
+260;Hammer Crush;17;89000;55
+260;Hammer Crush;18;89000;55
+211;Boost HP;6;260000;55
+205;Blunt Mastery;24;89000;55
+205;Blunt Mastery;25;89000;55
+205;Blunt Mastery;26;89000;55
+232;Heavy Armor Mastery;29;89000;55
+232;Heavy Armor Mastery;30;89000;55
+232;Heavy Armor Mastery;31;89000;55
+216;Polearm Mastery;24;89000;55
+216;Polearm Mastery;25;89000;55
+216;Polearm Mastery;26;89000;55
+227;Light Armor Mastery;29;89000;55
+227;Light Armor Mastery;30;89000;55
+227;Light Armor Mastery;31;89000;55
+36;Whirlwind;19;140000;58
+36;Whirlwind;20;140000;58
+36;Whirlwind;21;140000;58
+260;Hammer Crush;19;140000;58
+260;Hammer Crush;20;140000;58
+260;Hammer Crush;21;140000;58
+212;Fast HP Recovery;6;410000;58
+205;Blunt Mastery;27;140000;58
+205;Blunt Mastery;28;140000;58
+205;Blunt Mastery;29;140000;58
+232;Heavy Armor Mastery;32;140000;58
+232;Heavy Armor Mastery;33;140000;58
+232;Heavy Armor Mastery;34;140000;58
+216;Polearm Mastery;27;140000;58
+216;Polearm Mastery;28;140000;58
+216;Polearm Mastery;29;140000;58
+227;Light Armor Mastery;32;140000;58
+227;Light Armor Mastery;33;140000;58
+227;Light Armor Mastery;34;140000;58
+148;Vital Force;6;410000;58
+239;Expertise A;4;0;61
+239;Expertise S;5;0;67

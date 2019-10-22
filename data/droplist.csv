@@ -1,0 +1,3 @@
+#mob id; item id; min amount of drop; max amount of drop; sweep (0=false/1=true); %of chance to drop (0(never) < X <= 1000000(always))
+1;57;25;50;0;750000
+1;1867;1;1;0;2000

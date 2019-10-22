@@ -1,0 +1,20 @@
+#classid;defaulthp;defaulthpadd;defaulthpbonus;defaultmp;defaultmp;defaultmpbonus
+#elven fighter
+18;113.6;16.7986;0.1846;39.0;7.098;0.078
+#elven mage
+25;96.0;14.196;0.156;59.6;10.8472;0.1192
+#human fighter
+0;126.4;18.6914;0.2054;38.4;6.9888;0.0768
+#human mage
+10;99.2;14.6692;0.1612;59.2;10.7744;0.1184
+#dark elf fighter
+31;107.2;15.8522;0.1742;39.0;7.098;0.078
+# TODO NO INFO USING FAKE ONES
+# Dark Elf mage
+38;96.0;14.196;0.156;59.6;10.8472;0.1192
+# Orc fighter
+44;133.4;18.6914;0.2354;35.4;6.9888;0.0761
+# Orc mage
+49;99.2;14.6692;0.1612;59.2;10.7744;0.1184
+# Dwarven fighter
+53;139.4;18.8914;0.2654;38.4;6.9888;0.1061

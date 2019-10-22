@@ -1,0 +1,61 @@
+#id;loc_x;loc_y;loc_z;price
+# Elven Town & Dark Elven Town -> Village of Gludin
+1;-80826;149775;-3043;6400
+# Elven Town & Dark Elven Town -> Town of Gludio
+2;-12672;122776;-3116;3700
+# Town of gludio -> Elven village
+3;46934;51467;-2977;3700
+# Town of gludio -> Dark Elven village
+4;9745;15606;-4574;3700
+# Town of gludio -> Village of Gludin
+5;-80826;149775;-3043;2900
+# Town of gludio -> Dion
+6;15670;142983;-2705;4100
+# Town of gludio & Village of Gludin -> Orc village
+7;-45163;-112524;-235;6000
+# Town of gludio & Village of Gludin -> Dwarven village
+8;115113;-178212;-901;6000
+# Village of Gludin -> TI
+9;-84318;244579;-3730;18000
+# Village of Gludin -> Elven Village
+10;46934;51467;-2977;6400
+# Village of Gludin -> Dark Elven Village
+11;9745;15606;-4574;6400
+# Village of Gludin -> Town of Gludio
+12;-12672;122776;-3116;2900
+# Village of Gludin -> Southern entrance of wastelands
+13;-16730;209417;-3664;2400
+# Dark Elven Town -> Southern part of dark elven forest
+14;-61095;75104;-3356;1100
+# TI -> Village of Gludin
+15;-80826;149775;-3043;18000
+# Dwarf Town & Orc Town -> Village of Gludin
+16;-80826;149775;-3043;3000
+# Dwarf Town -> The Northeast Coast
+17;169008;-208272;-3504;700
+# Dion Town -> Town of Gludio
+18;-12672;122776;-3116;4100
+# Dion Town -> Town of Giran
+19;83400;147943;-3404;8100
+# Dion Town & Giran Town -> Entrance Giran
+20;47942;186764;-3485;6500
+# Cruma Tower Entrance -> Cruma Tower 1nd floor
+21;17724;114004;-11672;0
+# Cruma Tower 1st floor -> Cruma Tower Entrance
+22;17192;114178;-3439;0
+# Cruma Tower 1st floor -> Cruma Tower 2rd floor
+23;17730;108301;-9057;0
+# Cruma Tower 2nd floor -> Cruma Tower 1st floor
+24;17731;107801;-11849;0
+# Town of Giran -> Dion Town
+25;15670;142983;-2705;8100
+# Town of Giran -> Oren Town
+26;82956;53162;-1495;11000
+# Town of Giran -> Hunter Village
+27;117110;76883;-2695;9400
+# Town of Giran -> Hardins Private Academy
+28;105918;109759;-3207;5300
+# TI Dungeon inside -> outside
+29;-113436;235458;-3645;0
+# TI Dungeon outside -> inside
+30;48736;248463;-6162;0

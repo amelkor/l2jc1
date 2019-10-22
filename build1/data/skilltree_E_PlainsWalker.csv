@@ -1,0 +1,165 @@
+#id;name;level;sp;level
+239;Expertise S;2;0;40
+239;Expertise S;3;0;52
+15;Charm;16;12000;40
+15;Charm;17;12000;40
+15;Charm;18;12000;40
+15;Charm;19;14000;43
+15;Charm;20;14000;43
+15;Charm;21;14000;43
+15;Charm;22;20000;46
+15;Charm;23;20000;46
+15;Charm;24;20000;46
+15;Charm;25;28000;49
+15;Charm;26;28000;49
+15;Charm;27;28000;49
+15;Charm;28;45000;52
+15;Charm;29;45000;52
+15;Charm;30;45000;52
+15;Charm;31;73000;55
+15;Charm;32;73000;55
+15;Charm;33;73000;55
+15;Charm;34;110000;58
+15;Charm;35;110000;58
+15;Charm;36;110000;58
+58;Elemental Heal;19;12000;40
+58;Elemental Heal;20;12000;40
+58;Elemental Heal;21;12000;40
+58;Elemental Heal;22;14000;43
+58;Elemental Heal;23;14000;43
+58;Elemental Heal;24;14000;43
+58;Elemental Heal;25;20000;46
+58;Elemental Heal;26;20000;46
+58;Elemental Heal;27;20000;46
+58;Elemental Heal;28;28000;49
+58;Elemental Heal;29;28000;49
+58;Elemental Heal;30;28000;49
+58;Elemental Heal;31;45000;52
+58;Elemental Heal;32;45000;52
+58;Elemental Heal;33;45000;52
+58;Elemental Heal;34;73000;55
+58;Elemental Heal;35;73000;55
+58;Elemental Heal;36;73000;55
+58;Elemental Heal;37;110000;58
+58;Elemental Heal;38;110000;58
+58;Elemental Heal;39;110000;58
+209;Dagger Mastery;9;12000;40
+209;Dagger Mastery;10;12000;40
+209;Dagger Mastery;11;12000;40
+209;Dagger Mastery;12;14000;43
+209;Dagger Mastery;13;14000;43
+209;Dagger Mastery;14;14000;43
+209;Dagger Mastery;15;20000;46
+209;Dagger Mastery;16;20000;46
+209;Dagger Mastery;17;20000;46
+209;Dagger Mastery;18;28000;49
+209;Dagger Mastery;19;28000;49
+209;Dagger Mastery;20;28000;49
+209;Dagger Mastery;21;45000;52
+209;Dagger Mastery;22;45000;52
+209;Dagger Mastery;23;45000;52
+209;Dagger Mastery;24;73000;55
+209;Dagger Mastery;25;73000;55
+209;Dagger Mastery;26;73000;55
+209;Dagger Mastery;27;110000;58
+209;Dagger Mastery;28;110000;58
+209;Dagger Mastery;29;110000;58
+233;Light Armor Mastery;11;12000;40
+233;Light Armor Mastery;12;12000;40
+233;Light Armor Mastery;13;12000;40
+233;Light Armor Mastery;14;14000;43
+233;Light Armor Mastery;15;14000;43
+233;Light Armor Mastery;16;14000;43
+233;Light Armor Mastery;17;20000;46
+233;Light Armor Mastery;18;20000;46
+233;Light Armor Mastery;19;20000;46
+233;Light Armor Mastery;20;28000;49
+233;Light Armor Mastery;21;28000;49
+233;Light Armor Mastery;22;28000;49
+233;Light Armor Mastery;23;45000;52
+233;Light Armor Mastery;24;45000;52
+233;Light Armor Mastery;25;45000;52
+233;Light Armor Mastery;26;73000;55
+233;Light Armor Mastery;27;73000;55
+233;Light Armor Mastery;28;73000;55
+233;Light Armor Mastery;29;110000;58
+233;Light Armor Mastery;30;110000;58
+233;Light Armor Mastery;31;110000;58
+30;Backstab;1;12000;40
+30;Backstab;2;12000;40
+30;Backstab;3;12000;40
+30;Backstab;4;14000;43
+30;Backstab;5;14000;43
+30;Backstab;6;14000;43
+30;Backstab;7;20000;46
+30;Backstab;8;20000;46
+30;Backstab;9;20000;46
+30;Backstab;10;28000;49
+30;Backstab;11;28000;49
+30;Backstab;12;28000;49
+30;Backstab;13;45000;52
+30;Backstab;14;45000;52
+30;Backstab;15;45000;52
+30;Backstab;16;73000;55
+30;Backstab;17;73000;55
+30;Backstab;18;73000;55
+30;Backstab;19;110000;58
+30;Backstab;20;110000;58
+30;Backstab;21;110000;58
+81;Deadly Blow;1;12000;40
+81;Deadly Blow;2;12000;40
+81;Deadly Blow;3;12000;40
+81;Deadly Blow;4;14000;43
+81;Deadly Blow;5;14000;43
+81;Deadly Blow;6;14000;43
+81;Deadly Blow;7;20000;46
+81;Deadly Blow;8;20000;46
+81;Deadly Blow;9;20000;46
+81;Deadly Blow;10;28000;49
+81;Deadly Blow;11;28000;49
+81;Deadly Blow;12;28000;49
+81;Deadly Blow;13;45000;52
+81;Deadly Blow;14;45000;52
+81;Deadly Blow;15;45000;52
+81;Deadly Blow;16;73000;55
+81;Deadly Blow;17;73000;55
+81;Deadly Blow;18;73000;55
+81;Deadly Blow;19;110000;58
+81;Deadly Blow;20;110000;58
+81;Deadly Blow;21;110000;58
+21;Poison Recovery;2;37000;40
+102;Entangle;2;83000;49
+102;Entangle;3;330000;58
+137;Critical Chance;2;37000;40
+137;Critical Chance;3;83000;49
+27;Unlock;4;37000;40
+27;Unlock;5;41000;43
+27;Unlock;6;60000;46
+27;Unlock;7;83000;49
+27;Unlock;8;140000;52
+27;Unlock;9;210000;55
+225;Acrobatic Move;2;41000;43
+225;Acrobatic Move;3;210000;55
+171;Esprit;2;41000;43
+171;Esprit;3;60000;46
+171;Esprit;4;83000;49
+171;Esprit;5;140000;52
+169;Quick Step;2;41000;43
+198;Boost Evasion;2;60000;46
+198;Boost Evasion;3;330000;58
+61;Cure Bleeding;2;60000;46
+96;Bleed;3;83000;49
+96;Bleed;4;330000;58
+102;Entangle;2;83000;49
+102;Entangle;3;330000;58
+230;Sprint;2;140000;52
+173;Acrobat;2;210000;55
+195;Boost Breath;2;210000;55
+111;Ultimate Evasion;2;210000;55
+123;Spirit Barrier;1;37000;40
+123;Spirit Barrier;2;83000;49
+123;Spirit Barrier;3;330000;58
+60;Fake Death;1;37000;40
+#;Switch;1;41000;43
+#;Switch;2;140000;52
+#;Lure;1;140000;52

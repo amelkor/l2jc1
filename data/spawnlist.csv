@@ -1,0 +1,6 @@
+# this file contains the spawn data of your world
+# a spawn point can create as many monsters as you want
+# for NPCs its the best to have randomx/y set to 0 so that they always respawn at the same point
+#id;location name;count;npc templateid;locx;locy;locz;randomx;randomy;heading (-1 = random);respawn delay
+500000;ElfenVillage;1;7156;44823;52414;-2795;0;0;49152;360
+

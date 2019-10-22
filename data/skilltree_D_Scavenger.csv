@@ -1,0 +1,85 @@
+#id;name;level;sp;level
+239;Expertise D;1;0;20
+100;Stun Attack;1;1400;20
+100;Stun Attack;2;1400;20
+100;Stun Attack;3;1400;20
+254;Spoil;2;4100;20
+34;Bandage;1;4100;20
+211;Boost HP;1;4100;20
+205;Blunt Mastery;1;4100;20
+232;Heavy Armor Mastery;1;2100;20
+232;Heavy Armor Mastery;2;2100;20
+216;Polearm Mastery;1;4100;20
+233;Light Armor Mastery;1;2100;20
+233;Light Armor Mastery;2;2100;20
+245;Wild Sweep;1;1400;20
+245;Wild Sweep;2;1400;20
+245;Wild Sweep;3;1400;20
+100;Stun Attack;4;2900;24
+100;Stun Attack;5;2900;24
+100;Stun Attack;6;2900;24
+212;Fast HP Recovery;1;8800;24
+205;Blunt Mastery;2;8800;24
+232;Heavy Armor Mastery;3;4400;24
+232;Heavy Armor Mastery;4;4400;24
+216;Polearm Mastery;2;8800;24
+233;Light Armor Mastery;3;4400;24
+233;Light Armor Mastery;4;4400;24
+245;Wild Sweep;4;2900;24
+245;Wild Sweep;5;2900;24
+245;Wild Sweep;6;2900;24
+148;Vital Force;1;7000;24
+150;Weight Limit;1;7700;46
+100;Stun Attack;7;5000;28
+100;Stun Attack;8;5000;28
+100;Stun Attack;9;5000;28
+254;Spoil;3;15000;28
+211;Boost HP;2;15000;28
+205;Blunt Mastery;3;7500;28
+205;Blunt Mastery;4;7500;28
+232;Heavy Armor Mastery;5;5000;28
+232;Heavy Armor Mastery;6;5000;28
+232;Heavy Armor Mastery;7;5000;28
+216;Polearm Mastery;3;7500;28
+216;Polearm Mastery;4;7500;28
+233;Light Armor Mastery;5;5000;28
+233;Light Armor Mastery;6;5000;28
+233;Light Armor Mastery;7;5000;28
+245;Wild Sweep;7;5000;28
+245;Wild Sweep;8;5000;28
+245;Wild Sweep;9;5000;28
+100;Stun Attack;10;8300;32
+100;Stun Attack;11;8300;32
+100;Stun Attack;12;8300;32
+212;Fast HP Recovery;2;25000;32
+205;Blunt Mastery;5;13000;32
+205;Blunt Mastery;6;13000;32
+232;Heavy Armor Mastery;8;8300;32
+232;Heavy Armor Mastery;9;8300;32
+232;Heavy Armor Mastery;10;8300;32
+216;Polearm Mastery;5;13000;32
+216;Polearm Mastery;6;13000;32
+233;Light Armor Mastery;8;8300;32
+233;Light Armor Mastery;9;8300;32
+233;Light Armor Mastery;10;8300;32
+245;Wild Sweep;10;8300;32
+245;Wild Sweep;11;8300;32
+245;Wild Sweep;12;8300;32
+100;Stun Attack;13;13000;36
+100;Stun Attack;14;13000;36
+100;Stun Attack;15;13000;36
+254;Spoil;4;39000;36
+211;Boost HP;3;39000;36
+205;Blunt Mastery;7;19000;36
+205;Blunt Mastery;8;19000;36
+232;Heavy Armor Mastery;11;13000;36
+232;Heavy Armor Mastery;12;13000;36
+232;Heavy Armor Mastery;13;13000;36
+216;Polearm Mastery;7;19000;36
+216;Polearm Mastery;8;19000;36
+233;Light Armor Mastery;11;13000;36
+233;Light Armor Mastery;12;13000;36
+233;Light Armor Mastery;13;13000;36
+245;Wild Sweep;13;13000;36
+245;Wild Sweep;14;13000;36
+245;Wild Sweep;15;13000;36

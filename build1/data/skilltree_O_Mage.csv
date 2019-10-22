@@ -1,0 +1,34 @@
+#id;name;level;sp;level
+118;Magicians Movement;1;0;1
+134;Toughness;1;0;1
+146;Anti Magic;1;260;7
+146;Anti Magic;2;260;7
+146;Anti Magic;3;950;14
+146;Anti Magic;4;950;14
+163;Spellcraft;1;0;1
+194;Lucky;1;0;1
+214;Mana Recovery;1;0;1
+249;Weapon Mastery;1;520;7
+249;Weapon Mastery;2;1900;14
+251;Robe Mastery;1;260;7
+251;Robe Mastery;2;260;7
+251;Robe Mastery;3;950;14
+251;Robe Mastery;4;950;14
+252;Light Armor Mastery;1;260;7
+252;Light Armor Mastery;2;260;7
+252;Light Armor Mastery;3;950;14
+252;Light Armor Mastery;4;950;14
+253;Heavy Armor Mastery;1;950;14
+253;Heavy Armor Mastery;2;950;14
+1001;Soul Cry;1;0;1
+1001;Soul Cry;2;1900;14
+1007;Chant of Battle;1;1900;14
+1010;Soul Shield;1;520;7
+1090;Life Drain;1;520;7
+1090;Life Drain;2;1900;14
+1092;Fear;1;1900;14
+1095;Venom;1;520;7
+1095;Venom;2;1900;14
+1097;Dreaming Spirit;1;520;7
+1100;Chill Flame;1;520;7
+1100;Chill Flame;2;1900;14

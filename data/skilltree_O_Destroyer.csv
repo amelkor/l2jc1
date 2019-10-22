@@ -1,0 +1,172 @@
+#id;name;level;sp;level
+239;Expertise C;2;0;40
+212;Fast HP Recovery;3;40000;40
+231;Heavy Armor Mastery;14;13000;40
+231;Heavy Armor Mastery;15;13000;40
+231;Heavy Armor Mastery;16;13000;40
+233;Light Armor Mastery;14;13000;40
+233;Light Armor Mastery;15;13000;40
+233;Light Armor Mastery;16;13000;40
+216;Polearm Mastery;9;13000;40
+216;Polearm Mastery;10;13000;40
+216;Polearm Mastery;11;13000;40
+217;Sword Blunt Mastery;9;13000;40
+217;Sword Blunt Mastery;10;13000;40
+217;Sword Blunt Mastery;11;13000;40
+148;Vital Force;3;40000;40
+121;Battle Roar;2;40000;40
+190;Fatal Strike;1;13000;40
+190;Fatal Strike;2;13000;40
+190;Fatal Strike;3;13000;40
+36;Whirlwind;1;13000;40
+36;Whirlwind;2;13000;40
+36;Whirlwind;3;13000;40
+260;Hammer Crush;1;13000;40
+260;Hammer Crush;2;13000;40
+260;Hammer Crush;3;13000;40
+211;Boost HP;4;46000;43
+212;Fast HP Recovery;4;46000;43
+231;Heavy Armor Mastery;17;15000;43
+231;Heavy Armor Mastery;18;15000;43
+231;Heavy Armor Mastery;19;15000;43
+233;Light Armor Mastery;17;15000;43
+233;Light Armor Mastery;18;15000;43
+233;Light Armor Mastery;19;15000;43
+216;Polearm Mastery;12;15000;43
+216;Polearm Mastery;13;15000;43
+216;Polearm Mastery;14;15000;43
+217;Sword Blunt Mastery;12;15000;43
+217;Sword Blunt Mastery;13;15000;43
+217;Sword Blunt Mastery;14;15000;43
+190;Fatal Strike;4;15000;43
+190;Fatal Strike;5;15000;43
+190;Fatal Strike;6;15000;43
+139;Guts;2;46000;43
+260;Hammer Crush;4;15000;43
+260;Hammer Crush;5;15000;43
+260;Hammer Crush;6;15000;43
+36;Whirlwind;4;15000;43
+36;Whirlwind;5;15000;43
+36;Whirlwind;6;15000;43
+231;Heavy Armor Mastery;20;20000;46
+231;Heavy Armor Mastery;21;20000;46
+231;Heavy Armor Mastery;22;20000;46
+233;Light Armor Mastery;20;20000;46
+233;Light Armor Mastery;21;20000;46
+233;Light Armor Mastery;22;20000;46
+216;Polearm Mastery;15;20000;46
+216;Polearm Mastery;16;20000;46
+216;Polearm Mastery;17;20000;46
+217;Sword Blunt Mastery;15;20000;46
+217;Sword Blunt Mastery;16;20000;46
+217;Sword Blunt Mastery;17;20000;46
+148;Vital Force;4;60000;46
+34;Bandage;2;60000;46
+190;Fatal Strike;7;20000;46
+190;Fatal Strike;8;20000;46
+190;Fatal Strike;9;20000;46
+176;Frenzy;2;60000;46
+260;Hammer Crush;7;20000;46
+260;Hammer Crush;8;20000;46
+260;Hammer Crush;9;20000;46
+36;Whirlwind;7;20000;46
+36;Whirlwind;8;20000;46
+36;Whirlwind;9;20000;46
+211;Boost HP;5;120000;49
+231;Heavy Armor Mastery;23;37000;49
+231;Heavy Armor Mastery;24;37000;49
+231;Heavy Armor Mastery;25;37000;49
+233;Light Armor Mastery;23;37000;49
+233;Light Armor Mastery;24;37000;49
+233;Light Armor Mastery;25;37000;49
+216;Polearm Mastery;18;37000;49
+216;Polearm Mastery;19;37000;49
+216;Polearm Mastery;20;37000;49
+217;Sword Blunt Mastery;18;37000;49
+217;Sword Blunt Mastery;19;37000;49
+217;Sword Blunt Mastery;20;37000;49
+121;Battle Roar;3;120000;49
+190;Fatal Strike;10;37000;49
+190;Fatal Strike;11;37000;49
+190;Fatal Strike;12;37000;49
+260;Hammer Crush;10;37000;49
+260;Hammer Crush;11;37000;49
+260;Hammer Crush;12;37000;49
+36;Whirlwind;10;37000;49
+36;Whirlwind;11;37000;49
+36;Whirlwind;12;37000;49
+239;Expertise B;3;0;52
+212;Fast HP Recovery;5;150000;52
+231;Heavy Armor Mastery;26;50000;52
+231;Heavy Armor Mastery;27;50000;52
+231;Heavy Armor Mastery;28;50000;52
+233;Light Armor Mastery;26;50000;52
+233;Light Armor Mastery;27;50000;52
+233;Light Armor Mastery;28;50000;52
+216;Polearm Mastery;21;50000;52
+216;Polearm Mastery;22;50000;52
+216;Polearm Mastery;23;50000;52
+217;Sword Blunt Mastery;21;50000;52
+217;Sword Blunt Mastery;22;50000;52
+217;Sword Blunt Mastery;23;50000;52
+148;Vital Force;5;150000;52
+190;Fatal Strike;13;50000;52
+190;Fatal Strike;14;50000;52
+190;Fatal Strike;15;50000;52
+139;Guts;3;150000;52
+260;Hammer Crush;13;50000;52
+260;Hammer Crush;14;50000;52
+260;Hammer Crush;15;50000;52
+36;Whirlwind;13;50000;52
+36;Whirlwind;14;50000;52
+36;Whirlwind;15;50000;52
+211;Boost HP;6;240000;55
+231;Heavy Armor Mastery;29;80000;55
+231;Heavy Armor Mastery;30;80000;55
+231;Heavy Armor Mastery;31;80000;55
+233;Light Armor Mastery;29;80000;55
+233;Light Armor Mastery;30;80000;55
+233;Light Armor Mastery;31;80000;55
+216;Polearm Mastery;24;80000;55
+216;Polearm Mastery;25;80000;55
+216;Polearm Mastery;26;80000;55
+217;Sword Blunt Mastery;24;80000;55
+217;Sword Blunt Mastery;25;80000;55
+217;Sword Blunt Mastery;26;80000;55
+190;Fatal Strike;16;80000;55
+190;Fatal Strike;17;80000;55
+190;Fatal Strike;18;80000;55
+176;Frenzy;3;240000;55
+260;Hammer Crush;16;80000;55
+260;Hammer Crush;17;80000;55
+260;Hammer Crush;18;80000;55
+94;Rage;2;240000;55
+36;Whirlwind;16;80000;55
+36;Whirlwind;17;80000;55
+36;Whirlwind;18;80000;55
+212;Fast HP Recovery;6;330000;58
+231;Heavy Armor Mastery;32;110000;58
+231;Heavy Armor Mastery;33;110000;58
+231;Heavy Armor Mastery;34;110000;58
+233;Light Armor Mastery;32;110000;58
+233;Light Armor Mastery;33;110000;58
+233;Light Armor Mastery;34;110000;58
+216;Polearm Mastery;27;110000;58
+216;Polearm Mastery;28;110000;58
+216;Polearm Mastery;29;110000;58
+217;Sword Blunt Mastery;27;110000;58
+217;Sword Blunt Mastery;28;110000;58
+217;Sword Blunt Mastery;29;110000;58
+148;Vital Force;6;330000;58
+121;Battle Roar;4;330000;58
+190;Fatal Strike;19;110000;58
+190;Fatal Strike;20;110000;58
+190;Fatal Strike;21;110000;58
+260;Hammer Crush;19;110000;58
+260;Hammer Crush;20;110000;58
+260;Hammer Crush;21;110000;58
+36;Whirlwind;19;110000;58
+36;Whirlwind;20;110000;58
+36;Whirlwind;21;110000;58
+
+

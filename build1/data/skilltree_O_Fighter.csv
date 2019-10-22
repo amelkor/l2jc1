@@ -1,0 +1,33 @@
+#id;name;level;sp;level
+3;Power Strike;1;60;5
+3;Power Strike;2;60;5
+3;Power Strike;3;60;5
+3;Power Strike;4;450;10
+3;Power Strike;5;450;10
+3;Power Strike;6;450;10
+3;Power Strike;7;1700;15
+3;Power Strike;8;1700;15
+3;Power Strike;9;1700;15
+29;Iron Punch;1;60;5
+29;Iron Punch;2;60;5
+29;Iron Punch;3;60;5
+29;Iron Punch;4;450;10
+29;Iron Punch;5;450;10
+29;Iron Punch;6;450;10
+29;Iron Punch;7;1700;15
+29;Iron Punch;8;1700;15
+29;Iron Punch;9;1700;15
+58;Elemental Heal;1;1100;15
+58;Elemental Heal;2;1100;15
+58;Elemental Heal;3;1100;15
+134;Toughness;1;0;1
+141;Weapon Mastery;1;190;5
+141;Weapon Mastery;2;1400;10
+141;Weapon Mastery;3;5000;15
+142;Armor Mastery;1;190;5
+142;Armor Mastery;2;700;10
+142;Armor Mastery;3;700;10
+142;Armor Mastery;4;2500;15
+142;Armor Mastery;5;2500;15
+194;Lucky;1;0;1
+226;Relax;1;190;5

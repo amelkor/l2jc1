@@ -1,0 +1,233 @@
+#id;name;level;sp;level
+144;Dual Weapon Mastery;1;12000;40
+144;Dual Weapon Mastery;2;12000;40
+144;Dual Weapon Mastery;3;12000;40
+144;Dual Weapon Mastery;4;14000;43
+144;Dual Weapon Mastery;5;14000;43
+144;Dual Weapon Mastery;6;14000;43
+144;Dual Weapon Mastery;7;17000;46
+144;Dual Weapon Mastery;8;17000;46
+144;Dual Weapon Mastery;9;17000;46
+144;Dual Weapon Mastery;10;28000;49
+144;Dual Weapon Mastery;11;28000;49
+144;Dual Weapon Mastery;12;28000;49
+144;Dual Weapon Mastery;13;38000;52
+144;Dual Weapon Mastery;14;38000;52
+144;Dual Weapon Mastery;15;38000;52
+144;Dual Weapon Mastery;16;62000;55
+144;Dual Weapon Mastery;17;62000;55
+144;Dual Weapon Mastery;18;62000;55
+144;Dual Weapon Mastery;19;79000;58
+144;Dual Weapon Mastery;20;79000;58
+144;Dual Weapon Mastery;21;79000;58
+212;Fast HP Recovery;3;37000;40
+253;Heavy Armor Mastery;14;12000;40
+253;Heavy Armor Mastery;15;12000;40
+253;Heavy Armor Mastery;16;12000;40
+253;Heavy Armor Mastery;17;14000;43
+253;Heavy Armor Mastery;18;14000;43
+253;Heavy Armor Mastery;19;14000;43
+253;Heavy Armor Mastery;20;17000;46
+253;Heavy Armor Mastery;21;17000;46
+253;Heavy Armor Mastery;22;17000;46
+253;Heavy Armor Mastery;23;28000;49
+253;Heavy Armor Mastery;24;28000;49
+253;Heavy Armor Mastery;25;28000;49
+253;Heavy Armor Mastery;26;38000;52
+253;Heavy Armor Mastery;27;38000;52
+253;Heavy Armor Mastery;28;38000;52
+253;Heavy Armor Mastery;29;62000;55
+253;Heavy Armor Mastery;30;62000;55
+253;Heavy Armor Mastery;31;62000;55
+253;Heavy Armor Mastery;32;79000;58
+253;Heavy Armor Mastery;33;79000;58
+253;Heavy Armor Mastery;34;79000;58
+252;Light Armor Mastery;14;12000;40
+252;Light Armor Mastery;15;12000;40
+252;Light Armor Mastery;16;12000;40
+252;Light Armor Mastery;17;14000;43
+252;Light Armor Mastery;18;14000;43
+252;Light Armor Mastery;19;14000;43
+252;Light Armor Mastery;20;17000;46
+252;Light Armor Mastery;21;17000;46
+252;Light Armor Mastery;22;17000;46
+252;Light Armor Mastery;23;28000;49
+252;Light Armor Mastery;24;28000;49
+252;Light Armor Mastery;25;28000;49
+252;Light Armor Mastery;26;38000;52
+252;Light Armor Mastery;27;38000;52
+252;Light Armor Mastery;28;38000;52
+252;Light Armor Mastery;29;62000;55
+252;Light Armor Mastery;30;62000;55
+252;Light Armor Mastery;31;62000;55
+252;Light Armor Mastery;32;79000;58
+252;Light Armor Mastery;33;79000;58
+252;Light Armor Mastery;34;79000;58
+257;Sword Blunt Mastery;9;12000;40
+257;Sword Blunt Mastery;10;12000;40
+257;Sword Blunt Mastery;11;12000;40
+257;Sword Blunt Mastery;12;14000;43
+257;Sword Blunt Mastery;13;14000;43
+257;Sword Blunt Mastery;14;14000;43
+257;Sword Blunt Mastery;15;17000;46
+257;Sword Blunt Mastery;16;17000;46
+257;Sword Blunt Mastery;17;17000;46
+257;Sword Blunt Mastery;18;28000;49
+257;Sword Blunt Mastery;19;28000;49
+257;Sword Blunt Mastery;20;28000;49
+257;Sword Blunt Mastery;21;38000;52
+257;Sword Blunt Mastery;22;38000;52
+257;Sword Blunt Mastery;23;38000;52
+257;Sword Blunt Mastery;24;62000;55
+257;Sword Blunt Mastery;25;62000;55
+257;Sword Blunt Mastery;26;62000;55
+257;Sword Blunt Mastery;27;79000;58
+257;Sword Blunt Mastery;28;79000;58
+257;Sword Blunt Mastery;29;79000;58
+239;Expertise C;2;0;40
+239;Expertise B;3;0;52
+87;Detect Animal Weakness;1;37000;40
+190;Fatal Strike;1;12000;40
+190;Fatal Strike;2;12000;40
+190;Fatal Strike;3;12000;40
+190;Fatal Strike;4;14000;43
+190;Fatal Strike;5;14000;43
+190;Fatal Strike;6;14000;43
+190;Fatal Strike;7;17000;46
+190;Fatal Strike;8;17000;46
+190;Fatal Strike;9;17000;46
+190;Fatal Strike;10;28000;49
+190;Fatal Strike;11;28000;49
+190;Fatal Strike;12;28000;49
+190;Fatal Strike;13;38000;52
+190;Fatal Strike;14;38000;52
+190;Fatal Strike;15;38000;52
+190;Fatal Strike;16;62000;55
+190;Fatal Strike;17;62000;55
+190;Fatal Strike;18;62000;55
+190;Fatal Strike;19;79000;58
+190;Fatal Strike;20;79000;58
+190;Fatal Strike;21;79000;58
+8;Focus Sonic;1;37000;40
+8;Focus Sonic;1;42000;43
+8;Focus Sonic;1;83000;49
+8;Focus Sonic;1;180000;55
+260;Hammer Crush;1;12000;40
+260;Hammer Crush;2;12000;40
+260;Hammer Crush;3;12000;40
+260;Hammer Crush;4;14000;43
+260;Hammer Crush;5;14000;43
+260;Hammer Crush;6;14000;43
+260;Hammer Crush;7;17000;46
+260;Hammer Crush;8;17000;46
+260;Hammer Crush;9;17000;46
+260;Hammer Crush;10;28000;49
+260;Hammer Crush;11;28000;49
+260;Hammer Crush;12;28000;49
+260;Hammer Crush;13;38000;52
+260;Hammer Crush;14;38000;52
+260;Hammer Crush;15;38000;52
+260;Hammer Crush;16;62000;55
+260;Hammer Crush;17;62000;55
+260;Hammer Crush;18;62000;55
+260;Hammer Crush;19;79000;58
+260;Hammer Crush;20;79000;58
+260;Hammer Crush;21;79000;58
+6;Sonic Blaster;1;12000;40
+6;Sonic Blaster;2;12000;40
+6;Sonic Blaster;3;12000;40
+6;Sonic Blaster;4;14000;43
+6;Sonic Blaster;5;14000;43
+6;Sonic Blaster;6;14000;43
+6;Sonic Blaster;7;17000;46
+6;Sonic Blaster;8;17000;46
+6;Sonic Blaster;9;17000;46
+6;Sonic Blaster;10;28000;49
+6;Sonic Blaster;11;28000;49
+6;Sonic Blaster;12;28000;49
+6;Sonic Blaster;13;38000;52
+6;Sonic Blaster;14;38000;52
+6;Sonic Blaster;15;38000;52
+6;Sonic Blaster;16;62000;55
+6;Sonic Blaster;17;62000;55
+6;Sonic Blaster;18;62000;55
+6;Sonic Blaster;19;79000;58
+6;Sonic Blaster;20;79000;58
+6;Sonic Blaster;21;79000;58
+1;Triple Slash;1;12000;40
+1;Triple Slash;2;12000;40
+1;Triple Slash;3;12000;40
+1;Triple Slash;4;14000;43
+1;Triple Slash;5;14000;43
+1;Triple Slash;6;14000;43
+1;Triple Slash;7;17000;46
+1;Triple Slash;8;17000;46
+1;Triple Slash;9;17000;46
+1;Triple Slash;10;28000;49
+1;Triple Slash;11;28000;49
+1;Triple Slash;12;28000;49
+1;Triple Slash;13;38000;52
+1;Triple Slash;14;38000;52
+1;Triple Slash;15;38000;52
+1;Triple Slash;16;62000;55
+1;Triple Slash;17;62000;55
+1;Triple Slash;18;62000;55
+1;Triple Slash;19;79000;58
+1;Triple Slash;20;79000;58
+1;Triple Slash;21;79000;58
+9;Sonic Buster;1;14000;43
+9;Sonic Buster;2;14000;43
+9;Sonic Buster;3;14000;43
+9;Sonic Buster;4;17000;46
+9;Sonic Buster;5;17000;46
+9;Sonic Buster;6;17000;46
+9;Sonic Buster;7;28000;49
+9;Sonic Buster;8;28000;49
+9;Sonic Buster;9;28000;49
+9;Sonic Buster;10;38000;52
+9;Sonic Buster;11;38000;52
+9;Sonic Buster;12;38000;52
+9;Sonic Buster;13;62000;55
+9;Sonic Buster;14;62000;55
+9;Sonic Buster;15;62000;55
+9;Sonic Buster;16;79000;58
+9;Sonic Buster;17;79000;58
+9;Sonic Buster;18;79000;58
+78;War Cry;2;42000;43
+212;Fast HP Recovery;4;50000;46
+104;Detect Plant Weakness;1;50000;46
+5;Double Sonic Slash;1;17000;46
+5;Double Sonic Slash;2;17000;46
+5;Double Sonic Slash;3;17000;46
+5;Double Sonic Slash;4;28000;49
+5;Double Sonic Slash;5;28000;49
+5;Double Sonic Slash;6;28000;49
+5;Double Sonic Slash;7;38000;52
+5;Double Sonic Slash;8;38000;52
+5;Double Sonic Slash;9;38000;52
+5;Double Sonic Slash;10;62000;55
+5;Double Sonic Slash;11;62000;55
+5;Double Sonic Slash;12;62000;55
+5;Double Sonic Slash;13;79000;58
+5;Double Sonic Slash;14;79000;58
+5;Double Sonic Slash;15;79000;58
+7;Sonic Storm;1;28000;49
+7;Sonic Storm;2;28000;49
+7;Sonic Storm;3;28000;49
+7;Sonic Storm;4;38000;52
+7;Sonic Storm;5;38000;52
+7;Sonic Storm;6;38000;52
+7;Sonic Storm;7;62000;55
+7;Sonic Storm;8;62000;55
+7;Sonic Storm;9;62000;55
+7;Sonic Storm;10;79000;58
+7;Sonic Storm;11;79000;58
+7;Sonic Storm;12;79000;58
+212;Fast HP Recovery;5;120000;52
+80;Detect Monster Weakness;1;120000;52
+261;Triple Sonic Slash;1;62000;55
+261;Triple Sonic Slash;2;62000;55
+261;Triple Sonic Slash;3;62000;55
+261;Triple Sonic Slash;4;79000;58
+261;Triple Sonic Slash;5;79000;58
+261;Triple Sonic Slash;6;79000;58

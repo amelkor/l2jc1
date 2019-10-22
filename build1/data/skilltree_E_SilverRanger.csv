@@ -1,0 +1,161 @@
+#id;name;level;sp;level
+239;Expertise S;2;0;40
+239;Expertise S;3;0;52
+15;Charm;16;15000;40
+15;Charm;17;15000;40
+15;Charm;18;15000;40
+15;Charm;19;17000;43
+15;Charm;20;17000;43
+15;Charm;21;17000;43
+15;Charm;22;22000;46
+15;Charm;23;22000;46
+15;Charm;24;22000;46
+15;Charm;25;33000;49
+15;Charm;26;33000;49
+15;Charm;27;33000;49
+15;Charm;28;56000;52
+15;Charm;29;56000;52
+15;Charm;30;56000;52
+15;Charm;31;89000;55
+15;Charm;32;89000;55
+15;Charm;33;89000;55
+15;Charm;34;120000;58
+15;Charm;35;120000;58
+15;Charm;36;120000;58
+58;Elemental Heal;19;15000;40
+58;Elemental Heal;20;15000;40
+58;Elemental Heal;21;15000;40
+58;Elemental Heal;22;17000;43
+58;Elemental Heal;23;17000;43
+58;Elemental Heal;24;17000;43
+58;Elemental Heal;25;22000;46
+58;Elemental Heal;26;22000;46
+58;Elemental Heal;27;22000;46
+58;Elemental Heal;28;33000;49
+58;Elemental Heal;29;33000;49
+58;Elemental Heal;30;33000;49
+58;Elemental Heal;31;56000;52
+58;Elemental Heal;32;56000;52
+58;Elemental Heal;33;56000;52
+58;Elemental Heal;34;89000;55
+58;Elemental Heal;35;89000;55
+58;Elemental Heal;36;89000;55
+58;Elemental Heal;37;120000;58
+58;Elemental Heal;38;120000;58
+58;Elemental Heal;39;120000;58
+233;Light Armor Mastery;11;15000;40
+233;Light Armor Mastery;12;15000;40
+233;Light Armor Mastery;13;15000;40
+233;Light Armor Mastery;14;17000;43
+233;Light Armor Mastery;15;17000;43
+233;Light Armor Mastery;16;17000;43
+233;Light Armor Mastery;17;22000;46
+233;Light Armor Mastery;18;22000;46
+233;Light Armor Mastery;19;22000;46
+233;Light Armor Mastery;20;33000;49
+233;Light Armor Mastery;21;33000;49
+233;Light Armor Mastery;22;33000;49
+233;Light Armor Mastery;23;56000;52
+233;Light Armor Mastery;24;56000;52
+233;Light Armor Mastery;25;56000;52
+233;Light Armor Mastery;26;89000;55
+233;Light Armor Mastery;27;89000;55
+233;Light Armor Mastery;28;89000;55
+233;Light Armor Mastery;29;120000;58
+233;Light Armor Mastery;30;120000;58
+233;Light Armor Mastery;31;120000;58
+208;Bow Mastery;16;15000;40
+208;Bow Mastery;17;15000;40
+208;Bow Mastery;18;15000;40
+208;Bow Mastery;19;17000;43
+208;Bow Mastery;20;17000;43
+208;Bow Mastery;21;17000;43
+208;Bow Mastery;22;22000;46
+208;Bow Mastery;23;22000;46
+208;Bow Mastery;24;22000;46
+208;Bow Mastery;25;33000;49
+208;Bow Mastery;26;33000;49
+208;Bow Mastery;27;33000;49
+208;Bow Mastery;28;56000;52
+208;Bow Mastery;29;56000;52
+208;Bow Mastery;30;56000;52
+208;Bow Mastery;31;89000;55
+208;Bow Mastery;32;89000;55
+208;Bow Mastery;33;89000;55
+208;Bow Mastery;34;120000;58
+208;Bow Mastery;35;120000;58
+208;Bow Mastery;36;120000;58
+19;Double Shot;1;15000;40
+19;Double Shot;2;15000;40
+19;Double Shot;3;15000;40
+19;Double Shot;4;17000;43
+19;Double Shot;5;17000;43
+19;Double Shot;6;17000;43
+19;Double Shot;7;22000;46
+19;Double Shot;8;22000;46
+19;Double Shot;9;22000;46
+19;Double Shot;10;33000;49
+19;Double Shot;11;33000;49
+19;Double Shot;12;33000;49
+19;Double Shot;13;56000;52
+19;Double Shot;14;56000;52
+19;Double Shot;15;56000;52
+19;Double Shot;16;89000;55
+19;Double Shot;17;89000;55
+19;Double Shot;18;89000;55
+19;Double Shot;19;120000;58
+19;Double Shot;20;120000;58
+19;Double Shot;21;120000;58
+101;Stun Shot;4;15000;40
+101;Stun Shot;5;15000;40
+101;Stun Shot;6;15000;40
+101;Stun Shot;7;17000;43
+101;Stun Shot;8;17000;43
+101;Stun Shot;9;17000;43
+101;Stun Shot;10;22000;46
+101;Stun Shot;11;22000;46
+101;Stun Shot;12;22000;46
+101;Stun Shot;13;33000;49
+101;Stun Shot;14;33000;49
+101;Stun Shot;15;33000;49
+101;Stun Shot;16;56000;52
+101;Stun Shot;17;56000;52
+101;Stun Shot;18;56000;52
+101;Stun Shot;19;89000;55
+101;Stun Shot;20;89000;55
+101;Stun Shot;21;89000;55
+101;Stun Shot;22;120000;58
+101;Stun Shot;23;120000;58
+101;Stun Shot;24;120000;58
+113;Long Shot;2;44000;40
+21;Poison Recovery;2;44000;40
+225;Acrobatic Move;2;52000;43
+225;Acrobatic Move;3;260000;55
+171;Esprit;2;52000;43
+171;Esprit;3;67000;46
+171;Esprit;4;100000;49
+171;Esprit;5;160000;52
+169;Quick Step;2;52000;43
+61;Cure Bleeding;2;67000;46
+102;Entangle;2;100000;49
+102;Entangle;3;370000;58
+230;Sprint;2;160000;52
+99;Rapid Shot;2;260000;55
+123;Spirit Barrier;1;44000;40
+123;Spirit Barrier;2;100000;49
+123;Spirit Barrier;3;370000;58
+24;Burst Shot;1;22000;46
+24;Burst Shot;2;22000;46
+24;Burst Shot;3;22000;46
+24;Burst Shot;4;33000;49
+24;Burst Shot;5;33000;49
+24;Burst Shot;6;33000;49
+24;Burst Shot;7;56000;52
+24;Burst Shot;8;56000;52
+24;Burst Shot;9;56000;52
+24;Burst Shot;10;89000;55
+24;Burst Shot;11;89000;55
+24;Burst Shot;12;89000;55
+24;Burst Shot;13;120000;58
+24;Burst Shot;14;120000;58
+24;Burst Shot;15;120000;58

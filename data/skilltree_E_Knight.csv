@@ -1,0 +1,93 @@
+#id;name;level;sp;level
+239;Expertise S;1;0;20
+253;Heavy Armor Mastery;1;1400;20
+253;Heavy Armor Mastery;2;1400;20
+253;Heavy Armor Mastery;3;1400;20
+253;Heavy Armor Mastery;4;2900;24
+253;Heavy Armor Mastery;5;2900;24
+253;Heavy Armor Mastery;6;2900;24
+253;Heavy Armor Mastery;7;5000;28
+253;Heavy Armor Mastery;8;5000;28
+253;Heavy Armor Mastery;9;5000;28
+253;Heavy Armor Mastery;10;8300;32
+253;Heavy Armor Mastery;11;8300;32
+253;Heavy Armor Mastery;12;8300;32
+253;Heavy Armor Mastery;13;13000;36
+253;Heavy Armor Mastery;14;13000;36
+253;Heavy Armor Mastery;15;13000;36
+147;Magic Resistance;1;2100;20
+147;Magic Resistance;2;2100;20
+147;Magic Resistance;3;2900;24
+147;Magic Resistance;4;2900;24
+147;Magic Resistance;5;2900;24
+147;Magic Resistance;6;5000;28
+147;Magic Resistance;7;5000;28
+147;Magic Resistance;8;5000;28
+147;Magic Resistance;9;8300;32
+147;Magic Resistance;10;8300;32
+147;Magic Resistance;11;8300;32
+147;Magic Resistance;12;13000;36
+147;Magic Resistance;13;13000;36
+147;Magic Resistance;14;13000;36
+153;Shield Mastery;1;4100;20
+153;Shield Mastery;2;15000;28
+217;Sword Blunt Mastery;1;4100;20
+217;Sword Blunt Mastery;2;8800;24
+217;Sword Blunt Mastery;3;7500;28
+217;Sword Blunt Mastery;4;7500;28
+217;Sword Blunt Mastery;5;12500;32
+217;Sword Blunt Mastery;6;12500;32
+217;Sword Blunt Mastery;7;19000;36
+217;Sword Blunt Mastery;8;19000;36
+15;Charm;1;1400;20
+15;Charm;2;1400;20
+15;Charm;3;1400;20
+15;Charm;4;2900;24
+15;Charm;5;2900;24
+15;Charm;6;2900;24
+15;Charm;7;5000;28
+15;Charm;8;5000;28
+15;Charm;9;5000;28
+15;Charm;10;8300;32
+15;Charm;11;8300;32
+15;Charm;12;8300;32
+15;Charm;13;13000;36
+15;Charm;14;13000;36
+15;Charm;15;13000;36
+91;Defence Aura;2;4100;20
+58;Elemental Heal;4;1400;20
+58;Elemental Heal;5;1400;20
+58;Elemental Heal;6;1400;20
+58;Elemental Heal;7;2900;24
+58;Elemental Heal;8;2900;24
+58;Elemental Heal;9;2900;24
+58;Elemental Heal;10;5000;28
+58;Elemental Heal;11;5000;28
+58;Elemental Heal;12;5000;28
+58;Elemental Heal;13;8300;32
+58;Elemental Heal;14;8300;32
+58;Elemental Heal;15;8300;32
+58;Elemental Heal;16;13000;36
+58;Elemental Heal;17;13000;36
+58;Elemental Heal;18;13000;36
+21;Poison Recovery;1;4100;20
+110;Ultimate Defence;1;4100;20
+61;Cure Bleeding;1;8800;24
+112;Deflect Arrow;1;8800;24
+112;Deflect Arrow;2;25000;32
+28;Hate;1;2900;24
+28;Hate;2;2900;24
+28;Hate;3;2900;24
+28;Hate;4;5000;28
+28;Hate;5;5000;28
+28;Hate;6;5000;28
+28;Hate;7;8300;32
+28;Hate;8;8300;32
+28;Hate;9;8300;32
+28;Hate;10;13000;36
+28;Hate;11;13000;36
+28;Hate;12;13000;36
+77;Attack Aura;2;15000;28
+230;Sprint;1;25000;32
+191;Focus Mind;1;39000;36
+102;Entangle;1;39000;36

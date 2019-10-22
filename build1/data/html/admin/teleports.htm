@@ -1,0 +1,15 @@
+<html><title>Move to common locations:</title>
+<body><br>
+<a action="bypass -h admin_help tele_towns.html">Towns</a><br>
+<a action="bypass -h admin_help tele_castles.html">Castles</a><br>
+<a action="bypass -h admin_help tele_other.html">Other Places</a><br>
+Move to given Co-ordinates:
+<table>		
+<tr><td>X: <edit var="char_cord_x" width=80></tr></tr>			
+<tr><td>Y: <edit var="char_cord_y" width=80></tr></tr>
+<tr><td>Z: <edit var="char_cord_z" width=80></td></tr>
+</table><p>
+<button value="Teleport Self" action="bypass -h admin_move_to $char_cord_x $char_cord_y $char_cord_z" width=80 height=15>
+<br>
+<center><button value="Back" action="bypass -h admin_show" width=40 height=15></center>
+</body></html>

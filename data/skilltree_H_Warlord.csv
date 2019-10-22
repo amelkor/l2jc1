@@ -1,0 +1,127 @@
+#id;name;level;sp;level 
+239;Expertise C;2;0;40
+239;Expertise B;3;0;52
+212;Fast HP Recovery;3;50000;40
+212;Fast HP Recovery;4;75000;46
+212;Fast HP Recovery;5;190000;52
+212;Fast HP Recovery;6;410000;58
+231;Heavy Armor Mastery;14;17000;40
+231;Heavy Armor Mastery;15;17000;40
+231;Heavy Armor Mastery;16;17000;40
+231;Heavy Armor Mastery;17;22000;43
+231;Heavy Armor Mastery;18;22000;43
+231;Heavy Armor Mastery;19;22000;43
+231;Heavy Armor Mastery;20;25000;46
+231;Heavy Armor Mastery;21;25000;46
+231;Heavy Armor Mastery;22;25000;46
+231;Heavy Armor Mastery;23;48000;49
+231;Heavy Armor Mastery;24;48000;49
+231;Heavy Armor Mastery;25;48000;49
+231;Heavy Armor Mastery;26;62000;52
+231;Heavy Armor Mastery;27;62000;52
+231;Heavy Armor Mastery;28;62000;52
+231;Heavy Armor Mastery;29;100000;55
+231;Heavy Armor Mastery;30;100000;55
+231;Heavy Armor Mastery;31;100000;55
+231;Heavy Armor Mastery;32;140000;58
+231;Heavy Armor Mastery;33;140000;58
+231;Heavy Armor Mastery;34;140000;58
+233;Light Armor Mastery;14;17000;40
+233;Light Armor Mastery;15;17000;40
+233;Light Armor Mastery;16;17000;40
+233;Light Armor Mastery;17;22000;43
+233;Light Armor Mastery;18;22000;43
+233;Light Armor Mastery;19;22000;43
+233;Light Armor Mastery;20;25000;46
+233;Light Armor Mastery;21;25000;46
+233;Light Armor Mastery;22;25000;46
+233;Light Armor Mastery;23;48000;49
+233;Light Armor Mastery;24;48000;49
+233;Light Armor Mastery;25;48000;49
+233;Light Armor Mastery;26;62000;52
+233;Light Armor Mastery;27;62000;52
+233;Light Armor Mastery;28;62000;52
+233;Light Armor Mastery;29;100000;55
+233;Light Armor Mastery;30;100000;55
+233;Light Armor Mastery;31;100000;55
+233;Light Armor Mastery;32;140000;58
+233;Light Armor Mastery;33;140000;58
+233;Light Armor Mastery;34;140000;58
+121;Battle Roar;2;50000;40
+121;Battle Roar;3;140000;49
+121;Battle Roar;4;410000;58
+87;Detect Animal Weakness;1;50000;40
+48;Thunder Storm;1;17000;40
+48;Thunder Storm;2;17000;40
+48;Thunder Storm;3;17000;40
+48;Thunder Storm;4;22000;43
+48;Thunder Storm;5;22000;43
+48;Thunder Storm;6;22000;43
+48;Thunder Storm;7;25000;46
+48;Thunder Storm;8;25000;46
+48;Thunder Storm;9;25000;46
+48;Thunder Storm;10;48000;49
+48;Thunder Storm;11;48000;49
+48;Thunder Storm;12;48000;49
+48;Thunder Storm;13;62000;52
+48;Thunder Storm;14;62000;52
+48;Thunder Storm;15;62000;52
+48;Thunder Storm;16;100000;55
+48;Thunder Storm;17;100000;55
+48;Thunder Storm;18;100000;55
+48;Thunder Storm;19;140000;58
+48;Thunder Storm;20;140000;58
+48;Thunder Storm;21;140000;58
+36;Whirlwind;1;17000;40
+36;Whirlwind;2;17000;40
+36;Whirlwind;3;17000;40
+36;Whirlwind;4;22000;43
+36;Whirlwind;5;22000;43
+36;Whirlwind;6;22000;43
+36;Whirlwind;7;25000;46
+36;Whirlwind;8;25000;46
+36;Whirlwind;9;25000;46
+36;Whirlwind;10;48000;49
+36;Whirlwind;11;48000;49
+36;Whirlwind;12;48000;49
+36;Whirlwind;13;62000;52
+36;Whirlwind;14;62000;52
+36;Whirlwind;15;62000;52
+36;Whirlwind;16;100000;55
+36;Whirlwind;17;100000;55
+36;Whirlwind;18;100000;55
+36;Whirlwind;19;140000;58
+36;Whirlwind;20;140000;58
+36;Whirlwind;21;140000;58
+216;Polearm Mastery;9;17000;40
+216;Polearm Mastery;10;17000;40
+216;Polearm Mastery;11;17000;40
+216;Polearm Mastery;12;22000;43
+216;Polearm Mastery;13;22000;43
+216;Polearm Mastery;14;22000;43
+216;Polearm Mastery;15;25000;46
+216;Polearm Mastery;16;25000;46
+216;Polearm Mastery;17;25000;46
+216;Polearm Mastery;18;48000;49
+216;Polearm Mastery;19;48000;49
+216;Polearm Mastery;20;48000;49
+216;Polearm Mastery;21;62000;52
+216;Polearm Mastery;22;62000;52
+216;Polearm Mastery;23;62000;52
+216;Polearm Mastery;24;100000;55
+216;Polearm Mastery;25;100000;55
+216;Polearm Mastery;26;100000;55
+216;Polearm Mastery;27;140000;58
+216;Polearm Mastery;28;140000;58
+216;Polearm Mastery;29;140000;58
+211;Boost HP;4;65000;43
+211;Boost HP;5;140000;49
+211;Boost HP;6;300000;55
+116;Howl;1;65000;43
+116;Howl;2;190000;52
+104;Detect Plant Weakness;1;75000;46
+130;Thrill Fight;1;75000;46
+130;Thrill Fight;2;300000;55
+80;Detect Monster Weakness;1;190000;52
+181;Revival;1;300000;55
+88;Detect Dragon Weakness;1;410000;58

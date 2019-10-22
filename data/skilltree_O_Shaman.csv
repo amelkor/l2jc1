@@ -1,0 +1,94 @@
+#id;name;level;sp;level
+239;Expertise D;1;0;20
+146;Anti Magic;5;1600;20
+146;Anti Magic;6;1600;20
+213;Boost Mana;1;3300;20
+231;Heavy Armor Mastery;3;1600;20
+231;Heavy Armor Mastery;4;1600;20
+233;Light Armor Mastery;5;1600;20
+233;Light Armor Mastery;6;1600;20
+164;Quick Recovery;1;3300;20
+234;Robe Mastery;5;1600;20
+234;Robe Mastery;6;1600;20
+249;Weapon Mastery;3;3300;20
+1006;Chant of Fire;1;3300;20
+1229;Chant of Life;1;3300;20
+1009;Chant of Shielding;1;3300;20
+1107;Frost Flame;1;3300;20
+1090;Life Drain;3;3300;20
+1105;Madness;1;3300;20
+1209;Seal of Poison;1;3300;20
+100;Stun Attack;1;1100;20
+100;Stun Attack;2;1100;20
+100;Stun Attack;3;1100;20
+1095;Venom;3;3300;20
+146;Anti Magic;7;3400;25
+146;Anti Magic;8;3400;25
+229;Fast Mana Recovery;1;6900;25
+228;Fast Spell Casting;1;6900;25
+231;Heavy Armor Mastery;5;3400;25
+231;Heavy Armor Mastery;6;3400;25
+233;Light Armor Mastery;7;3400;25
+233;Light Armor Mastery;8;3400;25
+234;Robe Mastery;7;3400;25
+234;Robe Mastery;8;3400;25
+1001;Soul Cry;3;6900;25
+249;Weapon Mastery;4;3400;25
+249;Weapon Mastery;5;3400;25
+1102;Aura Sink;1;6900;25
+1101;Blaze Quake;1;6900;25
+1007;Chant of Battle;2;6900;25
+1229;Chant of Life;2;6900;25
+1097;Dreaming Spirit;2;6900;25
+1208;Seal of Binding;1;6900;25
+1010;Soul Shield;2;6900;25
+100;Stun Attack;4;2300;25
+100;Stun Attack;5;2300;25
+100;Stun Attack;6;2300;25
+146;Anti Magic;9;6600;30
+146;Anti Magic;10;6600;30
+213;Boost Mana;2;13000;30
+231;Heavy Armor Mastery;7;6600;30
+231;Heavy Armor Mastery;8;6600;30
+233;Light Armor Mastery;9;6600;30
+233;Light Armor Mastery;10;6600;30
+164;Quick Recovery;2;13000;30
+234;Robe Mastery;9;6600;30
+234;Robe Mastery;10;6600;30
+249;Weapon Mastery;6;6600;30
+249;Weapon Mastery;7;6600;30
+1002;Chant of Flame;1;13000;30
+1229;Chant of Life;3;13000;30
+1009;Chant of Shielding;2;13000;30
+1092;Fear;2;13000;30
+1107;Frost Flame;2;13000;30
+1003;Power of Paagrio;1;13000;30
+1096;Seal of Chaos;1;13000;30
+1209;Seal of Poison;2;13000;30
+100;Stun Attack;7;4400;30
+100;Stun Attack;8;4400;30
+100;Stun Attack;9;4400;30
+146;Anti Magic;11;11000;35
+146;Anti Magic;12;11000;35
+212;Fast HP Recovery;1;22000;35
+229;Fast Mana Recovery;2;22000;35
+231;Heavy Armor Mastery;9;11000;35
+231;Heavy Armor Mastery;10;11000;35
+233;Light Armor Mastery;11;11000;35
+233;Light Armor Mastery;12;11000;35
+234;Robe Mastery;11;11000;35
+234;Robe Mastery;12;11000;35
+1001;Soul Cry;4;22000;35
+249;Weapon Mastery;8;11000;35
+249;Weapon Mastery;9;11000;35
+1102;Aura Sink;2;22000;35
+1101;Blaze Quake;2;22000;35
+1005;Blessing of Paagrio;1;22000;35
+1229;Chant of Life;4;22000;35
+1105;Madness;2;22000;35
+1208;Seal of Binding;2;22000;35
+1099;Seal of Slow;1;22000;35
+1010;Soul Shield;3;22000;35
+100;Stun Attack;10;7200;35
+100;Stun Attack;11;7200;35
+100;Stun Attack;12;7200;35

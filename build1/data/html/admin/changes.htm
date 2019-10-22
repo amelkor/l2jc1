@@ -1,0 +1,83 @@
+<html><title>Server Changes</title><body><br>
+<center>04.jul.2004 - changes since version 0.1</center>
+gameserver:
+<ul>
+<li>added logging code. you can define loglevels for console output and file log.</li>
+<li>all-chat is now only local, shout-chat and trade-chat is global.</li>
+<li>tell to online players is possible, using " like on the official servers.</li>
+<li>npc bug that froze your movement is fixed.</li>
+<li>network packets are buffered to be sent in one tcp-packet.</li>
+<li>password are not stored on the server any more, only the hash is stored.</li>
+<li>partymatching is implemented to provide a nice "who" function... however the client limits the number of displayed players to 40
+.</li>
+<li>party system is started... it doesnt work 100% yet.</li>
+<li>trader npcs now get targetted before interaction (like it should be).</li>
+<li>exp and sp is awarded when monsters are killed. system is not complete yet.</li>
+<li>skilltrees for all classes are used, but most are still empty (feel free to provide updated files).</li>
+<li>router support, you can define local and external IP of server.</li>
+<li>configurable user limit is enforced.</li>
+<li>mobs can drop adena randomly.</li>
+<li>adena pickup bug is fixed. now all adena is summed as it should be.</li>
+</ul>
+<br>
+tools:
+<ul>
+<li>updateIni is now compatible with US version of client.</li>
+</ul>
+<br>
+<center>05.jul.2004</center>
+gameserver:
+<ul>
+<li>access levels are now stored for all logins. this allows to restrict GM functions.</li>
+<li>first draft of the new admin interface contributed by BlurCode.</li>
+</ul>
+<br>
+<center>07.jul.2004</center>
+gameserver:
+<ul>
+<li>npcs now can have html pages assigned to them (NightMarez)</li>
+<li>admin interfaced extended (BlurCode)</li>
+<li>pAtk calculation added (MetalRabbit)<7li>
+</ul>
+<center>08.jul.2004</center>
+gameserver:
+<ul>
+<li>teleporter npc implemented (NightMarez and NuocNam)</li>
+</ul>
+<br>
+<center>09.jul.2004</center>
+gameserver:
+<ul>
+<li>Guard npc implemented (NuocNam)</li>
+<li>workaround to allow connections to 127.0.0.1 in parallel to external ip, for bad routers (whatev)</li>
+<li>packet improvement for buying items (whatev)</li>
+</ul>
+<br>
+<center>11.jul.2004</center>
+gameserver:
+<li>monster hp, lvl working as regular servers.  (NightMarez)</li>
+<li>monster gives exp, spellpower as regular servers.  (NightMarez)</li>
+<li>monster dmg working + random damage (random dmg = 0 to lvl of monster).  (NightMarez)</li>
+<li>monster can now drop 1 item at low rate (any item taken randomly from all item files together)  (NightMarez)</li>
+<li>monsters adena drop have been correctet to better math.  (NightMarez)</li>
+<li>If attacked, monsters now stop moving away.  (L2Chef)</li>
+<li>npc2.cvs added. it contains additional monsters stats.  (L2Chef)</li>
+<li>non-items cannot be picked up any more. this was causing crashes.  (L2Chef)</li>
+<li>guards attack PKs and defend themselves.  (NuocNam)</li>
+<li>guards return to their initial position after they killed PKs. (NuocNam)</li>
+</ul>
+<br>
+<center>12.jul.2004</center>
+gameserver:
+<li>monster disappear bug should be fixed (L2Chef)</li>
+<li>social actions are broadcasted now (L2Chef)</li>
+<li>item pickups are broadcasted now (L2Chef)</li>
+<li>multiple attacks on same mob is not possible any more (L2Chef)</li>
+<li>warehouses added (NuocNam)</li>
+<li>chars are now stored in accounts folder (L2Chef)</li>
+</ul>
+
+
+
+
+</body></html>

@@ -1,0 +1,120 @@
+#id;name;level;sp;level 
+239;Expertise S;1;0;20
+208;Bow Mastery;1;1000;20
+208;Bow Mastery;2;1000;20
+208;Bow Mastery;3;1000;20
+208;Bow Mastery;4;1900;24
+208;Bow Mastery;5;1900;24
+208;Bow Mastery;6;1900;24
+208;Bow Mastery;7;3300;28
+208;Bow Mastery;8;3300;28
+208;Bow Mastery;9;3300;28
+208;Bow Mastery;10;5600;32
+208;Bow Mastery;11;5600;32
+208;Bow Mastery;12;5600;32
+208;Bow Mastery;13;9400;36
+208;Bow Mastery;14;9400;36
+208;Bow Mastery;15;9400;36
+15;Charm;1;1000;20
+15;Charm;2;1000;20
+15;Charm;3;1000;20
+15;Charm;4;1900;24
+15;Charm;5;1900;24
+15;Charm;6;1900;24
+15;Charm;7;3300;28
+15;Charm;8;3300;28
+15;Charm;9;3300;28
+15;Charm;10;5600;32
+15;Charm;11;5600;32
+15;Charm;12;5600;32
+15;Charm;13;9400;36
+15;Charm;14;9400;36
+15;Charm;15;9400;36
+58;Elemental Heal;4;1000;20
+58;Elemental Heal;5;1000;20
+58;Elemental Heal;6;1000;20
+58;Elemental Heal;7;1900;24
+58;Elemental Heal;8;1900;24
+58;Elemental Heal;9;1900;24
+58;Elemental Heal;10;3300;28
+58;Elemental Heal;11;3300;28
+58;Elemental Heal;12;3300;28
+58;Elemental Heal;13;5600;32
+58;Elemental Heal;14;5600;32
+58;Elemental Heal;15;5600;32
+58;Elemental Heal;16;9400;36
+58;Elemental Heal;17;9400;36
+58;Elemental Heal;18;9400;36
+233;Light Armor Mastery;1;1500;20
+233;Light Armor Mastery;2;1500;20
+233;Light Armor Mastery;3;2900;24
+233;Light Armor Mastery;4;2900;24
+233;Light Armor Mastery;5;5000;28
+233;Light Armor Mastery;6;5000;28
+233;Light Armor Mastery;7;8300;32
+233;Light Armor Mastery;8;8300;32
+233;Light Armor Mastery;9;14000;36
+233;Light Armor Mastery;10;14000;36
+16;Mortal Blow;10;1000;20
+16;Mortal Blow;11;1000;20
+16;Mortal Blow;12;1000;20
+16;Mortal Blow;13;1900;24
+16;Mortal Blow;14;1900;24
+16;Mortal Blow;15;1900;24
+16;Mortal Blow;16;3300;28
+16;Mortal Blow;17;3300;28
+16;Mortal Blow;18;3300;28
+16;Mortal Blow;19;5600;32
+16;Mortal Blow;20;5600;32
+16;Mortal Blow;21;5600;32
+16;Mortal Blow;22;9400;36
+16;Mortal Blow;23;9400;36
+16;Mortal Blow;24;9400;36
+56;Power Shot;10;1000;20
+56;Power Shot;11;1000;20
+56;Power Shot;12;1000;20
+56;Power Shot;13;1900;24
+56;Power Shot;14;1900;24
+56;Power Shot;15;1900;24
+56;Power Shot;16;3300;28
+56;Power Shot;17;3300;28
+56;Power Shot;18;3300;28
+56;Power Shot;19;5600;32
+56;Power Shot;20;5600;32
+56;Power Shot;21;5600;32
+56;Power Shot;22;9400;36
+56;Power Shot;23;9400;36
+56;Power Shot;24;9400;36
+173;Acrobat;1;3100;20
+195;Boost Breath;1;3100;20
+91;Defence Aura;2;3100;20
+61;Cure Bleeding;1;5900;24
+21;Poison Recovery;1;5900;24
+77;Attack Aura;2;10000;28
+111;Ultimate Evasion;1;10000;28
+230;Sprint;1;16000;32
+113;Long Shot;1;3100;20
+27;Unlock;1;3100;20
+27;Unlock;2;10000;28
+27;Unlock;3;28000;36
+256;Accuracy;1;5900;24
+198;Boost Evasion;1;5900;24
+209;Dagger Mastery;1;3100;20
+209;Dagger Mastery;2;5900;24
+209;Dagger Mastery;3;5000;28
+209;Dagger Mastery;4;5000;28
+209;Dagger Mastery;5;8300;32
+209;Dagger Mastery;6;8300;32
+209;Dagger Mastery;7;14000;36
+209;Dagger Mastery;8;14000;36
+96;Bleed;1;5900;24
+96;Bleed;2;16000;32
+225;Acrobatic Move;1;10000;28
+171;Esprit;1;28000;36
+169;Quick Step;1;10000;28
+137;Critical Chance;1;16000;32
+102;Entangle;1;28000;36
+101;Stun Shot;1;9400;36
+101;Stun Shot;2;9400;36
+101;Stun Shot;3;9400;36
+99;Rapid Shot;1;16000;32

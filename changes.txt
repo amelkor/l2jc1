@@ -1,0 +1,408 @@
+23.oct.2004
+- fixed buy-shop exploit. thanks to Nightblade for reporting this (L2Chef)
+- charname search is not casesensitive any more. (L2Chef)
+- shortcuts will be updated after upgrading a skill (DETH)
+- fixed class change problem (Trigunflame/L2Chef)
+- pets are now unsummoned instead of being deleted when player dies (L2Chef)
+- temporary fix for drops that fall thru floor (L2Chef)
+- monster target scan is called 20 times less often to reduce cpu load (L2Chef)
+
+22.oct.2004 
+- some GM packets added. ALT-G works correct now. (L2Chef)
+- fixed exploit in itembuylist. thanks to tekker for pointing this out (L2Chef)
+
+21.oct.2004
+- introduced AttackCanceld packet (nuocnam)
+- attack animation is canceled properly when player moves (nuocnam)
+- Target being attacked is stored internally in L2Character, so using setTarget(null)
+  (notably after pressing esc key) won't cease attack. This also prevents few minor exploits 
+  while changing targets quick during combat. (nuocnam)
+- skill animation is canceled properly when changing target during casting 
+  (not only when setting target to null) (nuocnam)
+- small bugfixes in L2Character and L2PcInstance to prevent client hangups when starting 
+  attack while target is not in attack range (dragon666, nuocnam)
+- updatePAtk(), updateMatk(), updatePDef() and updateMDef() methods corrected. Few unused & buggy statements removed.
+  Methods no longer use dummy values as defaults, but they look on values from template table. (nuocnam)
+=>IMPORTANT: This WILL change players stats (notably pdef/mdef) on first recalculation.
+  ALL PLAYERS SHOULD UNEQUIP & REEQUIP THEIR GEAR AFTER LOGIN ASAP TO AVOID ANY PROBLEMS!!
+  (100th commit to changes.txt btw ;)
+- added "UPDATING" section to readme.txt (nuocnam)
+- warehouse no longer shows items you don't really have when trying to deposit items (DETH)
+  
+20.oct.2004
+- STATE_INTERACT is now used for interaction between npc to pc and pc to pc. pc follow pc now works (whatev)
+- Players now remember L2NpcInstance they interact with before moving, 
+  so getTarget() is not used when they reach INTERACTION_DISTANCE (nuocnam)
+- Target is now passed to skill handlers. No skill handler should use activeChar.getTarget() ever (nuocnam)
+- Temporary removed newTarget and anything related ot it. Seems that check done in L2NpcInstance in 
+  onAction is not necessary as attack handler refuses to attack twice elsewhere. (nuocnam)
+- player can no longer move while casting a spell/using a skill (dragon666)
+- Introduced MagicSkillCanceld packet (nuocnam)
+- Casting magic/using skill can be stopped by pressing esc key (dragon666, nuocnam)
+
+19.oct.2004
+- added note about //invul in readme
+- removed unnecessary & buggy class casts from removeAllKnownObjects() in L2Object
+  you should no longer crash when you tele and there was some visible item near on the ground (nuocnam)
+  
+17.oct.2004
+- adena is no longer reduced twice when dropping it (L2Chef)
+- adena is no longer duped when moving from pet to player (L2Chef)
+- admin function "modify players inventory" is disabled due to internal changes (L2Chef)
+- fixed getSpReward() in L2NpcInstance (Myrdos)
+- few optimizations in L2Party (dragon666)
+
+15.oct.2004
+- interaction distances put to 50 instead of 150 (nuocnam)
+- removed some unnecessary code in L2PcInstance (nuocnam)
+- interaction distances put bac to 150 as 50 was too close for some merchants (nuocnam)
+
+14.oct.2004
+- set&getNewTarget methods from L2PcInstance works with L2Object now (nuocnam)
+- fixed bug where player had to attack a monster before being able to cast a spell on it (nuocnam)
+- added a note about rates to README.txt (nuocnam)
+
+13.oct.2004
+- new README.txt. Should be valable for upcoming 0.4 release so READ IT before asking anything ;) (nuocnam)
+
+11.oct.2004
+- introduced GmListTable class that stores list of all online GM's and handles GM related events (nuocnam)
+- introduced SendBypassBuildCmd packet to handle GM commands (trigerred by "//command") (nuocnam)
+- all GM commands moved from Say2 to SendBypassBuildCmd (nuocnam)
+  ==> .admin DO NOT work. Use //admin instead, same goes to all "." commands requiring admin access
+- players can list all online GM's by /gmlist (nuocnam)
+- GM can send text to all online GM's by "//gmchat text" (nuocnam)
+
+8.oct.2004
+- corrected MENbonus calculation in L2PcInstance (nuocnam)
+- fixed exp attribution so you get correct XP when fighting stronger monsters (nuocnam)
+- fixed mobs stop attacking bug which meant changing onattack and onhittimer.
+  bowtimer is no more. items can't be equiped while in combat.(whatev)
+
+6.oct.2004
+- added default announcements.txt (nuocnam)
+
+5.oct.2004
+- Party level is recalculated after levelup (if character is in party) (nuocnam)
+- pets and npcs can now fight properly both remove knownobjects properly based on distance and death.(whatev)
+- Players only update known in validate position based on a counter same with pets.(whatev)
+- added some minor null exception fixes.(whatev)
+
+3.oct.2004
+-changed movement system to purely timer based. Now any npc should be able to follow any other.
+ Position listener has been removed.(whatev)
+
+1.oct.2004
+- server rates added to main community board page (DETH)
+- you should be able to buy stuff from GMshop again (nuocnam)
+
+30.sep.2004
+- rate controller for item drop rate added (DETH)
+- minor bugfix for warlord class (the-Nightblade)
+- added interaction distance checks (L2Trainer & L2ClassMaster don't check in onBypassFeedback for now)
+  L2ClassMasters will be removed anyways and L2Trainer needs some changes :p (sh1ny, nuocnam)
+- added some javadoc (nuocnam)
+- fixed RequestBuyItem so player can't buy stuff when he has 0 adena. (nuocnam)
+- Gain more levels/one kill possible. patk/matk/pdef/mdef recalculated on lvlup. (Franck, nuocnam)
+- Fixed minor bug in MP gain calculation (nuocnam)
+
+29.sep.2004
+- minor bugfix in updateMAtk() (nuocnam)
+
+28.sep.2004
+- Famous full armor bug fixed (L2Chef)
+- EquipUpdate packets removed, as they are not required by C1 client any more (L2Chef)
+- Corrected all missing/incomplete headers, javadoc comments for classes and copyright notices (nuocnam)
+
+27.sep.2004
+- reduced prive overflow risk in RequestBuyItem (L2Chef)
+- moved all party related stuff to L2Party class (nuocnam)
+- changed formulas for calculating party XP&SP gain (nuocnam)
+- added new party system messages (nuocnam)
+- corrected non final constants in SystemMessage class (nuocnam)
+- removed few unused getters & setters from PartySmallWindowAll packet (nuocnam)
+
+26.sep.2004
+- fixed adena dupe bug when dropping all adena and picking up again (L2Chef)
+- added possibility to define banned IP addresses. (L2Chef)
+- added hacking protection. IP will be banned automatically after 3 failed login attempts. (L2Chef)
+- added negative adena check in RequestBuyItem (badk0re)
+- changed some system messages to use constants instead of numbers (nuocnam)
+
+25.sep.2004
+- community board players list fixed. (DETH)
+
+24.sep.2004
+-showing error when the files generated by the dataextractor are missing. (lithium)
+
+23.sep.2004
+-fixed party xp problem
+
+22.sep.2004
+- Reverted ClanTable changes, so titles are not stored in clan data files (nuocnam)
+
+21.sep.2004
+- skills work right during fights now (DETH)
+- right skill for right weapon check added (DETH)
+
+20.sep.2004
+- Pets can now attack again after the changes to the attack system. (Dalrond)
+- Pets should now report exp and level up correctly. Level up graphic effect isnt triggered yet though. (Dalrond)
+- Added several useful admin commands and fixes from user contributions (Zao, Franck, Dalrond)
+
+19.sep.2004
+- small board & clan fixies (sh1ny)
+- mobs no longer get eachother added to their known objects when spawned (whatev)
+- minor fixs for some packets not being sent on pick up and death.(whatev)
+- user with access level 50+ can log in even if server is full (miegalius, nuocnam)
+- .invul command for admins (sh1ny)
+- loot system added for party (whatev)
+- Corrected Tyrant & Destroyer class (sh1ny)
+- Small mp add fix (sh1ny)
+- Introduced configurable exp, sp and adena rates (myrdos, nuocnam)
+- party xp sp works (whatev)
+- mobs in world now appear to you when they spawn (whatev)
+- Fixed several incompatibility problems with pet code and new changes. Attack still broken. (Dalrond)
+
+18.sep.2004
+- some guard logging moved to finer level (nuocnam)
+- added try/catch block to RequestBypassToServer packet handler so client won't crash on bad bypass (nuocnam)
+- added private store buy/sell (whatev)
+
+17.sep.2004
+- fixed possible memory leaks caused by _positionListeners(L2PcInstance) (Natiels, L2Chef, nuocnam)
+- changed regen timer to 3 sec like real server and put in a rate i calculated on real server.(L2Character) (Whatev)
+
+16.sep.2004
+- added /sit, /stand, /walk, /run (Deth)
+- fixed a bug in .announce (Deth)
+- chars shouldn't freeze during attacks now (new code) (Deth)
+- multi hit by pc and npc fixed (new code) (Deth)
+- added fist attacks (no weapon) (new code) (Deth)
+- modified the attack system heavily (Deth)
+- fixed the arrows (Deth)
+- community board added (Deth)
+- dual weapons work right now (Deth)
+- shift-click is now different for admins and normal users (Deth)
+- .time removed, game time check added to community board (Deth)
+- you can now target a player you just killed (Deth)
+- using bows consumes mp (Deth)
+- npcs respawn more than twice (Deth)
+- skill handler fixed (except right skill for right weapon check - need more data) (Deth)
+- old connection is dropped if you try to log in and account is already in use (nuocnam)
+- changes.txt now has reverse order, so new entries are on top (nuocnam)
+- pets now earn exp and level up (Still needs work. Exp boosted for testing) (Dalrond)
+- decay timer added for when pets die (not full 3 mins yet since no res spell) (Dalrond)
+- pets drop all items on the ground when they decay (Dalrond)
+- returned pets give all items to owner. If the owner cant carry them they drop (Dalrond)
+- control item is destroyed when a pet dies (Dalrond)
+
+17.aug.2004
+- correct arrows are equipped with Bow (Deth/L2Chef)
+- bows use arrows now (Deth/L2Chef)
+- attackspeed is used on weapons (Deth) ... yes this is works inverted at the moment... dont complain about it
+- Party chat added (Deth)
+- mp and hp requirements are checked before casting (L2Chef)
+
+16.aug.2004
+- skill/magic handler added (Angel Kira)
+- Class change NPC added (Angel Kira)
+
+12.aug.2004
+- pet auto follow added (Deth)
+- additional target checks (Deth)
+- player cannot attack monsters that are too far away in z coord (L2Chef)
+
+11.aug.2004
+- Trainers can now have texts just like the other NPCs (LittleVexy)
+- NPCs give a message to players if their html file is missing (L2Chef)
+- attempt to fix concurrent modification .. needs testing, feedback to forum (L2Chef)
+- Clan chat should work now (L2Chef)
+- multiple attacks of aggro monsters should not happen any more (L2Chef)
+
+10.aug.2004
+- trade transactions closed when one trader disconnects (whatev)
+- dismiss/invite clan member should now have instant effect to all other clan members (L2Chef)
+
+09.aug.2004
+- clan crests can be uploaded (L2Chef)
+- kicking clan members added (L2Chef)
+
+08.aug.2004
+- fixed transaction handling for party and trades (L2Chef)
+- added missing system messages when trading (L2Chef)
+- some bugfixes to trade system (L2Chef)
+- clan creation added (NuocNam)
+
+07.aug.2004
+- refactored L2Npc. L2NpcData and L2DropData were merged into it (L2Chef)
+- Item Drop calculation based on drop tables added (LittleVexy)
+- most data files replaced by Example files (L2Chef)
+- healing/mana potion handler added (iamwookie)
+
+05.aug.2004
+- cursor movement added (Deth)
+- player trading added (whatev)
+
+04.aug.2004
+- reference prices for items added (Deth)
+- announcement edit uses multiline (Deth)
+- revive/SoE locations for dwarf and orc fixed (NuocNam)
+- freeze when clicking on a very near player fixed (L2Chef)
+- multiple pickup of item fixed (L2Chef)
+- several actions prevented when char is dead (L2Chef)
+
+02.aug.2004
+- freeze problem when attacking NPC prevented (L2Chef)
+- not dying monsters fixed (L2Chef)
+- multiple times spawning prevented (L2Chef)
+
+01.aug.2004
+- added distance check for item drop (Nightmarez)
+- different solution to duplicate item when dropping (L2Chef)
+
+30.jul.2004
+- escape scroll and revive use maptiles to find right destination (NuocNam)
+- player status is updated when destroying equipped items (NuocNam)
+- skilltrees for level 40+ classes are used now (NuocNam)
+
+29.jul.2004
+- PDef/MDef calculation added (NuocNam)
+- MAtk calculation added (Nightmarez)
+- MAtk gets updated when changing item (Nightmarez)
+- PAtk/PDef/MDef gets updates when changing items (NuocNam)
+- Damage calculation considers PDef (NuocNam)
+- Adena cannot be stored in warehouse any more (NuocNam)
+- Announcements added (Deth)
+
+28.jul.2004
+- destroy item bug fixed (NuocNam)
+- patk formula updated (nightmarez)
+- expertises are now automatically rewarded (nightmarez)
+- attacking yourself is not possible any more (NuocNam)
+- fix for client crash when picking up item twice (whatev)
+- selling to vendors added (Deth)
+- announcement added (Deth)
+- bug in deleting pet fixed (whatev)
+- echoing say text should be fixed (L2Chef)
+
+25.jul.2004
+- aggressive NPC code refactored and guards fixed (NuocNam)
+- pet system added (whatev)
+
+24.jul.2004
+- fixed items on shortcutbar when loading a char (L2Chef)
+- moving objects are now moving when they come into viewrange (NuocNam)
+- charnames are now checked for duplicates when creating char (Deth)
+- warehouse file is now deleted when deleting a char (Deth)
+- correct ingame time is managed (Deth/L2Chef)
+- ingame time can be displayed with .time command
+
+23.jul.2004
+- fixed multi attack bug of aggro mobs (L2Chef)
+
+22.jul.2004
+- respawning is implemented (world.csv is not used any more)   (NightMarez/L2Chef)
+- gmshops fixed (L2Chef)
+- objects are now visible directly after revive/teleport (L2Chef)
+
+18.jul.2004
+- soulshots can be used (MetalRabbit/L2Chef)
+- aggressive mobs attack players if they are near (FTPW)
+- party stuff is working 100% (whatev/L2Chef)
+- npc2.csv nearly complete (Deth)
+- PvP is now possible (L2Chef)
+- attacking mobs change to running speed (L2Chef/FTPW)
+- player corpses dont decay when dead (L2Chef)
+- mob follow code corrected, might cause a lot of CPU load (L2Chef)
+
+17.jul.2004
+- weight load is now updated when destroying items, storing in warehous (NuocNam)
+- major change in movement code. this fixes a bug in the movement with offset which is needed for attacking (L2Chef)
+- ranged attackers are not warped to the target any more (L2Chef)
+- all timers are now crash safe (L2Chef)
+- forced attacks are now possible... try it on a guard :) (L2Chef)
+
+16.jul.2004
+- learning skills reduces SP, and you cannot learn if you dont have enough. (Nuoc-Nam)
+- equip/unequip of items can be seen by other players (L2Chef)
+- mob spawn pages added to admin interface (Deth)
+- npc2.csv updated with more up to date values (Deth)
+- item creation added to admin interface (Wookie/Tridus)
+- account manager added (NuocNam)
+
+14.jul.2004
+- New Exp, Sp income formula, based on real servers formula (NightMarez)
+- Hp gain at lvl up, Mp gain at lvl up, based on class (most are correct, only starter classes)  (NightMarez)
+- AdminCommands refactored, button graphics added, spawns work correct now  (L2Chef)
+- item drop rate decreased (L2Chef)
+- rubberband effect when attacking fixed (L2Chef)
+- player position is now correct when revived (L2Chef)
+
+13.jul.2004
+- edited admin html pages - looks nicer (Leon)
+- added better explanaition for server.cfg (Leon)
+- more admin commands (blurcode)
+
+12.jul.2004
+gameserver:
+- monster disappear bug should be fixed (L2Chef)
+- social actions are broadcasted now (L2Chef)
+- item pickups are broadcasted now (L2Chef)
+- multiple attacks on same mob is not possible any more (L2Chef)
+- warehouses added (NuocNam)
+- chars are now stored in accounts folder (L2Chef)
+
+11.jul.2004
+gameserver:
+- monster hp, lvl working as regular servers.  (NightMarez)
+- monster gives exp, spellpower as regular servers.  (NightMarez)
+- monster dmg working + random damage (random dmg = 0 to lvl of monster).  (NightMarez)
+- monster can now drop 1 item at low rate (any item taken randomly from all item files together)  (NightMarez)
+- monsters adena drop have been correctet to better math.  (NightMarez)
+- If attacked, monsters now stop moving away.  (L2Chef)
+- npc2.cvs added. it contains additional monsters stats.  (L2Chef)
+- non-items cannot be picked up any more. this was causing crashes.  (L2Chef)
+- guards attack PKs and defend themselves.  (NuocNam)
+- guards return to their initial position after they killed PKs. (NuocNam)
+
+09.jul.2004
+gameserver:
+- Guard npc implemented (NuocNam)
+- workaround to allow connections to 127.0.0.1 in parallel to external ip, for bad routers (whatev)
+- packet improvement for buying items (whatev)
+
+08.jul.2004
+gameserver:
+- teleporter npc implemented (NightMarez and NuocNam)
+
+07.jul.2004
+gameserver:
+- npcs now can have html pages assigned to them (NightMarez)
+- admin interfaced extended (BlurCode)
+- pAtk calculation added (MetalRabbit)
+
+05.jul.2004
+gameserver:
+- access levels are now stored for all logins. this allows to restrict GM functions
+- first draft of the new admin interface contributed by BlurCode
+
+04.jul.2004  changes since version 0.1
+gameserver:
+- added logging code. you can define loglevels for console output and file log.
+- all-chat is now only local, shout-chat and trade-chat is global
+- tell to online players is possible, using " like on the official servers
+- npc bug that froze your movement is fixed
+- network packets are buffered to be sent in one tcp-packet
+- password are not stored on the server any more, only the hash is stored
+- partymatching is implemented to provide a nice "who" function... however the client limits the number of displayed players to 40
+- party system is started... it doesnt work 100% yet
+- trader npcs now get targetted before interaction (like it should be)
+- exp and sp is awarded when monsters are killed. system is not complete yet
+- skilltrees for all classes are used, but most are still empty (feel free to provide updated files)
+- router support, you can define local and external IP of server
+- configurable user limit is enforced
+- mobs can drop adena randomly
+- adena pickup bug is fixed. now all adena is summed as it should be
+tools:
+- updateIni is now compatible with US version of client

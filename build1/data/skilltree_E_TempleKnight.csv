@@ -1,0 +1,179 @@
+#id;name;level;sp;level
+239;Expertise S;2;0;40
+239;Expertise S;3;0;52
+232;Heavy Armor Mastery;16;11000;40
+232;Heavy Armor Mastery;17;11000;40
+232;Heavy Armor Mastery;18;11000;40
+232;Heavy Armor Mastery;19;14000;43
+232;Heavy Armor Mastery;20;14000;43
+232;Heavy Armor Mastery;21;14000;43
+232;Heavy Armor Mastery;22;18000;46
+232;Heavy Armor Mastery;23;18000;46
+232;Heavy Armor Mastery;24;18000;46
+232;Heavy Armor Mastery;25;28000;49
+232;Heavy Armor Mastery;26;28000;49
+232;Heavy Armor Mastery;27;28000;49
+232;Heavy Armor Mastery;28;50000;52
+232;Heavy Armor Mastery;29;50000;52
+232;Heavy Armor Mastery;30;50000;52
+232;Heavy Armor Mastery;31;80000;55
+232;Heavy Armor Mastery;32;80000;55
+232;Heavy Armor Mastery;33;80000;55
+232;Heavy Armor Mastery;34;110000;58
+232;Heavy Armor Mastery;35;110000;58
+232;Heavy Armor Mastery;36;110000;58
+147;Magic Resistance;15;11000;40
+147;Magic Resistance;16;11000;40
+147;Magic Resistance;17;11000;40
+147;Magic Resistance;18;14000;43
+147;Magic Resistance;19;14000;43
+147;Magic Resistance;20;14000;43
+147;Magic Resistance;21;18000;46
+147;Magic Resistance;22;18000;46
+147;Magic Resistance;23;18000;46
+147;Magic Resistance;24;28000;49
+147;Magic Resistance;25;28000;49
+147;Magic Resistance;26;28000;49
+147;Magic Resistance;27;50000;52
+147;Magic Resistance;28;50000;52
+147;Magic Resistance;29;50000;52
+147;Magic Resistance;30;80000;55
+147;Magic Resistance;31;80000;55
+147;Magic Resistance;32;80000;55
+147;Magic Resistance;33;110000;58
+147;Magic Resistance;34;110000;58
+147;Magic Resistance;35;110000;58
+217;Sword Blunt Mastery;9;11000;40
+217;Sword Blunt Mastery;10;11000;40
+217;Sword Blunt Mastery;11;11000;40
+217;Sword Blunt Mastery;12;14000;43
+217;Sword Blunt Mastery;13;14000;43
+217;Sword Blunt Mastery;14;14000;43
+217;Sword Blunt Mastery;15;18000;46
+217;Sword Blunt Mastery;16;18000;46
+217;Sword Blunt Mastery;17;18000;46
+217;Sword Blunt Mastery;18;28000;49
+217;Sword Blunt Mastery;19;28000;49
+217;Sword Blunt Mastery;20;28000;49
+217;Sword Blunt Mastery;21;50000;52
+217;Sword Blunt Mastery;22;50000;52
+217;Sword Blunt Mastery;23;50000;52
+217;Sword Blunt Mastery;24;80000;55
+217;Sword Blunt Mastery;25;80000;55
+217;Sword Blunt Mastery;26;80000;55
+217;Sword Blunt Mastery;27;110000;58
+217;Sword Blunt Mastery;28;110000;58
+217;Sword Blunt Mastery;29;110000;58
+15;Charm;16;11000;40
+15;Charm;17;11000;40
+15;Charm;18;11000;40
+15;Charm;19;14000;43
+15;Charm;20;14000;43
+15;Charm;21;14000;43
+15;Charm;22;18000;46
+15;Charm;23;18000;46
+15;Charm;24;18000;46
+15;Charm;25;28000;49
+15;Charm;26;28000;49
+15;Charm;27;28000;49
+15;Charm;28;50000;52
+15;Charm;29;50000;52
+15;Charm;30;50000;52
+15;Charm;31;80000;55
+15;Charm;32;80000;55
+15;Charm;33;80000;55
+15;Charm;34;110000;58
+15;Charm;35;110000;58
+15;Charm;36;110000;58
+58;Elemental Heal;19;11000;40
+58;Elemental Heal;20;11000;40
+58;Elemental Heal;21;11000;40
+58;Elemental Heal;22;14000;43
+58;Elemental Heal;23;14000;43
+58;Elemental Heal;24;14000;43
+58;Elemental Heal;25;18000;46
+58;Elemental Heal;26;18000;46
+58;Elemental Heal;27;18000;46
+58;Elemental Heal;28;28000;49
+58;Elemental Heal;29;28000;49
+58;Elemental Heal;30;28000;49
+58;Elemental Heal;31;50000;52
+58;Elemental Heal;32;50000;52
+58;Elemental Heal;33;50000;52
+58;Elemental Heal;34;80000;55
+58;Elemental Heal;35;80000;55
+58;Elemental Heal;36;80000;55
+58;Elemental Heal;37;110000;58
+58;Elemental Heal;38;110000;58
+58;Elemental Heal;39;110000;58
+28;Hate;13;11000;40
+28;Hate;14;11000;40
+28;Hate;15;11000;40
+28;Hate;16;14000;43
+28;Hate;17;14000;43
+28;Hate;18;14000;43
+28;Hate;19;18000;46
+28;Hate;20;18000;46
+28;Hate;21;18000;46
+28;Hate;22;28000;49
+28;Hate;23;28000;49
+28;Hate;24;28000;49
+28;Hate;25;50000;52
+28;Hate;26;50000;52
+28;Hate;27;50000;52
+28;Hate;28;80000;55
+28;Hate;29;80000;55
+28;Hate;30;80000;55
+28;Hate;31;110000;58
+28;Hate;32;110000;58
+28;Hate;33;110000;58
+197;Holy Armor;1;34000;40
+197;Holy Armor;2;55000;46
+153;Shield Mastery;3;34000;40
+153;Shield Mastery;4;150000;52
+21;Poison Recovery;2;34000;40
+191;Focus Mind;2;41000;43
+191;Focus Mind;3;83000;49
+191;Focus Mind;4;240000;55
+112;Deflect Arrow;3;41000;43
+112;Deflect Arrow;4;83000;49
+61;Cure Bleeding;2;55000;46
+110;Ultimate Defence;2;55000;46
+102;Entangle;2;83000;49
+102;Entangle;3;330000;58
+230;Sprint;2;150000;52
+107;Holy Aura;1;330000;58
+123;Spirit Barrier;1;34000;40
+123;Spirit Barrier;2;83000;49
+123;Spirit Barrier;3;330000;58
+10;Summon Storm Cubic;1;34000;40
+10;Summon Storm Cubic;2;55000;46
+10;Summon Storm Cubic;3;150000;52
+67;Summon Life Cubic;1;41000;43
+67;Summon Life Cubic;2;83000;49
+67;Summon Life Cubic;3;240000;55
+#;Cubic Mastery;1;41000;43
+#;Cubic Mastery;2;240000;55
+#;Guard Stance;1;41000;43
+#;Guard Stance;2;150000;52
+#;Hate Aura;1;11000;40
+#;Hate Aura;2;11000;40
+#;Hate Aura;3;11000;40
+#;Hate Aura;4;14000;43
+#;Hate Aura;5;14000;43
+#;Hate Aura;6;14000;43
+#;Hate Aura;7;18000;46
+#;Hate Aura;8;18000;46
+#;Hate Aura;9;18000;46
+#;Hate Aura;10;28000;49
+#;Hate Aura;11;28000;49
+#;Hate Aura;12;28000;49
+#;Hate Aura;13;50000;52
+#;Hate Aura;14;50000;52
+#;Hate Aura;15;50000;52
+#;Hate Aura;16;80000;55
+#;Hate Aura;17;80000;55
+#;Hate Aura;18;80000;55
+#;Hate Aura;19;110000;58
+#;Hate Aura;20;110000;58
+#;Hate Aura;21;110000;58

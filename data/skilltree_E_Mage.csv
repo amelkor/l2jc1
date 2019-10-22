@@ -1,0 +1,41 @@
+#id;name;level;sp;level
+118;Magicians Movement;1;0;1
+146;Anti Magic;1;260;7
+146;Anti Magic;2;260;7
+146;Anti Magic;3;1100;14
+146;Anti Magic;4;1100;14
+163;Spellcraft;1;0;1
+194;Lucky;1;0;1
+214;Mana Recovery;1;0;1
+244;Armor Mastery;1;520;7
+244;Armor Mastery;2;1100;14
+244;Armor Mastery;3;1100;14
+249;Weapon Mastery;1;520;7
+249;Weapon Mastery;2;2100;14
+1011;Heal;1;170;7
+1011;Heal;2;170;7
+1011;Heal;3;170;7
+1011;Heal;4;700;14
+1011;Heal;5;700;14
+1011;Heal;6;700;14
+1012;Cure Poison;1;520;7
+1015;Battle Heal;1;700;14
+1015;Battle Heal;2;700;14
+1015;Battle Heal;3;700;14
+1027;Group Heal;1;700;14
+1027;Group Heal;2;700;14
+1027;Group Heal;3;700;14
+1040;Shield;1;520;7
+1068;Might;1;520;7
+1164;Curse Weakness;1;2100;14
+1177;Wind Strike;1;0;1
+1177;Wind Strike;2;260;7
+1177;Wind Strike;3;260;7
+1177;Wind Strike;4;1100;14
+1177;Wind Strike;5;1100;14
+1184;Ice Bolt;1;260;7
+1184;Ice Bolt;2;260;7
+1184;Ice Bolt;3;1100;14
+1184;Ice Bolt;4;1100;14
+1206;Wind Shackle;1;2100;14
+1216;Self Heal;1;0;1

@@ -1,0 +1,3485 @@
+#id;name;level;target;power
+3;Power Strike;1;one;25
+3;Power Strike;2;one;27
+3;Power Strike;3;one;30
+3;Power Strike;4;one;39
+3;Power Strike;5;one;42
+3;Power Strike;6;one;46
+3;Power Strike;7;one;60
+3;Power Strike;8;one;65
+3;Power Strike;9;one;70
+3;Power Strike;10;one;90
+3;Power Strike;11;one;97
+3;Power Strike;12;one;105
+3;Power Strike;13;one;123
+3;Power Strike;14;one;132
+3;Power Strike;15;one;143
+3;Power Strike;16;one;165
+3;Power Strike;17;one;177
+3;Power Strike;18;one;191
+3;Power Strike;19;one;219
+3;Power Strike;20;one;235
+3;Power Strike;21;one;251
+3;Power Strike;22;one;287
+3;Power Strike;23;one;306
+3;Power Strike;24;one;326
+4;Dash;1;self;1
+4;Dash;2;self;1
+16;Mortal Blow;1;one;73
+16;Mortal Blow;2;one;80
+16;Mortal Blow;3;one;88
+16;Mortal Blow;4;one;115
+16;Mortal Blow;5;one;126
+16;Mortal Blow;6;one;137
+16;Mortal Blow;7;one;178
+16;Mortal Blow;8;one;193
+16;Mortal Blow;9;one;210
+16;Mortal Blow;10;one;268
+16;Mortal Blow;11;one;291
+16;Mortal Blow;12;one;314
+16;Mortal Blow;13;one;367
+16;Mortal Blow;14;one;396
+16;Mortal Blow;15;one;427
+16;Mortal Blow;16;one;494
+16;Mortal Blow;17;one;531
+16;Mortal Blow;18;one;571
+16;Mortal Blow;19;one;656
+16;Mortal Blow;20;one;703
+16;Mortal Blow;21;one;752
+16;Mortal Blow;22;one;859
+16;Mortal Blow;23;one;916
+16;Mortal Blow;24;one;977
+21;Poison Recovery;1;one;3
+21;Poison Recovery;2;one;7
+28;Hate;1;one;655
+28;Hate;2;one;678
+28;Hate;3;one;702
+28;Hate;4;one;752
+28;Hate;5;one;777
+28;Hate;6;one;803
+28;Hate;7;one;855
+28;Hate;8;one;882
+28;Hate;9;one;909
+28;Hate;10;one;965
+28;Hate;11;one;993
+28;Hate;12;one;1021
+28;Hate;13;one;1021
+28;Hate;14;one;1021
+28;Hate;15;one;1021
+28;Hate;16;one;1021
+28;Hate;17;one;1021
+28;Hate;18;one;1021
+28;Hate;19;one;1021
+28;Hate;20;one;1021
+28;Hate;21;one;1021
+28;Hate;22;one;1021
+28;Hate;23;one;1021
+28;Hate;24;one;1021
+28;Hate;25;one;1021
+28;Hate;26;one;1021
+28;Hate;27;one;1021
+28;Hate;28;one;1021
+28;Hate;29;one;1021
+28;Hate;30;one;1021
+28;Hate;31;one;1021
+28;Hate;32;one;1021
+28;Hate;33;one;1021
+45;Divine Heal;1;one;143
+45;Divine Heal;2;one;150
+45;Divine Heal;3;one;157
+45;Divine Heal;4;one;171
+45;Divine Heal;5;one;179
+45;Divine Heal;6;one;187
+45;Divine Heal;7;one;203
+45;Divine Heal;8;one;211
+45;Divine Heal;9;one;219
+56;Power Shot;1;one;65
+56;Power Shot;2;one;71
+56;Power Shot;3;one;78
+56;Power Shot;4;one;102
+56;Power Shot;5;one;112
+56;Power Shot;6;one;122
+56;Power Shot;7;one;158
+56;Power Shot;8;one;172
+56;Power Shot;9;one;187
+56;Power Shot;10;one;239
+56;Power Shot;11;one;258
+56;Power Shot;12;one;279
+56;Power Shot;13;one;326
+56;Power Shot;14;one;352
+56;Power Shot;15;one;379
+56;Power Shot;16;one;440
+56;Power Shot;17;one;472
+56;Power Shot;18;one;507
+56;Power Shot;19;one;584
+56;Power Shot;20;one;625
+56;Power Shot;21;one;669
+56;Power Shot;22;one;763
+56;Power Shot;23;one;814
+56;Power Shot;24;one;868
+58;Elemental Heal;1;self;71
+58;Elemental Heal;2;self;75
+58;Elemental Heal;3;self;80
+58;Elemental Heal;4;self;95
+58;Elemental Heal;5;self;100
+58;Elemental Heal;6;self;106
+58;Elemental Heal;7;self;118
+58;Elemental Heal;8;self;124
+58;Elemental Heal;9;self;130
+58;Elemental Heal;10;self;143
+58;Elemental Heal;11;self;150
+58;Elemental Heal;12;self;157
+58;Elemental Heal;13;self;171
+58;Elemental Heal;14;self;179
+58;Elemental Heal;15;self;187
+58;Elemental Heal;16;self;203
+58;Elemental Heal;17;self;211
+58;Elemental Heal;18;self;219
+58;Elemental Heal;19;self;219
+58;Elemental Heal;20;self;219
+58;Elemental Heal;21;self;219
+58;Elemental Heal;22;self;219
+58;Elemental Heal;23;self;219
+58;Elemental Heal;24;self;219
+58;Elemental Heal;25;self;219
+58;Elemental Heal;26;self;219
+58;Elemental Heal;27;self;219
+58;Elemental Heal;28;self;219
+58;Elemental Heal;29;self;219
+58;Elemental Heal;30;self;219
+58;Elemental Heal;31;self;219
+58;Elemental Heal;32;self;219
+58;Elemental Heal;33;self;219
+58;Elemental Heal;34;self;219
+58;Elemental Heal;35;self;219
+58;Elemental Heal;36;self;219
+58;Elemental Heal;37;self;219
+58;Elemental Heal;38;self;219
+58;Elemental Heal;39;self;219
+61;Cure Bleeding;1;one;3
+61;Cure Bleeding;2;one;7
+70;Drain Energy;1;one;20
+70;Drain Energy;2;one;22
+70;Drain Energy;3;one;24
+70;Drain Energy;4;one;26
+70;Drain Energy;5;one;28
+70;Drain Energy;6;one;29
+70;Drain Energy;7;one;31
+70;Drain Energy;8;one;33
+70;Drain Energy;9;one;34
+70;Drain Energy;10;one;35
+70;Drain Energy;11;one;38
+70;Drain Energy;12;one;39
+70;Drain Energy;13;one;40
+70;Drain Energy;14;one;43
+70;Drain Energy;15;one;44
+70;Drain Energy;16;one;46
+70;Drain Energy;17;one;46
+70;Drain Energy;18;one;46
+70;Drain Energy;19;one;46
+70;Drain Energy;20;one;46
+70;Drain Energy;21;one;46
+70;Drain Energy;22;one;46
+70;Drain Energy;23;one;46
+70;Drain Energy;24;one;46
+70;Drain Energy;25;one;46
+70;Drain Energy;26;one;46
+70;Drain Energy;27;one;46
+70;Drain Energy;28;one;46
+70;Drain Energy;29;one;46
+70;Drain Energy;30;one;46
+70;Drain Energy;31;one;46
+70;Drain Energy;32;one;46
+70;Drain Energy;33;one;46
+70;Drain Energy;34;one;46
+70;Drain Energy;35;one;46
+70;Drain Energy;36;one;46
+70;Drain Energy;37;one;46
+77;Attack Aura;1;self;1
+77;Attack Aura;2;self;2
+78;War Cry;1;self;1
+78;War Cry;2;self;2
+82;Majesty;1;one;1
+82;Majesty;2;one;1
+82;Majesty;3;one;1
+91;Defence Aura;1;self;1
+91;Defence Aura;2;self;2
+92;Shield Stun;1;one;1
+92;Shield Stun;2;one;2
+92;Shield Stun;3;one;3
+92;Shield Stun;4;one;4
+92;Shield Stun;5;one;5
+92;Shield Stun;6;one;6
+92;Shield Stun;7;one;7
+92;Shield Stun;8;one;8
+92;Shield Stun;9;one;9
+92;Shield Stun;10;one;10
+92;Shield Stun;11;one;11
+92;Shield Stun;12;one;12
+92;Shield Stun;13;one;13
+92;Shield Stun;14;one;14
+92;Shield Stun;15;one;15
+92;Shield Stun;16;one;16
+92;Shield Stun;17;one;17
+92;Shield Stun;18;one;18
+92;Shield Stun;19;one;19
+92;Shield Stun;20;one;20
+92;Shield Stun;21;one;21
+92;Shield Stun;22;one;22
+92;Shield Stun;23;one;23
+92;Shield Stun;24;one;24
+92;Shield Stun;25;one;25
+92;Shield Stun;26;one;26
+92;Shield Stun;27;one;27
+92;Shield Stun;28;one;28
+92;Shield Stun;29;one;29
+92;Shield Stun;30;one;30
+92;Shield Stun;31;one;31
+92;Shield Stun;32;one;32
+92;Shield Stun;33;one;33
+92;Shield Stun;34;one;34
+92;Shield Stun;35;one;35
+92;Shield Stun;36;one;36
+99;Rapid Shot;1;one;1
+99;Rapid Shot;2;one;2
+101;Stun Shot;1;one;287
+101;Stun Shot;2;one;306
+101;Stun Shot;3;one;326
+101;Stun Shot;4;one;326
+101;Stun Shot;5;one;326
+101;Stun Shot;6;one;326
+101;Stun Shot;7;one;326
+101;Stun Shot;8;one;326
+101;Stun Shot;9;one;326
+101;Stun Shot;10;one;326
+101;Stun Shot;11;one;326
+101;Stun Shot;12;one;326
+101;Stun Shot;13;one;326
+101;Stun Shot;14;one;326
+101;Stun Shot;15;one;326
+101;Stun Shot;16;one;326
+101;Stun Shot;17;one;326
+101;Stun Shot;18;one;326
+101;Stun Shot;19;one;326
+101;Stun Shot;20;one;326
+101;Stun Shot;21;one;326
+101;Stun Shot;22;one;326
+101;Stun Shot;23;one;326
+101;Stun Shot;24;one;326
+102;Entangle;1;one;1
+102;Entangle;2;one;2
+102;Entangle;3;one;3
+105;Freezing Strike;1;one;26
+105;Freezing Strike;2;one;28
+105;Freezing Strike;3;one;28
+105;Freezing Strike;4;one;28
+105;Freezing Strike;5;one;28
+105;Freezing Strike;6;one;28
+105;Freezing Strike;7;one;28
+105;Freezing Strike;8;one;28
+105;Freezing Strike;9;one;28
+105;Freezing Strike;10;one;28
+105;Freezing Strike;11;one;28
+105;Freezing Strike;12;one;28
+105;Freezing Strike;13;one;28
+105;Freezing Strike;14;one;28
+105;Freezing Strike;15;one;28
+105;Freezing Strike;16;one;28
+112;Deflect Arrow;1;self;1
+112;Deflect Arrow;2;self;2
+112;Deflect Arrow;3;self;3
+112;Deflect Arrow;4;self;4
+113;Long Shot;1;self;1
+113;Long Shot;2;self;2
+115;Power Break;1;one;1
+115;Power Break;2;one;2
+118;Magician's Movement;1;self;1
+121;Battle Roar;1;self;1
+121;Battle Roar;2;self;2
+121;Battle Roar;3;self;3
+121;Battle Roar;4;self;4
+129;Poison;1;one;3
+129;Poison;2;one;5
+129;Poison;3;one;7
+137;Critical Chance;1;self;1
+137;Critical Chance;2;self;2
+137;Critical Chance;3;self;3
+141;Weapon Mastery;1;self;1
+141;Weapon Mastery;2;self;2
+141;Weapon Mastery;3;self;3
+142;Armor Mastery;1;self;1
+142;Armor Mastery;2;self;1
+142;Armor Mastery;3;self;1
+142;Armor Mastery;4;self;1
+142;Armor Mastery;5;self;1
+146;Anti Magic;1;self;1
+146;Anti Magic;2;self;1
+146;Anti Magic;3;self;1
+146;Anti Magic;4;self;1
+146;Anti Magic;5;self;1
+146;Anti Magic;6;self;1
+146;Anti Magic;7;self;1
+146;Anti Magic;8;self;1
+146;Anti Magic;9;self;1
+146;Anti Magic;10;self;1
+146;Anti Magic;11;self;1
+146;Anti Magic;12;self;1
+146;Anti Magic;13;self;1
+146;Anti Magic;14;self;1
+146;Anti Magic;15;self;1
+146;Anti Magic;16;self;1
+146;Anti Magic;17;self;1
+146;Anti Magic;18;self;1
+146;Anti Magic;19;self;1
+146;Anti Magic;20;self;1
+146;Anti Magic;21;self;1
+146;Anti Magic;22;self;1
+146;Anti Magic;23;self;1
+146;Anti Magic;24;self;1
+146;Anti Magic;25;self;1
+146;Anti Magic;26;self;1
+146;Anti Magic;27;self;1
+147;Magic Resistance;1;self;1
+147;Magic Resistance;2;self;1
+147;Magic Resistance;3;self;1
+147;Magic Resistance;4;self;1
+147;Magic Resistance;5;self;1
+147;Magic Resistance;6;self;1
+147;Magic Resistance;7;self;1
+147;Magic Resistance;8;self;1
+147;Magic Resistance;9;self;1
+147;Magic Resistance;10;self;1
+147;Magic Resistance;11;self;1
+147;Magic Resistance;12;self;1
+147;Magic Resistance;13;self;1
+147;Magic Resistance;14;self;1
+147;Magic Resistance;15;self;1
+147;Magic Resistance;16;self;1
+147;Magic Resistance;17;self;1
+147;Magic Resistance;18;self;1
+147;Magic Resistance;19;self;1
+147;Magic Resistance;20;self;1
+147;Magic Resistance;21;self;1
+147;Magic Resistance;22;self;1
+147;Magic Resistance;23;self;1
+147;Magic Resistance;24;self;1
+147;Magic Resistance;25;self;1
+147;Magic Resistance;26;self;1
+147;Magic Resistance;27;self;1
+147;Magic Resistance;28;self;1
+147;Magic Resistance;29;self;1
+147;Magic Resistance;30;self;1
+147;Magic Resistance;31;self;1
+147;Magic Resistance;32;self;1
+147;Magic Resistance;33;self;1
+147;Magic Resistance;34;self;1
+147;Magic Resistance;35;self;1
+153;Shield Mastery;1;self;1
+153;Shield Mastery;2;self;1
+153;Shield Mastery;3;self;1
+153;Shield Mastery;4;self;1
+163;Spellcraft;1;self;1
+164;Quick Recovery;1;self;1
+164;Quick Recovery;2;self;1
+164;Quick Recovery;3;self;1
+168;Boost Attack Speed;1;self;1
+168;Boost Attack Speed;2;self;1
+168;Boost Attack Speed;3;self;1
+169;Quick Step;1;one;1
+169;Quick Step;2;one;1
+191;Focus Mind;1;one;1
+191;Focus Mind;2;one;1
+191;Focus Mind;3;one;1
+191;Focus Mind;4;one;1
+193;Critical Power;1;one;1
+193;Critical Power;2;one;1
+193;Critical Power;3;one;1
+194;Lucky;1;self;1
+198;Boost Evasion;1;self;1
+198;Boost Evasion;2;self;1
+198;Boost Evasion;3;self;1
+208;Bow Mastery;1;self;1
+208;Bow Mastery;2;self;1
+208;Bow Mastery;3;self;1
+208;Bow Mastery;4;self;1
+208;Bow Mastery;5;self;1
+208;Bow Mastery;6;self;1
+208;Bow Mastery;7;self;1
+208;Bow Mastery;8;self;1
+208;Bow Mastery;9;self;1
+208;Bow Mastery;10;self;1
+208;Bow Mastery;11;self;1
+208;Bow Mastery;12;self;1
+208;Bow Mastery;13;self;1
+208;Bow Mastery;14;self;1
+208;Bow Mastery;15;self;1
+208;Bow Mastery;16;self;1
+208;Bow Mastery;17;self;1
+208;Bow Mastery;18;self;1
+208;Bow Mastery;19;self;1
+208;Bow Mastery;20;self;1
+208;Bow Mastery;21;self;1
+208;Bow Mastery;22;self;1
+208;Bow Mastery;23;self;1
+208;Bow Mastery;24;self;1
+208;Bow Mastery;25;self;1
+208;Bow Mastery;26;self;1
+208;Bow Mastery;27;self;1
+208;Bow Mastery;28;self;1
+208;Bow Mastery;29;self;1
+208;Bow Mastery;30;self;1
+208;Bow Mastery;31;self;1
+208;Bow Mastery;32;self;1
+208;Bow Mastery;33;self;1
+208;Bow Mastery;34;self;1
+208;Bow Mastery;35;self;1
+208;Bow Mastery;36;self;1
+209;Dagger Mastery;1;self;1
+209;Dagger Mastery;2;self;1
+209;Dagger Mastery;3;self;1
+209;Dagger Mastery;4;self;1
+209;Dagger Mastery;5;self;1
+209;Dagger Mastery;6;self;1
+209;Dagger Mastery;7;self;1
+209;Dagger Mastery;8;self;1
+209;Dagger Mastery;9;self;1
+209;Dagger Mastery;10;self;1
+209;Dagger Mastery;11;self;1
+209;Dagger Mastery;12;self;1
+209;Dagger Mastery;13;self;1
+209;Dagger Mastery;14;self;1
+209;Dagger Mastery;15;self;1
+209;Dagger Mastery;16;self;1
+209;Dagger Mastery;17;self;1
+209;Dagger Mastery;18;self;1
+209;Dagger Mastery;19;self;1
+209;Dagger Mastery;20;self;1
+209;Dagger Mastery;21;self;1
+209;Dagger Mastery;22;self;1
+209;Dagger Mastery;23;self;1
+209;Dagger Mastery;24;self;1
+209;Dagger Mastery;25;self;1
+209;Dagger Mastery;26;self;1
+209;Dagger Mastery;27;self;1
+209;Dagger Mastery;28;self;1
+209;Dagger Mastery;29;self;1
+211;Boost HP;1;self;1
+211;Boost HP;2;self;1
+211;Boost HP;3;self;1
+211;Boost HP;4;self;1
+211;Boost HP;5;self;1
+211;Boost HP;6;self;1
+212;Fast HP Recovery;1;one;1
+212;Fast HP Recovery;2;one;1
+212;Fast HP Recovery;3;one;1
+212;Fast HP Recovery;4;one;1
+212;Fast HP Recovery;5;one;1
+212;Fast HP Recovery;6;one;1
+213;Boost Mana;1;one;1
+213;Boost Mana;2;one;1
+213;Boost Mana;3;one;1
+213;Boost Mana;4;one;1
+213;Boost Mana;5;one;1
+214;Mana Recovery;1;one;1
+216;Polearm Mastery;1;self;1
+216;Polearm Mastery;2;self;1
+216;Polearm Mastery;3;self;1
+216;Polearm Mastery;4;self;1
+216;Polearm Mastery;5;self;1
+216;Polearm Mastery;6;self;1
+216;Polearm Mastery;7;self;1
+216;Polearm Mastery;8;self;1
+216;Polearm Mastery;9;self;1
+216;Polearm Mastery;10;self;1
+216;Polearm Mastery;11;self;1
+216;Polearm Mastery;12;self;1
+216;Polearm Mastery;13;self;1
+216;Polearm Mastery;14;self;1
+216;Polearm Mastery;15;self;1
+216;Polearm Mastery;16;self;1
+216;Polearm Mastery;17;self;1
+216;Polearm Mastery;18;self;1
+216;Polearm Mastery;19;self;1
+216;Polearm Mastery;20;self;1
+216;Polearm Mastery;21;self;1
+216;Polearm Mastery;22;self;1
+216;Polearm Mastery;23;self;1
+216;Polearm Mastery;24;self;1
+216;Polearm Mastery;25;self;1
+216;Polearm Mastery;26;self;1
+216;Polearm Mastery;27;self;1
+216;Polearm Mastery;28;self;1
+216;Polearm Mastery;29;self;1
+217;Sword Blunt Mastery;1;self;1
+217;Sword Blunt Mastery;2;self;1
+217;Sword Blunt Mastery;3;self;1
+217;Sword Blunt Mastery;4;self;1
+217;Sword Blunt Mastery;5;self;1
+217;Sword Blunt Mastery;6;self;1
+217;Sword Blunt Mastery;7;self;1
+217;Sword Blunt Mastery;8;self;1
+217;Sword Blunt Mastery;9;self;1
+217;Sword Blunt Mastery;10;self;1
+217;Sword Blunt Mastery;11;self;1
+217;Sword Blunt Mastery;12;self;1
+217;Sword Blunt Mastery;13;self;1
+217;Sword Blunt Mastery;14;self;1
+217;Sword Blunt Mastery;15;self;1
+217;Sword Blunt Mastery;16;self;1
+217;Sword Blunt Mastery;17;self;1
+217;Sword Blunt Mastery;18;self;1
+217;Sword Blunt Mastery;19;self;1
+217;Sword Blunt Mastery;20;self;1
+217;Sword Blunt Mastery;21;self;1
+217;Sword Blunt Mastery;22;self;1
+217;Sword Blunt Mastery;23;self;1
+217;Sword Blunt Mastery;24;self;1
+217;Sword Blunt Mastery;25;self;1
+217;Sword Blunt Mastery;26;self;1
+217;Sword Blunt Mastery;27;self;1
+217;Sword Blunt Mastery;28;self;1
+217;Sword Blunt Mastery;29;self;1
+226;Relax;1;self;1
+227;Light Armor Mastery;1;self;1
+227;Light Armor Mastery;2;self;1
+227;Light Armor Mastery;3;self;1
+227;Light Armor Mastery;4;self;1
+227;Light Armor Mastery;5;self;1
+227;Light Armor Mastery;6;self;1
+227;Light Armor Mastery;7;self;1
+227;Light Armor Mastery;8;self;1
+227;Light Armor Mastery;9;self;1
+227;Light Armor Mastery;10;self;1
+227;Light Armor Mastery;11;self;1
+227;Light Armor Mastery;12;self;1
+227;Light Armor Mastery;13;self;1
+227;Light Armor Mastery;14;self;1
+227;Light Armor Mastery;15;self;1
+227;Light Armor Mastery;16;self;1
+227;Light Armor Mastery;17;self;1
+227;Light Armor Mastery;18;self;1
+227;Light Armor Mastery;19;self;1
+227;Light Armor Mastery;20;self;1
+227;Light Armor Mastery;21;self;1
+227;Light Armor Mastery;22;self;1
+227;Light Armor Mastery;23;self;1
+227;Light Armor Mastery;24;self;1
+227;Light Armor Mastery;25;self;1
+227;Light Armor Mastery;26;self;1
+227;Light Armor Mastery;27;self;1
+227;Light Armor Mastery;28;self;1
+227;Light Armor Mastery;29;self;1
+227;Light Armor Mastery;30;self;1
+227;Light Armor Mastery;31;self;1
+227;Light Armor Mastery;32;self;1
+227;Light Armor Mastery;33;self;1
+227;Light Armor Mastery;34;self;1
+228;Fast Spell Casting;1;self;1
+228;Fast Spell Casting;2;self;1
+228;Fast Spell Casting;3;self;1
+229;Fast Mana Recovery;1;self;1
+229;Fast Mana Recovery;2;self;1
+229;Fast Mana Recovery;3;self;1
+229;Fast Mana Recovery;4;self;1
+230;Sprint;1;one;1
+230;Sprint;2;one;1
+231;Heavy Armor Mastery;1;self;1
+231;Heavy Armor Mastery;2;self;1
+231;Heavy Armor Mastery;3;self;1
+231;Heavy Armor Mastery;4;self;1
+231;Heavy Armor Mastery;5;self;1
+231;Heavy Armor Mastery;6;self;1
+231;Heavy Armor Mastery;7;self;1
+231;Heavy Armor Mastery;8;self;1
+231;Heavy Armor Mastery;9;self;1
+231;Heavy Armor Mastery;10;self;1
+231;Heavy Armor Mastery;11;self;1
+231;Heavy Armor Mastery;12;self;1
+231;Heavy Armor Mastery;13;self;1
+231;Heavy Armor Mastery;14;self;1
+231;Heavy Armor Mastery;15;self;1
+231;Heavy Armor Mastery;16;self;1
+231;Heavy Armor Mastery;17;self;1
+231;Heavy Armor Mastery;18;self;1
+231;Heavy Armor Mastery;19;self;1
+231;Heavy Armor Mastery;20;self;1
+231;Heavy Armor Mastery;21;self;1
+231;Heavy Armor Mastery;22;self;1
+231;Heavy Armor Mastery;23;self;1
+231;Heavy Armor Mastery;24;self;1
+231;Heavy Armor Mastery;25;self;1
+231;Heavy Armor Mastery;26;self;1
+231;Heavy Armor Mastery;27;self;1
+231;Heavy Armor Mastery;28;self;1
+231;Heavy Armor Mastery;29;self;1
+231;Heavy Armor Mastery;30;self;1
+231;Heavy Armor Mastery;31;self;1
+231;Heavy Armor Mastery;32;self;1
+231;Heavy Armor Mastery;33;self;1
+231;Heavy Armor Mastery;34;self;1
+232;Heavy Armor Mastery;1;self;1
+232;Heavy Armor Mastery;2;self;1
+232;Heavy Armor Mastery;3;self;1
+232;Heavy Armor Mastery;4;self;1
+232;Heavy Armor Mastery;5;self;1
+232;Heavy Armor Mastery;6;self;1
+232;Heavy Armor Mastery;7;self;1
+232;Heavy Armor Mastery;8;self;1
+232;Heavy Armor Mastery;9;self;1
+232;Heavy Armor Mastery;10;self;1
+232;Heavy Armor Mastery;11;self;1
+232;Heavy Armor Mastery;12;self;1
+232;Heavy Armor Mastery;13;self;1
+232;Heavy Armor Mastery;14;self;1
+232;Heavy Armor Mastery;15;self;1
+232;Heavy Armor Mastery;16;self;1
+232;Heavy Armor Mastery;17;self;1
+232;Heavy Armor Mastery;18;self;1
+232;Heavy Armor Mastery;19;self;1
+232;Heavy Armor Mastery;20;self;1
+232;Heavy Armor Mastery;21;self;1
+232;Heavy Armor Mastery;22;self;1
+232;Heavy Armor Mastery;23;self;1
+232;Heavy Armor Mastery;24;self;1
+232;Heavy Armor Mastery;25;self;1
+232;Heavy Armor Mastery;26;self;1
+232;Heavy Armor Mastery;27;self;1
+232;Heavy Armor Mastery;28;self;1
+232;Heavy Armor Mastery;29;self;1
+232;Heavy Armor Mastery;30;self;1
+232;Heavy Armor Mastery;31;self;1
+232;Heavy Armor Mastery;32;self;1
+232;Heavy Armor Mastery;33;self;1
+232;Heavy Armor Mastery;34;self;1
+232;Heavy Armor Mastery;35;self;1
+232;Heavy Armor Mastery;36;self;1
+233;Light Armor Mastery;1;self;1
+233;Light Armor Mastery;2;self;1
+233;Light Armor Mastery;3;self;1
+233;Light Armor Mastery;4;self;1
+233;Light Armor Mastery;5;self;1
+233;Light Armor Mastery;6;self;1
+233;Light Armor Mastery;7;self;1
+233;Light Armor Mastery;8;self;1
+233;Light Armor Mastery;9;self;1
+233;Light Armor Mastery;10;self;1
+233;Light Armor Mastery;11;self;1
+233;Light Armor Mastery;12;self;1
+233;Light Armor Mastery;13;self;1
+233;Light Armor Mastery;14;self;1
+233;Light Armor Mastery;15;self;1
+233;Light Armor Mastery;16;self;1
+233;Light Armor Mastery;17;self;1
+233;Light Armor Mastery;18;self;1
+233;Light Armor Mastery;19;self;1
+233;Light Armor Mastery;20;self;1
+233;Light Armor Mastery;21;self;1
+233;Light Armor Mastery;22;self;1
+233;Light Armor Mastery;23;self;1
+233;Light Armor Mastery;24;self;1
+233;Light Armor Mastery;25;self;1
+233;Light Armor Mastery;26;self;1
+233;Light Armor Mastery;27;self;1
+233;Light Armor Mastery;28;self;1
+233;Light Armor Mastery;29;self;1
+233;Light Armor Mastery;30;self;1
+233;Light Armor Mastery;31;self;1
+234;Robe Mastery;1;self;1
+234;Robe Mastery;2;self;1
+234;Robe Mastery;3;self;1
+234;Robe Mastery;4;self;1
+234;Robe Mastery;5;self;1
+234;Robe Mastery;6;self;1
+234;Robe Mastery;7;self;1
+234;Robe Mastery;8;self;1
+234;Robe Mastery;9;self;1
+234;Robe Mastery;10;self;1
+234;Robe Mastery;11;self;1
+234;Robe Mastery;12;self;1
+234;Robe Mastery;13;self;1
+234;Robe Mastery;14;self;1
+234;Robe Mastery;15;self;1
+234;Robe Mastery;16;self;1
+234;Robe Mastery;17;self;1
+234;Robe Mastery;18;self;1
+234;Robe Mastery;19;self;1
+234;Robe Mastery;20;self;1
+234;Robe Mastery;21;self;1
+234;Robe Mastery;22;self;1
+234;Robe Mastery;23;self;1
+235;Robe Mastery;1;self;1
+235;Robe Mastery;2;self;1
+235;Robe Mastery;3;self;1
+235;Robe Mastery;4;self;1
+235;Robe Mastery;5;self;1
+235;Robe Mastery;6;self;1
+235;Robe Mastery;7;self;1
+235;Robe Mastery;8;self;1
+235;Robe Mastery;9;self;1
+235;Robe Mastery;10;self;1
+235;Robe Mastery;11;self;1
+235;Robe Mastery;12;self;1
+235;Robe Mastery;13;self;1
+235;Robe Mastery;14;self;1
+235;Robe Mastery;15;self;1
+235;Robe Mastery;16;self;1
+235;Robe Mastery;17;self;1
+235;Robe Mastery;18;self;1
+235;Robe Mastery;19;self;1
+235;Robe Mastery;20;self;1
+235;Robe Mastery;21;self;1
+235;Robe Mastery;22;self;1
+235;Robe Mastery;23;self;1
+236;Light Armor Mastery;1;self;1
+236;Light Armor Mastery;2;self;1
+236;Light Armor Mastery;3;self;1
+236;Light Armor Mastery;4;self;1
+236;Light Armor Mastery;5;self;1
+236;Light Armor Mastery;6;self;1
+236;Light Armor Mastery;7;self;1
+236;Light Armor Mastery;8;self;1
+236;Light Armor Mastery;9;self;1
+236;Light Armor Mastery;10;self;1
+236;Light Armor Mastery;11;self;1
+236;Light Armor Mastery;12;self;1
+236;Light Armor Mastery;13;self;1
+236;Light Armor Mastery;14;self;1
+236;Light Armor Mastery;15;self;1
+236;Light Armor Mastery;16;self;1
+236;Light Armor Mastery;17;self;1
+236;Light Armor Mastery;18;self;1
+236;Light Armor Mastery;19;self;1
+236;Light Armor Mastery;20;self;1
+236;Light Armor Mastery;21;self;1
+236;Light Armor Mastery;22;self;1
+236;Light Armor Mastery;23;self;1
+239;Expertise S;1;self;1
+239;Expertise S;2;self;1
+239;Expertise S;3;self;1
+239;Expertise S;4;self;1
+239;Expertise S;5;self;1
+244;Armor Mastery;1;self;1
+244;Armor Mastery;2;self;1
+244;Armor Mastery;3;self;1
+246;Seal of Ruler;1;self;1
+1011;Heal;1;one;1
+1011;Heal;2;one;1
+1011;Heal;3;one;1
+1011;Heal;4;one;1
+1011;Heal;5;one;1
+1011;Heal;6;one;1
+1011;Heal;7;one;1
+1011;Heal;8;one;1
+1011;Heal;9;one;1
+1011;Heal;10;one;1
+1011;Heal;11;one;1
+1011;Heal;12;one;1
+1011;Heal;13;one;1
+1011;Heal;14;one;1
+1011;Heal;15;one;1
+1011;Heal;16;one;1
+1011;Heal;17;one;1
+1011;Heal;18;one;1
+1012;Cure Poison;1;one;1
+1012;Cure Poison;2;one;1
+1013;Recharge;1;one;1
+1013;Recharge;2;one;1
+1013;Recharge;3;one;1
+1013;Recharge;4;one;1
+1013;Recharge;5;one;1
+1013;Recharge;6;one;1
+1013;Recharge;7;one;1
+1013;Recharge;8;one;1
+1013;Recharge;9;one;1
+1013;Recharge;10;one;1
+1013;Recharge;11;one;1
+1013;Recharge;12;one;1
+1013;Recharge;13;one;1
+1013;Recharge;14;one;1
+1015;Battle Heal;1;one;1
+1015;Battle Heal;2;one;1
+1015;Battle Heal;3;one;1
+1015;Battle Heal;4;one;1
+1015;Battle Heal;5;one;1
+1015;Battle Heal;6;one;1
+1015;Battle Heal;7;one;1
+1015;Battle Heal;8;one;1
+1015;Battle Heal;9;one;1
+1015;Battle Heal;10;one;1
+1015;Battle Heal;11;one;1
+1015;Battle Heal;12;one;1
+1015;Battle Heal;13;one;1
+1015;Battle Heal;14;one;1
+1015;Battle Heal;15;one;1
+1027;Group Heal;1;party;1
+1027;Group Heal;2;party;1
+1027;Group Heal;3;party;1
+1027;Group Heal;4;party;1
+1027;Group Heal;5;party;1
+1027;Group Heal;6;party;1
+1027;Group Heal;7;party;1
+1027;Group Heal;8;party;1
+1027;Group Heal;9;party;1
+1027;Group Heal;10;party;1
+1027;Group Heal;11;party;1
+1027;Group Heal;12;party;1
+1027;Group Heal;13;party;1
+1027;Group Heal;14;party;1
+1027;Group Heal;15;party;1
+1031;Disrupt Undead;1;one;1
+1031;Disrupt Undead;2;one;1
+1031;Disrupt Undead;3;one;1
+1031;Disrupt Undead;4;one;1
+1031;Disrupt Undead;5;one;1
+1031;Disrupt Undead;6;one;1
+1031;Disrupt Undead;7;one;1
+1031;Disrupt Undead;8;one;1
+1033;Resist Poison;1;one;1
+1033;Resist Poison;2;one;1
+1033;Resist Poison;3;one;1
+1040;Shield;1;one;1
+1040;Shield;2;one;1
+1040;Shield;3;one;1
+1044;Regeneration;1;one;1
+1044;Regeneration;2;one;1
+1044;Regeneration;3;one;1
+1059;Greater Empower;1;one;1
+1059;Greater Empower;2;one;1
+1059;Greater Empower;3;one;1
+1062;Berserker Spirit;1;one;1
+1062;Berserker Spirit;2;one;1
+1068;Might;1;one;1
+1068;Might;2;one;1
+1068;Might;3;one;1
+1069;Sleep;1;one;1
+1069;Sleep;2;one;1
+1069;Sleep;3;one;1
+1069;Sleep;4;one;1
+1069;Sleep;5;one;1
+1069;Sleep;6;one;1
+1069;Sleep;7;one;1
+1069;Sleep;8;one;1
+1069;Sleep;9;one;1
+1069;Sleep;10;one;1
+1069;Sleep;11;one;1
+1069;Sleep;12;one;1
+1069;Sleep;13;one;1
+1069;Sleep;14;one;1
+1069;Sleep;15;one;1
+1069;Sleep;16;one;1
+1069;Sleep;17;one;1
+1069;Sleep;18;one;1
+1069;Sleep;19;one;1
+1069;Sleep;20;one;1
+1069;Sleep;21;one;1
+1069;Sleep;22;one;1
+1069;Sleep;23;one;1
+1069;Sleep;24;one;1
+1077;Focus;1;one;1
+1077;Focus;2;one;1
+1077;Focus;3;one;1
+1078;Greater Concentration;1;one;1
+1078;Greater Concentration;2;one;1
+1078;Greater Concentration;3;one;1
+1078;Greater Concentration;4;one;1
+1083;Surrenders To Fire;1;one;1
+1083;Surrenders To Fire;2;one;1
+1085;Greater Acumen;1;one;1
+1085;Greater Acumen;2;one;1
+1085;Greater Acumen;3;one;1
+1087;Agility;1;one;1
+1087;Agility;2;one;1
+1087;Agility;3;one;1
+1111;Summon Kat the Cat;1;pet;1
+1111;Summon Kat the Cat;2;pet;1
+1111;Summon Kat the Cat;3;pet;1
+1111;Summon Kat the Cat;4;pet;1
+1111;Summon Kat the Cat;5;pet;1
+1126;Servitor Recharge;1;pet;1
+1126;Servitor Recharge;2;pet;1
+1126;Servitor Recharge;3;pet;1
+1126;Servitor Recharge;4;pet;1
+1126;Servitor Recharge;5;pet;1
+1126;Servitor Recharge;6;pet;1
+1126;Servitor Recharge;7;pet;1
+1126;Servitor Recharge;8;pet;1
+1126;Servitor Recharge;9;pet;1
+1126;Servitor Recharge;10;pet;1
+1126;Servitor Recharge;11;pet;1
+1126;Servitor Recharge;12;pet;1
+1126;Servitor Recharge;13;pet;1
+1126;Servitor Recharge;14;pet;1
+1126;Servitor Recharge;15;pet;1
+1126;Servitor Recharge;16;pet;1
+1127;Servitor Heal;1;pet;1
+1127;Servitor Heal;2;pet;1
+1127;Servitor Heal;3;pet;1
+1127;Servitor Heal;4;pet;1
+1127;Servitor Heal;5;pet;1
+1127;Servitor Heal;6;pet;1
+1127;Servitor Heal;7;pet;1
+1127;Servitor Heal;8;pet;1
+1127;Servitor Heal;9;pet;1
+1127;Servitor Heal;10;pet;1
+1127;Servitor Heal;11;pet;1
+1127;Servitor Heal;12;pet;1
+1127;Servitor Heal;13;pet;1
+1127;Servitor Heal;14;pet;1
+1127;Servitor Heal;15;pet;1
+1127;Servitor Heal;16;pet;1
+1127;Servitor Heal;17;pet;1
+1127;Servitor Heal;18;pet;1
+1127;Servitor Heal;19;pet;1
+1127;Servitor Heal;20;pet;1
+1127;Servitor Heal;21;pet;1
+1127;Servitor Heal;22;pet;1
+1127;Servitor Heal;23;pet;1
+1127;Servitor Heal;24;pet;1
+1127;Servitor Heal;25;pet;1
+1127;Servitor Heal;26;pet;1
+1127;Servitor Heal;27;pet;1
+1144;Fast Servitor;1;pet;1
+1144;Fast Servitor;2;pet;1
+1145;Bright Servitor;1;pet;1
+1145;Bright Servitor;2;pet;1
+1145;Bright Servitor;3;pet;1
+1146;Mighty Servitor;1;pet;1
+1146;Mighty Servitor;2;pet;1
+1146;Mighty Servitor;3;pet;1
+1147;Vampiric Touch;1;one;1
+1147;Vampiric Touch;2;one;1
+1147;Vampiric Touch;3;one;1
+1147;Vampiric Touch;4;one;1
+1147;Vampiric Touch;5;one;1
+1147;Vampiric Touch;6;one;1
+1160;Slow;1;one;1
+1160;Slow;2;one;1
+1160;Slow;3;one;1
+1164;Curse:Weakness;1;one;1
+1164;Curse:Weakness;2;one;1
+1167;Poisonous Cloud;1;one;1
+1167;Poisonous Cloud;2;one;1
+1167;Poisonous Cloud;3;one;1
+1167;Poisonous Cloud;4;one;1
+1168;Curse:Poison;1;one;1
+1168;Curse:Poison;2;one;1
+1168;Curse:Poison;3;one;1
+1168;Curse:Poison;4;one;1
+1168;Curse:Poison;5;one;1
+1172;Aura Burn;1;one;1
+1172;Aura Burn;2;one;1
+1172;Aura Burn;3;one;1
+1172;Aura Burn;4;one;1
+1172;Aura Burn;5;one;1
+1172;Aura Burn;6;one;1
+1172;Aura Burn;7;one;1
+1172;Aura Burn;8;one;1
+1175;Aqua Swirl;1;one;1
+1175;Aqua Swirl;2;one;1
+1175;Aqua Swirl;3;one;1
+1175;Aqua Swirl;4;one;1
+1175;Aqua Swirl;5;one;1
+1175;Aqua Swirl;6;one;1
+1175;Aqua Swirl;7;one;1
+1175;Aqua Swirl;8;one;1
+1177;Wind Strike;1;one;12
+1177;Wind Strike;2;one;13
+1177;Wind Strike;3;one;15
+1177;Wind Strike;4;one;18
+1177;Wind Strike;5;one;21
+1178;Twister;1;one;1
+1178;Twister;2;one;1
+1178;Twister;3;one;1
+1178;Twister;4;one;1
+1178;Twister;5;one;1
+1178;Twister;6;one;1
+1178;Twister;7;one;1
+1178;Twister;8;one;1
+1181;Flame Strike;1;one;13
+1181;Flame Strike;2;one;16
+1181;Flame Strike;3;one;19
+1182;Resist Aqua;1;one;1
+1182;Resist Aqua;2;one;1
+1182;Resist Aqua;3;one;1
+1184;Ice Bolt;1;one;8
+1184;Ice Bolt;2;one;9
+1184;Ice Bolt;3;one;11
+1184;Ice Bolt;4;one;13
+1184;Ice Bolt;5;one;14
+1184;Ice Bolt;6;one;16
+1189;Resist Wind;1;one;1
+1189;Resist Wind;2;one;1
+1189;Resist Wind;3;one;1
+1191;Resist Fire;1;one;1
+1191;Resist Fire;2;one;1
+1191;Resist Fire;3;one;1
+1201;Dryad Root;1;one;1
+1201;Dryad Root;2;one;1
+1201;Dryad Root;3;one;1
+1201;Dryad Root;4;one;1
+1201;Dryad Root;5;one;1
+1201;Dryad Root;6;one;1
+1201;Dryad Root;7;one;1
+1201;Dryad Root;8;one;1
+1201;Dryad Root;9;one;1
+1201;Dryad Root;10;one;1
+1201;Dryad Root;11;one;1
+1201;Dryad Root;12;one;1
+1201;Dryad Root;13;one;1
+1201;Dryad Root;14;one;1
+1201;Dryad Root;15;one;1
+1201;Dryad Root;16;one;1
+1201;Dryad Root;17;one;1
+1201;Dryad Root;18;one;1
+1201;Dryad Root;19;one;1
+1201;Dryad Root;20;one;1
+1201;Dryad Root;21;one;1
+1201;Dryad Root;22;one;1
+1201;Dryad Root;23;one;1
+1201;Dryad Root;24;one;1
+1204;Wind Walk;1;one;1
+1204;Wind Walk;2;one;1
+1206;Wind Shackle;1;one;1
+1206;Wind Shackle;2;one;1
+1206;Wind Shackle;3;one;1
+1206;Wind Shackle;4;one;1
+1206;Wind Shackle;5;one;1
+1216;Self Heal;1;self;42
+1217;Greater Heal;1;one;1
+1217;Greater Heal;2;one;1
+1217;Greater Heal;3;one;1
+1217;Greater Heal;4;one;1
+1217;Greater Heal;5;one;1
+1217;Greater Heal;6;one;1
+1217;Greater Heal;7;one;1
+1217;Greater Heal;8;one;1
+1217;Greater Heal;9;one;1
+1217;Greater Heal;10;one;1
+1217;Greater Heal;11;one;1
+1217;Greater Heal;12;one;1
+1217;Greater Heal;13;one;1
+1217;Greater Heal;14;one;1
+1217;Greater Heal;15;one;1
+1218;Greater Quick Heal;1;one;1
+1218;Greater Quick Heal;2;one;1
+1218;Greater Quick Heal;3;one;1
+1218;Greater Quick Heal;4;one;1
+1218;Greater Quick Heal;5;one;1
+1218;Greater Quick Heal;6;one;1
+1218;Greater Quick Heal;7;one;1
+1218;Greater Quick Heal;8;one;1
+1218;Greater Quick Heal;9;one;1
+1218;Greater Quick Heal;10;one;1
+1218;Greater Quick Heal;11;one;1
+1218;Greater Quick Heal;12;one;1
+1218;Greater Quick Heal;13;one;1
+1218;Greater Quick Heal;14;one;1
+1218;Greater Quick Heal;15;one;1
+1219;Greater Group Heal;1;party;1
+1219;Greater Group Heal;2;party;1
+1219;Greater Group Heal;3;party;1
+1219;Greater Group Heal;4;party;1
+1219;Greater Group Heal;5;party;1
+1219;Greater Group Heal;6;party;1
+1219;Greater Group Heal;7;party;1
+1219;Greater Group Heal;8;party;1
+1219;Greater Group Heal;9;party;1
+1219;Greater Group Heal;10;party;1
+1219;Greater Group Heal;11;party;1
+1219;Greater Group Heal;12;party;1
+1219;Greater Group Heal;13;party;1
+1219;Greater Group Heal;14;party;1
+1219;Greater Group Heal;15;party;1
+1220;Blaze;1;one;1
+1220;Blaze;2;one;1
+1220;Blaze;3;one;1
+1220;Blaze;4;one;1
+1220;Blaze;5;one;1
+1220;Blaze;6;one;1
+1220;Blaze;7;one;1
+1220;Blaze;8;one;1
+1222;Curse Chaos;1;one;1
+1222;Curse Chaos;2;one;1
+1222;Curse Chaos;3;one;1
+1223;Surrender To Earth;1;one;1
+1223;Surrender To Earth;2;one;1
+1224;Surrender To Poison;1;one;1
+1224;Surrender To Poison;2;one;1
+148;Vital Force;1;one;1
+148;Vital Force;2;one;1
+148;Vital Force;3;one;1
+148;Vital Force;4;one;1
+148;Vital Force;5;one;1
+148;Vital Force;6;one;1
+171;Esprit;1;one;1
+171;Esprit;2;one;1
+171;Esprit;3;one;1
+171;Esprit;4;one;1
+171;Esprit;5;one;1
+225;Acrobatic Move;1;one;1
+225;Acrobatic Move;2;one;1
+225;Acrobatic Move;3;one;1
+1043;Holy Weapon;1;one;1
+100;Stun Attack;1;one;1
+100;Stun Attack;2;one;1
+100;Stun Attack;3;one;1
+100;Stun Attack;4;one;1
+100;Stun Attack;5;one;1
+100;Stun Attack;6;one;1
+100;Stun Attack;7;one;1
+100;Stun Attack;8;one;1
+100;Stun Attack;9;one;1
+100;Stun Attack;10;one;1
+100;Stun Attack;11;one;1
+100;Stun Attack;12;one;1
+100;Stun Attack;13;one;1
+100;Stun Attack;14;one;1
+100;Stun Attack;15;one;1
+1035;Mental Aegis;1;one;1
+1035;Mental Aegis;2;one;1
+1035;Mental Aegis;3;one;1
+1035;Mental Aegis;4;one;1
+247;Build Headquarters;1;one;1
+2;Confusion;1;one;1
+2;Confusion;2;one;1
+2;Confusion;3;one;1
+15;Charm;1;one;1
+15;Charm;2;one;1
+15;Charm;3;one;1
+15;Charm;4;one;1
+15;Charm;5;one;1
+15;Charm;6;one;1
+15;Charm;7;one;1
+15;Charm;8;one;1
+15;Charm;9;one;1
+15;Charm;10;one;1
+15;Charm;11;one;1
+15;Charm;12;one;1
+15;Charm;13;one;1
+15;Charm;14;one;1
+15;Charm;15;one;1
+15;Charm;16;one;1
+15;Charm;17;one;1
+15;Charm;18;one;1
+15;Charm;19;one;1
+15;Charm;20;one;1
+15;Charm;21;one;1
+15;Charm;22;one;1
+15;Charm;23;one;1
+15;Charm;24;one;1
+15;Charm;25;one;1
+15;Charm;26;one;1
+15;Charm;27;one;1
+15;Charm;28;one;1
+15;Charm;29;one;1
+15;Charm;30;one;1
+15;Charm;31;one;1
+15;Charm;32;one;1
+15;Charm;33;one;1
+15;Charm;34;one;1
+15;Charm;35;one;1
+15;Charm;36;one;1
+27;Unlock;1;one;1
+27;Unlock;2;one;1
+27;Unlock;3;one;1
+27;Unlock;4;one;1
+27;Unlock;5;one;1
+27;Unlock;6;one;1
+27;Unlock;7;one;1
+27;Unlock;8;one;1
+27;Unlock;9;one;1
+29;Iron Punch;1;one;1
+29;Iron Punch;2;one;1
+29;Iron Punch;3;one;1
+29;Iron Punch;4;one;1
+29;Iron Punch;5;one;1
+29;Iron Punch;6;one;1
+29;Iron Punch;7;one;1
+29;Iron Punch;8;one;1
+29;Iron Punch;9;one;1
+29;Iron Punch;10;one;1
+29;Iron Punch;11;one;1
+29;Iron Punch;12;one;1
+29;Iron Punch;13;one;1
+29;Iron Punch;14;one;1
+29;Iron Punch;15;one;1
+29;Iron Punch;16;one;1
+29;Iron Punch;17;one;1
+29;Iron Punch;18;one;1
+29;Iron Punch;19;one;1
+29;Iron Punch;20;one;1
+29;Iron Punch;21;one;1
+29;Iron Punch;22;one;1
+29;Iron Punch;23;one;1
+29;Iron Punch;24;one;1
+34;Bandage;1;one;1
+34;Bandage;2;one;1
+50;Focus Force;1;one;1
+50;Focus Force;2;one;1
+50;Focus Force;3;one;1
+50;Focus Force;4;one;1
+54;Force Blaster;1;one;1
+54;Force Blaster;2;one;1
+54;Force Blaster;3;one;1
+54;Force Blaster;4;one;1
+54;Force Blaster;5;one;1
+54;Force Blaster;6;one;1
+54;Force Blaster;7;one;1
+54;Force Blaster;8;one;1
+54;Force Blaster;9;one;1
+54;Force Blaster;10;one;1
+54;Force Blaster;11;one;1
+54;Force Blaster;12;one;1
+54;Force Blaster;13;one;1
+54;Force Blaster;14;one;1
+54;Force Blaster;15;one;1
+54;Force Blaster;16;one;1
+54;Force Blaster;17;one;1
+54;Force Blaster;18;one;1
+54;Force Blaster;19;one;1
+54;Force Blaster;20;one;1
+54;Force Blaster;21;one;1
+54;Force Blaster;22;one;1
+54;Force Blaster;23;one;1
+54;Force Blaster;24;one;1
+54;Force Blaster;25;one;1
+54;Force Blaster;26;one;1
+54;Force Blaster;27;one;1
+54;Force Blaster;28;one;1
+54;Force Blaster;29;one;1
+54;Force Blaster;30;one;1
+54;Force Blaster;31;one;1
+54;Force Blaster;32;one;1
+54;Force Blaster;33;one;1
+76;Totem Spirit Bear;1;self;1
+83;Totem Spirit Wolf;1;self;1
+94;Rage;1;one;1
+94;Rage;2;one;1
+95;Cripple;1;one;1
+95;Cripple;2;one;1
+95;Cripple;3;one;1
+96;Bleed;1;one;1
+96;Bleed;2;one;1
+96;Bleed;3;one;1
+96;Bleed;4;one;1
+120;Stunning Fist;1;one;1
+120;Stunning Fist;2;one;1
+120;Stunning Fist;3;one;1
+120;Stunning Fist;4;one;1
+120;Stunning Fist;5;one;1
+120;Stunning Fist;6;one;1
+120;Stunning Fist;7;one;1
+120;Stunning Fist;8;one;1
+120;Stunning Fist;9;one;1
+120;Stunning Fist;10;one;1
+120;Stunning Fist;11;one;1
+120;Stunning Fist;12;one;1
+120;Stunning Fist;13;one;1
+120;Stunning Fist;14;one;1
+120;Stunning Fist;15;one;1
+134;Toughness;1;self;1
+139;Guts;1;one;1
+139;Guts;2;one;1
+139;Guts;3;one;1
+172;Create Item;1;self;1
+172;Create Item;2;self;1
+172;Create Item;3;self;1
+172;Create Item;4;self;1
+172;Create Item;5;self;1
+172;Create Item;6;self;1
+172;Create Item;7;self;1
+172;Create Item;8;self;1
+173;Acrobat;1;self;1
+173;Acrobat;2;self;1
+176;Frenzy;1;self;1
+176;Frenzy;2;self;1
+176;Frenzy;3;self;1
+195;Boost Breath;1;self;1
+195;Boost Breath;2;self;1
+205;Blunt Mastery;1;self;1
+205;Blunt Mastery;2;self;1
+205;Blunt Mastery;3;self;1
+205;Blunt Mastery;4;self;1
+205;Blunt Mastery;5;self;1
+205;Blunt Mastery;6;self;1
+205;Blunt Mastery;7;self;1
+205;Blunt Mastery;8;self;1
+205;Blunt Mastery;9;self;1
+205;Blunt Mastery;10;self;1
+205;Blunt Mastery;11;self;1
+205;Blunt Mastery;12;self;1
+205;Blunt Mastery;13;self;1
+205;Blunt Mastery;14;self;1
+205;Blunt Mastery;15;self;1
+205;Blunt Mastery;16;self;1
+205;Blunt Mastery;17;self;1
+205;Blunt Mastery;18;self;1
+205;Blunt Mastery;19;self;1
+205;Blunt Mastery;20;self;1
+205;Blunt Mastery;21;self;1
+205;Blunt Mastery;22;self;1
+205;Blunt Mastery;23;self;1
+205;Blunt Mastery;24;self;1
+205;Blunt Mastery;25;self;1
+205;Blunt Mastery;26;self;1
+205;Blunt Mastery;27;self;1
+205;Blunt Mastery;28;self;1
+205;Blunt Mastery;29;self;1
+210;Fist Mastery;1;self;1
+210;Fist Mastery;2;self;1
+210;Fist Mastery;3;self;1
+210;Fist Mastery;4;self;1
+210;Fist Mastery;5;self;1
+210;Fist Mastery;6;self;1
+210;Fist Mastery;7;self;1
+210;Fist Mastery;8;self;1
+210;Fist Mastery;9;self;1
+210;Fist Mastery;10;self;1
+210;Fist Mastery;11;self;1
+210;Fist Mastery;12;self;1
+210;Fist Mastery;13;self;1
+210;Fist Mastery;14;self;1
+210;Fist Mastery;15;self;1
+210;Fist Mastery;16;self;1
+210;Fist Mastery;17;self;1
+210;Fist Mastery;18;self;1
+210;Fist Mastery;19;self;1
+210;Fist Mastery;20;self;1
+210;Fist Mastery;21;self;1
+210;Fist Mastery;22;self;1
+210;Fist Mastery;23;self;1
+210;Fist Mastery;24;self;1
+210;Fist Mastery;25;self;1
+210;Fist Mastery;26;self;1
+210;Fist Mastery;27;self;1
+210;Fist Mastery;28;self;1
+210;Fist Mastery;29;self;1
+223;Sting;1;one;1
+223;Sting;2;one;1
+223;Sting;3;one;1
+223;Sting;4;one;1
+223;Sting;5;one;1
+223;Sting;6;one;1
+223;Sting;7;one;1
+223;Sting;8;one;1
+223;Sting;9;one;1
+223;Sting;10;one;1
+223;Sting;11;one;1
+223;Sting;12;one;1
+223;Sting;13;one;1
+223;Sting;14;one;1
+223;Sting;15;one;1
+223;Sting;16;one;1
+223;Sting;17;one;1
+223;Sting;18;one;1
+223;Sting;19;one;1
+223;Sting;20;one;1
+223;Sting;21;one;1
+223;Sting;22;one;1
+223;Sting;23;one;1
+223;Sting;24;one;1
+223;Sting;25;one;1
+223;Sting;26;one;1
+223;Sting;27;one;1
+223;Sting;28;one;1
+223;Sting;29;one;1
+223;Sting;30;one;1
+223;Sting;31;one;1
+223;Sting;32;one;1
+223;Sting;33;one;1
+245;Wild Sweep;1;one;1
+245;Wild Sweep;2;one;1
+245;Wild Sweep;3;one;1
+245;Wild Sweep;4;one;1
+245;Wild Sweep;5;one;1
+245;Wild Sweep;6;one;1
+245;Wild Sweep;7;one;1
+245;Wild Sweep;8;one;1
+245;Wild Sweep;9;one;1
+245;Wild Sweep;10;one;1
+245;Wild Sweep;11;one;1
+245;Wild Sweep;12;one;1
+245;Wild Sweep;13;one;1
+245;Wild Sweep;14;one;1
+245;Wild Sweep;15;one;1
+248;Crystallize;1;self;1
+248;Crystallize;2;self;1
+248;Crystallize;3;self;1
+249;Weapon Mastery;1;self;1
+249;Weapon Mastery;2;self;1
+249;Weapon Mastery;3;self;1
+249;Weapon Mastery;4;self;1
+249;Weapon Mastery;5;self;1
+249;Weapon Mastery;6;self;1
+249;Weapon Mastery;7;self;1
+249;Weapon Mastery;8;self;1
+249;Weapon Mastery;9;self;1
+249;Weapon Mastery;10;self;1
+249;Weapon Mastery;11;self;1
+249;Weapon Mastery;12;self;1
+249;Weapon Mastery;13;self;1
+249;Weapon Mastery;14;self;1
+249;Weapon Mastery;15;self;1
+249;Weapon Mastery;16;self;1
+249;Weapon Mastery;17;self;1
+249;Weapon Mastery;18;self;1
+249;Weapon Mastery;19;self;1
+249;Weapon Mastery;20;self;1
+249;Weapon Mastery;21;self;1
+249;Weapon Mastery;22;self;1
+249;Weapon Mastery;23;self;1
+249;Weapon Mastery;24;self;1
+250;Weapon Mastery;1;self;1
+250;Weapon Mastery;2;self;1
+250;Weapon Mastery;3;self;1
+250;Weapon Mastery;4;self;1
+250;Weapon Mastery;5;self;1
+250;Weapon Mastery;6;self;1
+250;Weapon Mastery;7;self;1
+250;Weapon Mastery;8;self;1
+250;Weapon Mastery;9;self;1
+250;Weapon Mastery;10;self;1
+250;Weapon Mastery;11;self;1
+250;Weapon Mastery;12;self;1
+250;Weapon Mastery;13;self;1
+250;Weapon Mastery;14;self;1
+250;Weapon Mastery;15;self;1
+250;Weapon Mastery;16;self;1
+250;Weapon Mastery;17;self;1
+250;Weapon Mastery;18;self;1
+250;Weapon Mastery;19;self;1
+250;Weapon Mastery;20;self;1
+250;Weapon Mastery;21;self;1
+250;Weapon Mastery;22;self;1
+250;Weapon Mastery;23;self;1
+250;Weapon Mastery;24;self;1
+251;Robe Mastery;1;self;1
+251;Robe Mastery;2;self;1
+251;Robe Mastery;3;self;1
+251;Robe Mastery;4;self;1
+251;Robe Mastery;5;self;1
+251;Robe Mastery;6;self;1
+251;Robe Mastery;7;self;1
+251;Robe Mastery;8;self;1
+251;Robe Mastery;9;self;1
+251;Robe Mastery;10;self;1
+251;Robe Mastery;11;self;1
+251;Robe Mastery;12;self;1
+251;Robe Mastery;13;self;1
+251;Robe Mastery;14;self;1
+251;Robe Mastery;15;self;1
+251;Robe Mastery;16;self;1
+251;Robe Mastery;17;self;1
+251;Robe Mastery;18;self;1
+251;Robe Mastery;19;self;1
+251;Robe Mastery;20;self;1
+251;Robe Mastery;21;self;1
+251;Robe Mastery;22;self;1
+251;Robe Mastery;23;self;1
+251;Robe Mastery;24;self;1
+251;Robe Mastery;25;self;1
+251;Robe Mastery;26;self;1
+251;Robe Mastery;27;self;1
+252;Light Armor Mastery;1;self;1
+252;Light Armor Mastery;2;self;1
+252;Light Armor Mastery;3;self;1
+252;Light Armor Mastery;4;self;1
+252;Light Armor Mastery;5;self;1
+252;Light Armor Mastery;6;self;1
+252;Light Armor Mastery;7;self;1
+252;Light Armor Mastery;8;self;1
+252;Light Armor Mastery;9;self;1
+252;Light Armor Mastery;10;self;1
+252;Light Armor Mastery;11;self;1
+252;Light Armor Mastery;12;self;1
+252;Light Armor Mastery;13;self;1
+252;Light Armor Mastery;14;self;1
+252;Light Armor Mastery;15;self;1
+252;Light Armor Mastery;16;self;1
+252;Light Armor Mastery;17;self;1
+252;Light Armor Mastery;18;self;1
+252;Light Armor Mastery;19;self;1
+252;Light Armor Mastery;20;self;1
+252;Light Armor Mastery;21;self;1
+252;Light Armor Mastery;22;self;1
+252;Light Armor Mastery;23;self;1
+252;Light Armor Mastery;24;self;1
+252;Light Armor Mastery;25;self;1
+252;Light Armor Mastery;26;self;1
+252;Light Armor Mastery;27;self;1
+253;Heavy Armor Mastery;1;self;1
+253;Heavy Armor Mastery;2;self;1
+253;Heavy Armor Mastery;3;self;1
+253;Heavy Armor Mastery;4;self;1
+253;Heavy Armor Mastery;5;self;1
+253;Heavy Armor Mastery;6;self;1
+253;Heavy Armor Mastery;7;self;1
+253;Heavy Armor Mastery;8;self;1
+253;Heavy Armor Mastery;9;self;1
+253;Heavy Armor Mastery;10;self;1
+253;Heavy Armor Mastery;11;self;1
+253;Heavy Armor Mastery;12;self;1
+253;Heavy Armor Mastery;13;self;1
+253;Heavy Armor Mastery;14;self;1
+253;Heavy Armor Mastery;15;self;1
+253;Heavy Armor Mastery;16;self;1
+253;Heavy Armor Mastery;17;self;1
+253;Heavy Armor Mastery;18;self;1
+253;Heavy Armor Mastery;19;self;1
+253;Heavy Armor Mastery;20;self;1
+253;Heavy Armor Mastery;21;self;1
+253;Heavy Armor Mastery;22;self;1
+253;Heavy Armor Mastery;23;self;1
+253;Heavy Armor Mastery;24;self;1
+253;Heavy Armor Mastery;25;self;1
+1001;Soul Cry;1;self;1
+1001;Soul Cry;2;self;1
+1001;Soul Cry;3;self;1
+1001;Soul Cry;4;self;1
+1001;Soul Cry;5;self;1
+1001;Soul Cry;6;self;1
+1001;Soul Cry;7;self;1
+1002;Chant of Flame;1;one;1
+1002;Chant of Flame;2;one;1
+1002;Chant of Flame;3;one;1
+1003;Power of Paagrio;1;one;1
+1003;Power of Paagrio;2;one;1
+1003;Power of Paagrio;3;one;1
+1005;Blessing of Paagrio;1;one;1
+1005;Blessing of Paagrio;2;one;1
+1005;Blessing of Paagrio;3;one;1
+1006;Chant of Fire;1;one;1
+1006;Chant of Fire;2;one;1
+1006;Chant of Fire;3;one;1
+1007;Chant of Battle;1;one;1
+1007;Chant of Battle;2;one;1
+1007;Chant of Battle;3;one;1
+1009;Chant of Shielding;1;one;1
+1009;Chant of Shielding;2;one;1
+1009;Chant of Shielding;3;one;1
+1010;Soul Shield;1;one;1
+1010;Soul Shield;2;one;1
+1010;Soul Shield;3;one;1
+1016;Greater Resurrection;1;one;1
+1016;Greater Resurrection;2;one;1
+1016;Greater Resurrection;3;one;1
+1016;Greater Resurrection;4;one;1
+1016;Greater Resurrection;5;one;1
+1073;Kiss of Eva;1;one;1
+1073;Kiss of Eva;2;one;1
+1075;Peace;1;one;1
+1075;Peace;2;one;1
+1090;Life Drain;1;one;1
+1090;Life Drain;2;one;1
+1090;Life Drain;3;one;1
+1092;Fear;1;one;1
+1092;Fear;2;one;1
+1092;Fear;3;one;1
+1095;Venom;1;one;1
+1095;Venom;2;one;1
+1095;Venom;3;one;1
+1095;Venom;4;one;1
+1095;Venom;5;one;1
+1096;Seal of Chaos;1;one;1
+1096;Seal of Chaos;2;one;1
+1096;Seal of Chaos;3;one;1
+1097;Dreaming Spirit;1;one;1
+1097;Dreaming Spirit;2;one;1
+1097;Dreaming Spirit;3;one;1
+1099;Seal of Slow;1;one;1
+1099;Seal of Slow;2;one;1
+1099;Seal of Slow;3;one;1
+1100;Chill Flame;1;one;1
+1100;Chill Flame;2;one;1
+1101;Blaze Quake;1;one;1
+1101;Blaze Quake;2;one;1
+1102;Aura Sink;1;one;1
+1102;Aura Sink;2;one;1
+1102;Aura Sink;3;one;1
+1102;Aura Sink;4;one;1
+1105;Madness;1;one;1
+1105;Madness;2;one;1
+1105;Madness;3;one;1
+1107;Frost Flame;1;one;1
+1107;Frost Flame;2;one;1
+1151;Corpse Life Drain;1;one;1
+1151;Corpse Life Drain;2;one;1
+1151;Corpse Life Drain;3;one;1
+1151;Corpse Life Drain;4;one;1
+1151;Corpse Life Drain;5;one;1
+1151;Corpse Life Drain;6;one;1
+1151;Corpse Life Drain;7;one;1
+1157;Body To Mind;1;one;1
+1157;Body To Mind;2;one;1
+1157;Body To Mind;3;one;1
+1208;Seal of Binding;1;one;1
+1208;Seal of Binding;2;one;1
+1208;Seal of Binding;3;one;1
+1208;Seal of Binding;4;one;1
+1209;Seal of Poison;1;one;1
+1209;Seal of Poison;2;one;1
+1209;Seal of Poison;3;one;1
+1209;Seal of Poison;4;one;1
+1128;Summon Shadow;1;pet;1
+1128;Summon Shadow;2;pet;1
+1128;Summon Shadow;3;pet;1
+1128;Summon Shadow;4;pet;1
+1128;Summon Shadow;5;pet;1
+1225;Summon Mew the Cat;1;pet;1
+1225;Summon Mew the Cat;2;pet;1
+1225;Summon Mew the Cat;3;pet;1
+1225;Summon Mew the Cat;4;pet;1
+1226;Summon Unicorn Boxer;1;pet;1
+1226;Summon Unicorn Boxer;2;pet;1
+1226;Summon Unicorn Boxer;3;pet;1
+1226;Summon Unicorn Boxer;4;pet;1
+1226;Summon Unicorn Boxer;5;pet;1
+1227;Summon Unicorn Mirage;1;pet;1
+1227;Summon Unicorn Mirage;2;pet;1
+1227;Summon Unicorn Mirage;3;pet;1
+1227;Summon Unicorn Mirage;4;pet;1
+1228;Summon Silhouette;1;pet;1
+1228;Summon Silhouette;2;pet;1
+1228;Summon Silhouette;3;pet;1
+1228;Summon Silhouette;4;pet;1
+42;Sweeper;1;one;1
+254;Spoil;1;one;1
+254;Spoil;2;one;1
+254;Spoil;3;one;1
+254;Spoil;4;one;1
+254;Spoil;5;one;1
+254;Spoil;6;one;1
+254;Spoil;7;one;1
+110;Ultimate Defence;1;self;1
+110;Ultimate Defence;2;self;1
+111;Ultimate Evasion;1;self;1
+111;Ultimate Evasion;2;self;1
+255;Power Smash;1;one;1
+255;Power Smash;2;one;1
+255;Power Smash;3;one;1
+255;Power Smash;4;one;1
+255;Power Smash;5;one;1
+255;Power Smash;6;one;1
+255;Power Smash;7;one;1
+255;Power Smash;8;one;1
+255;Power Smash;9;one;1
+255;Power Smash;10;one;1
+255;Power Smash;11;one;1
+255;Power Smash;12;one;1
+255;Power Smash;13;one;1
+255;Power Smash;14;one;1
+255;Power Smash;15;one;1
+256;Accuracy;1;self;1
+257;Sword Blunt Mastery;1;self;1
+257;Sword Blunt Mastery;2;self;1
+257;Sword Blunt Mastery;3;self;1
+257;Sword Blunt Mastery;4;self;1
+257;Sword Blunt Mastery;5;self;1
+257;Sword Blunt Mastery;6;self;1
+257;Sword Blunt Mastery;7;self;1
+257;Sword Blunt Mastery;8;self;1
+257;Sword Blunt Mastery;9;self;1
+257;Sword Blunt Mastery;10;self;1
+257;Sword Blunt Mastery;11;self;1
+257;Sword Blunt Mastery;12;self;1
+257;Sword Blunt Mastery;13;self;1
+257;Sword Blunt Mastery;14;self;1
+257;Sword Blunt Mastery;15;self;1
+257;Sword Blunt Mastery;16;self;1
+257;Sword Blunt Mastery;17;self;1
+257;Sword Blunt Mastery;18;self;1
+257;Sword Blunt Mastery;19;self;1
+257;Sword Blunt Mastery;20;self;1
+257;Sword Blunt Mastery;21;self;1
+257;Sword Blunt Mastery;22;self;1
+257;Sword Blunt Mastery;23;self;1
+257;Sword Blunt Mastery;24;self;1
+257;Sword Blunt Mastery;25;self;1
+257;Sword Blunt Mastery;26;self;1
+257;Sword Blunt Mastery;27;self;1
+257;Sword Blunt Mastery;28;self;1
+257;Sword Blunt Mastery;29;self;1
+1229;Chant of Life;1;one;1
+1229;Chant of Life;2;one;1
+1229;Chant of Life;3;one;1
+1229;Chant of Life;4;one;1
+1229;Chant of Life;5;one;1
+1229;Chant of Life;6;one;1
+1229;Chant of Life;7;one;1
+1229;Chant of Life;8;one;1
+1229;Chant of Life;9;one;1
+1;Triple Hit;1;one;1
+1;Triple Hit;2;one;1
+1;Triple Hit;3;one;1
+1;Triple Hit;4;one;1
+1;Triple Hit;5;one;1
+1;Triple Hit;6;one;1
+1;Triple Hit;7;one;1
+1;Triple Hit;8;one;1
+1;Triple Hit;9;one;1
+1;Triple Hit;10;one;1
+1;Triple Hit;11;one;1
+1;Triple Hit;12;one;1
+1;Triple Hit;13;one;1
+1;Triple Hit;14;one;1
+1;Triple Hit;15;one;1
+1;Triple Hit;16;one;1
+1;Triple Hit;17;one;1
+1;Triple Hit;18;one;1
+1;Triple Hit;19;one;1
+1;Triple Hit;20;one;1
+1;Triple Hit;21;one;1
+5;Triple Energy Strike;1;one;1
+5;Triple Energy Strike;2;one;1
+5;Triple Energy Strike;3;one;1
+5;Triple Energy Strike;4;one;1
+5;Triple Energy Strike;5;one;1
+5;Triple Energy Strike;6;one;1
+5;Triple Energy Strike;7;one;1
+5;Triple Energy Strike;8;one;1
+5;Triple Energy Strike;9;one;1
+5;Triple Energy Strike;10;one;1
+5;Triple Energy Strike;11;one;1
+5;Triple Energy Strike;12;one;1
+5;Triple Energy Strike;13;one;1
+5;Triple Energy Strike;14;one;1
+5;Triple Energy Strike;15;one;1
+6;Energy Blast;1;one;1
+6;Energy Blast;2;one;1
+6;Energy Blast;3;one;1
+6;Energy Blast;4;one;1
+6;Energy Blast;5;one;1
+6;Energy Blast;6;one;1
+6;Energy Blast;7;one;1
+6;Energy Blast;8;one;1
+6;Energy Blast;9;one;1
+6;Energy Blast;10;one;1
+6;Energy Blast;11;one;1
+6;Energy Blast;12;one;1
+6;Energy Blast;13;one;1
+6;Energy Blast;14;one;1
+6;Energy Blast;15;one;1
+6;Energy Blast;16;one;1
+6;Energy Blast;17;one;1
+6;Energy Blast;18;one;1
+6;Energy Blast;19;one;1
+6;Energy Blast;20;one;1
+6;Energy Blast;21;one;1
+7;Engery Storm;1;one;1
+7;Engery Storm;2;one;1
+7;Engery Storm;3;one;1
+7;Engery Storm;4;one;1
+7;Engery Storm;5;one;1
+7;Engery Storm;6;one;1
+7;Engery Storm;7;one;1
+7;Engery Storm;8;one;1
+7;Engery Storm;9;one;1
+7;Engery Storm;10;one;1
+7;Engery Storm;11;one;1
+7;Engery Storm;12;one;1
+8;Focus Energy;1;one;1
+8;Focus Energy;2;one;1
+8;Focus Energy;3;one;1
+8;Focus Energy;4;one;1
+9;Energy Burst;1;one;1
+9;Energy Burst;2;one;1
+9;Energy Burst;3;one;1
+9;Energy Burst;4;one;1
+9;Energy Burst;5;one;1
+9;Energy Burst;6;one;1
+9;Energy Burst;7;one;1
+9;Energy Burst;8;one;1
+9;Energy Burst;9;one;1
+9;Energy Burst;10;one;1
+9;Energy Burst;11;one;1
+9;Energy Burst;12;one;1
+9;Energy Burst;13;one;1
+9;Energy Burst;14;one;1
+9;Energy Burst;15;one;1
+9;Energy Burst;16;one;1
+9;Energy Burst;17;one;1
+9;Energy Burst;18;one;1
+10;Summon Wind Cubic;1;pet;1
+10;Summon Wind Cubic;2;pet;1
+10;Summon Wind Cubic;3;pet;1
+11;Calm;1;one;1
+11;Calm;2;one;1
+12;Negotiation;1;one;1
+12;Negotiation;2;one;1
+17;Force Blast;1;one;1
+17;Force Blast;2;one;1
+17;Force Blast;3;one;1
+17;Force Blast;4;one;1
+17;Force Blast;5;one;1
+17;Force Blast;6;one;1
+17;Force Blast;7;one;1
+17;Force Blast;8;one;1
+17;Force Blast;9;one;1
+17;Force Blast;10;one;1
+17;Force Blast;11;one;1
+17;Force Blast;12;one;1
+17;Force Blast;13;one;1
+17;Force Blast;14;one;1
+17;Force Blast;15;one;1
+17;Force Blast;16;one;1
+17;Force Blast;17;one;1
+17;Force Blast;18;one;1
+18;Mighty Guard;1;one;1
+18;Mighty Guard;2;one;1
+18;Mighty Guard;3;one;1
+18;Mighty Guard;4;one;1
+18;Mighty Guard;5;one;1
+18;Mighty Guard;6;one;1
+18;Mighty Guard;7;one;1
+18;Mighty Guard;8;one;1
+18;Mighty Guard;9;one;1
+18;Mighty Guard;10;one;1
+18;Mighty Guard;11;one;1
+18;Mighty Guard;12;one;1
+18;Mighty Guard;13;one;1
+18;Mighty Guard;14;one;1
+18;Mighty Guard;15;one;1
+18;Mighty Guard;16;one;1
+18;Mighty Guard;17;one;1
+18;Mighty Guard;18;one;1
+18;Mighty Guard;19;one;1
+18;Mighty Guard;20;one;1
+18;Mighty Guard;21;one;1
+19;Double Shot;1;one;1
+19;Double Shot;2;one;1
+19;Double Shot;3;one;1
+19;Double Shot;4;one;1
+19;Double Shot;5;one;1
+19;Double Shot;6;one;1
+19;Double Shot;7;one;1
+19;Double Shot;8;one;1
+19;Double Shot;9;one;1
+19;Double Shot;10;one;1
+19;Double Shot;11;one;1
+19;Double Shot;12;one;1
+19;Double Shot;13;one;1
+19;Double Shot;14;one;1
+19;Double Shot;15;one;1
+19;Double Shot;16;one;1
+19;Double Shot;17;one;1
+19;Double Shot;18;one;1
+19;Double Shot;19;one;1
+19;Double Shot;20;one;1
+19;Double Shot;21;one;1
+22;Summon Vampiric Cube;1;pet;1
+22;Summon Vampiric Cube;2;pet;1
+22;Summon Vampiric Cube;3;pet;1
+24;Multi Shot;1;one;1
+24;Multi Shot;2;one;1
+24;Multi Shot;3;one;1
+24;Multi Shot;4;one;1
+24;Multi Shot;5;one;1
+24;Multi Shot;6;one;1
+24;Multi Shot;7;one;1
+24;Multi Shot;8;one;1
+24;Multi Shot;9;one;1
+24;Multi Shot;10;one;1
+24;Multi Shot;11;one;1
+24;Multi Shot;12;one;1
+24;Multi Shot;13;one;1
+24;Multi Shot;14;one;1
+24;Multi Shot;15;one;1
+25;Summon Mech Golem;1;pet;1
+25;Summon Mech Golem;2;pet;1
+25;Summon Mech Golem;3;pet;1
+25;Summon Mech Golem;4;pet;1
+25;Summon Mech Golem;5;pet;1
+30;Backstab;1;one;1
+30;Backstab;2;one;1
+30;Backstab;3;one;1
+30;Backstab;4;one;1
+30;Backstab;5;one;1
+30;Backstab;6;one;1
+30;Backstab;7;one;1
+30;Backstab;8;one;1
+30;Backstab;9;one;1
+30;Backstab;10;one;1
+30;Backstab;11;one;1
+30;Backstab;12;one;1
+30;Backstab;13;one;1
+30;Backstab;14;one;1
+30;Backstab;15;one;1
+30;Backstab;16;one;1
+30;Backstab;17;one;1
+30;Backstab;18;one;1
+30;Backstab;19;one;1
+30;Backstab;20;one;1
+30;Backstab;21;one;1
+33;Summon Assist Cubic;1;pet;1
+33;Summon Assist Cubic;2;pet;1
+33;Summon Assist Cubic;3;pet;1
+35;Force Storm;1;one;1
+35;Force Storm;2;one;1
+35;Force Storm;3;one;1
+35;Force Storm;4;one;1
+35;Force Storm;5;one;1
+35;Force Storm;6;one;1
+35;Force Storm;7;one;1
+35;Force Storm;8;one;1
+35;Force Storm;9;one;1
+35;Force Storm;10;one;1
+35;Force Storm;11;one;1
+35;Force Storm;12;one;1
+36;Whirlwind;1;one;1
+36;Whirlwind;2;one;1
+36;Whirlwind;3;one;1
+36;Whirlwind;4;one;1
+36;Whirlwind;5;one;1
+36;Whirlwind;6;one;1
+36;Whirlwind;7;one;1
+36;Whirlwind;8;one;1
+36;Whirlwind;9;one;1
+36;Whirlwind;10;one;1
+36;Whirlwind;11;one;1
+36;Whirlwind;12;one;1
+36;Whirlwind;13;one;1
+36;Whirlwind;14;one;1
+36;Whirlwind;15;one;1
+36;Whirlwind;16;one;1
+36;Whirlwind;17;one;1
+36;Whirlwind;18;one;1
+36;Whirlwind;19;one;1
+36;Whirlwind;20;one;1
+36;Whirlwind;21;one;1
+44;Remedy;1;one;1
+44;Remedy;2;one;1
+46;Energy Scavenger;1;one;1
+46;Energy Scavenger;2;one;1
+46;Energy Scavenger;3;one;1
+46;Energy Scavenger;4;one;1
+46;Energy Scavenger;5;one;1
+46;Energy Scavenger;6;one;1
+46;Energy Scavenger;7;one;1
+48;Thunder Clap;1;one;1
+48;Thunder Clap;2;one;1
+48;Thunder Clap;3;one;1
+48;Thunder Clap;4;one;1
+48;Thunder Clap;5;one;1
+48;Thunder Clap;6;one;1
+48;Thunder Clap;7;one;1
+48;Thunder Clap;8;one;1
+48;Thunder Clap;9;one;1
+48;Thunder Clap;10;one;1
+48;Thunder Clap;11;one;1
+48;Thunder Clap;12;one;1
+48;Thunder Clap;13;one;1
+48;Thunder Clap;14;one;1
+48;Thunder Clap;15;one;1
+48;Thunder Clap;16;one;1
+48;Thunder Clap;17;one;1
+48;Thunder Clap;18;one;1
+48;Thunder Clap;19;one;1
+48;Thunder Clap;20;one;1
+48;Thunder Clap;21;one;1
+49;Ward Undead;1;one;1
+49;Ward Undead;2;one;1
+49;Ward Undead;3;one;1
+49;Ward Undead;4;one;1
+49;Ward Undead;5;one;1
+49;Ward Undead;6;one;1
+49;Ward Undead;7;one;1
+49;Ward Undead;8;one;1
+49;Ward Undead;9;one;1
+49;Ward Undead;10;one;1
+51;Noise;1;one;1
+60;Death Pose;1;one;1
+65;Fear;1;one;1
+65;Fear;2;one;1
+67;Summon Heal Cubic;1;pet;1
+67;Summon Heal Cubic;2;pet;1
+67;Summon Heal Cubic;3;pet;1
+69;Sacrifice;1;one;1
+69;Sacrifice;2;one;1
+69;Sacrifice;3;one;1
+69;Sacrifice;4;one;1
+69;Sacrifice;5;one;1
+69;Sacrifice;6;one;1
+69;Sacrifice;7;one;1
+69;Sacrifice;8;one;1
+69;Sacrifice;9;one;1
+72;Iron Will;1;one;1
+72;Iron Will;2;one;1
+72;Iron Will;3;one;1
+75;Detect Insect Weakness;1;one;1
+80;Detect Monster Weakness;1;one;1
+81;Deadly Blow;1;one;1
+84;Poison Dancing Blade;1;one;1
+86;Damage Shield;1;one;1
+86;Damage Shield;2;one;1
+86;Damage Shield;3;one;1
+87;Detect Animal Weakness;1;one;1
+88;Detect  Dragon Weakness;1;one;1
+97;Sanctuary;1;one;1
+97;Sanctuary;2;one;1
+98;Singing Sword;1;one;1
+103;Rotting Corpse;1;one;1
+103;Rotting Corpse;2;one;1
+104;Detect Plant Weakness;1;one;1
+106;Dim Sense;1;one;1
+106;Dim Sense;2;one;1
+107;Holy Aura;1;one;1
+109;Spirit of Orge;1;one;1
+116;Howl;1;one;1
+116;Howl;2;one;1
+122;Spirit Curse;1;one;1
+122;Spirit Curse;2;one;1
+123;Spirit Protection;1;one;1
+123;Spirit Protection;2;one;1
+123;Spirit Protection;3;one;1
+127;Cripple;1;one;1
+127;Cripple;2;one;1
+130;Edge Fight;1;one;1
+130;Edge Fight;2;one;1
+131;Hawk Eye;1;one;1
+131;Hawk Eye;2;one;1
+131;Hawk Eye;3;one;1
+143;Summon Multi Cubic;1;one;1
+143;Summon Multi Cubic;2;one;1
+144;Dual Weapon Mastery;1;one;1
+144;Dual Weapon Mastery;2;one;1
+144;Dual Weapon Mastery;3;one;1
+144;Dual Weapon Mastery;4;one;1
+144;Dual Weapon Mastery;5;one;1
+144;Dual Weapon Mastery;6;one;1
+144;Dual Weapon Mastery;7;one;1
+144;Dual Weapon Mastery;8;one;1
+144;Dual Weapon Mastery;9;one;1
+144;Dual Weapon Mastery;10;one;1
+144;Dual Weapon Mastery;11;one;1
+144;Dual Weapon Mastery;12;one;1
+144;Dual Weapon Mastery;13;one;1
+144;Dual Weapon Mastery;14;one;1
+144;Dual Weapon Mastery;15;one;1
+144;Dual Weapon Mastery;16;one;1
+144;Dual Weapon Mastery;17;one;1
+144;Dual Weapon Mastery;18;one;1
+144;Dual Weapon Mastery;19;one;1
+144;Dual Weapon Mastery;20;one;1
+144;Dual Weapon Mastery;21;one;1
+150;Weight Limit;1;self;1
+150;Weight Limit;2;self;1
+150;Weight Limit;3;self;1
+165;Trade;1;one;1
+165;Trade;2;one;1
+165;Trade;3;one;1
+165;Trade;4;one;1
+165;Trade;5;one;1
+181;Revival;1;one;1
+190;Fatal Strike;1;one;1
+190;Fatal Strike;2;one;1
+190;Fatal Strike;3;one;1
+190;Fatal Strike;4;one;1
+190;Fatal Strike;5;one;1
+190;Fatal Strike;6;one;1
+190;Fatal Strike;7;one;1
+190;Fatal Strike;8;one;1
+190;Fatal Strike;9;one;1
+190;Fatal Strike;10;one;1
+190;Fatal Strike;11;one;1
+190;Fatal Strike;12;one;1
+190;Fatal Strike;13;one;1
+190;Fatal Strike;14;one;1
+190;Fatal Strike;15;one;1
+190;Fatal Strike;16;one;1
+190;Fatal Strike;17;one;1
+190;Fatal Strike;18;one;1
+190;Fatal Strike;19;one;1
+190;Fatal Strike;20;one;1
+190;Fatal Strike;21;one;1
+196;Holy Blade;1;one;1
+197;Holy Armor;1;one;1
+197;Holy Armor;2;one;1
+221;Silent Walk;1;one;1
+222;Hundred Fist;1;one;1
+258;Light Armor Mastery;1;one;1
+258;Light Armor Mastery;2;one;1
+258;Light Armor Mastery;3;one;1
+258;Light Armor Mastery;4;one;1
+258;Light Armor Mastery;5;one;1
+258;Light Armor Mastery;6;one;1
+258;Light Armor Mastery;7;one;1
+258;Light Armor Mastery;8;one;1
+258;Light Armor Mastery;9;one;1
+258;Light Armor Mastery;10;one;1
+258;Light Armor Mastery;11;one;1
+258;Light Armor Mastery;12;one;1
+258;Light Armor Mastery;13;one;1
+258;Light Armor Mastery;14;one;1
+258;Light Armor Mastery;15;one;1
+259;Heavy Armor Mastery;1;one;1
+259;Heavy Armor Mastery;2;one;1
+259;Heavy Armor Mastery;3;one;1
+259;Heavy Armor Mastery;4;one;1
+259;Heavy Armor Mastery;5;one;1
+259;Heavy Armor Mastery;6;one;1
+259;Heavy Armor Mastery;7;one;1
+259;Heavy Armor Mastery;8;one;1
+259;Heavy Armor Mastery;9;one;1
+259;Heavy Armor Mastery;10;one;1
+259;Heavy Armor Mastery;11;one;1
+259;Heavy Armor Mastery;12;one;1
+259;Heavy Armor Mastery;13;one;1
+259;Heavy Armor Mastery;14;one;1
+259;Heavy Armor Mastery;15;one;1
+260;Stun Crush;1;one;1
+260;Stun Crush;2;one;1
+260;Stun Crush;3;one;1
+260;Stun Crush;4;one;1
+260;Stun Crush;5;one;1
+260;Stun Crush;6;one;1
+260;Stun Crush;7;one;1
+260;Stun Crush;8;one;1
+260;Stun Crush;9;one;1
+260;Stun Crush;10;one;1
+260;Stun Crush;11;one;1
+260;Stun Crush;12;one;1
+260;Stun Crush;13;one;1
+260;Stun Crush;14;one;1
+260;Stun Crush;15;one;1
+260;Stun Crush;16;one;1
+260;Stun Crush;17;one;1
+260;Stun Crush;18;one;1
+260;Stun Crush;19;one;1
+260;Stun Crush;20;one;1
+260;Stun Crush;21;one;1
+261;null;1;one;1
+261;null;2;one;1
+261;null;3;one;1
+261;null;4;one;1
+261;null;5;one;1
+261;null;6;one;1
+262;null;1;one;1
+262;null;2;one;1
+262;null;3;one;1
+262;null;4;one;1
+262;null;5;one;1
+262;null;6;one;1
+262;null;7;one;1
+262;null;8;one;1
+262;null;9;one;1
+262;null;10;one;1
+262;null;11;one;1
+262;null;12;one;1
+262;null;13;one;1
+262;null;14;one;1
+262;null;15;one;1
+262;null;16;one;1
+262;null;17;one;1
+262;null;18;one;1
+262;null;19;one;1
+262;null;20;one;1
+262;null;21;one;1
+263;null;1;one;1
+263;null;2;one;1
+263;null;3;one;1
+263;null;4;one;1
+263;null;5;one;1
+263;null;6;one;1
+263;null;7;one;1
+263;null;8;one;1
+263;null;9;one;1
+263;null;10;one;1
+263;null;11;one;1
+263;null;12;one;1
+263;null;13;one;1
+263;null;14;one;1
+263;null;15;one;1
+263;null;16;one;1
+263;null;17;one;1
+263;null;18;one;1
+263;null;19;one;1
+263;null;20;one;1
+263;null;21;one;1
+264;null;1;one;1
+265;null;1;one;1
+266;null;1;one;1
+267;null;1;one;1
+268;null;1;one;1
+269;null;1;one;1
+270;null;1;one;1
+271;null;1;one;1
+272;null;1;one;1
+273;null;1;one;1
+274;null;1;one;1
+275;null;1;one;1
+276;null;1;one;1
+277;null;1;one;1
+278;null;1;one;1
+278;null;2;one;1
+279;null;1;one;1
+280;null;1;one;1
+280;null;2;one;1
+280;null;3;one;1
+280;null;4;one;1
+280;null;5;one;1
+280;null;6;one;1
+280;null;7;one;1
+280;null;8;one;1
+280;null;9;one;1
+280;null;10;one;1
+280;null;11;one;1
+280;null;12;one;1
+280;null;13;one;1
+280;null;14;one;1
+280;null;15;one;1
+280;null;16;one;1
+280;null;17;one;1
+280;null;18;one;1
+280;null;19;one;1
+280;null;20;one;1
+280;null;21;one;1
+281;null;1;one;1
+281;null;2;one;1
+281;null;3;one;1
+281;null;4;one;1
+281;null;5;one;1
+281;null;6;one;1
+281;null;7;one;1
+281;null;8;one;1
+281;null;9;one;1
+281;null;10;one;1
+281;null;11;one;1
+281;null;12;one;1
+281;null;13;one;1
+281;null;14;one;1
+281;null;15;one;1
+281;null;16;one;1
+281;null;17;one;1
+281;null;18;one;1
+281;null;19;one;1
+281;null;20;one;1
+281;null;21;one;1
+282;null;1;one;1
+283;null;1;one;1
+283;null;2;one;1
+283;null;3;one;1
+1004;Wisdom Of Paagrio;1;one;1
+1004;Wisdom Of Paagrio;2;one;1
+1004;Wisdom Of Paagrio;3;one;1
+1008;Glory Of Paagrio;1;one;1
+1008;Glory Of Paagrio;2;one;1
+1008;Glory Of Paagrio;3;one;1
+1018;Purify;1;one;1
+1018;Purify;2;one;1
+1020;Vitalize;1;one;1
+1020;Vitalize;2;one;1
+1020;Vitalize;3;one;1
+1020;Vitalize;4;one;1
+1020;Vitalize;5;one;1
+1020;Vitalize;6;one;1
+1020;Vitalize;7;one;1
+1020;Vitalize;8;one;1
+1020;Vitalize;9;one;1
+1028;Might Of Heaven;1;one;1
+1028;Might Of Heaven;2;one;1
+1028;Might Of Heaven;3;one;1
+1028;Might Of Heaven;4;one;1
+1028;Might Of Heaven;5;one;1
+1028;Might Of Heaven;6;one;1
+1028;Might Of Heaven;7;one;1
+1028;Might Of Heaven;8;one;1
+1028;Might Of Heaven;9;one;1
+1028;Might Of Heaven;10;one;1
+1032;Invigor;1;one;1
+1032;Invigor;2;one;1
+1032;Invigor;3;one;1
+1034;Dirge;1;one;1
+1034;Dirge;2;one;1
+1036;Magic Barrier;1;one;1
+1036;Magic Barrier;2;one;1
+1042;Hold Undead;1;one;1
+1042;Hold Undead;2;one;1
+1045;Bless The Body;1;one;1
+1045;Bless The Body;2;one;1
+1045;Bless The Body;3;one;1
+1045;Bless The Body;4;one;1
+1048;Brilliance;1;one;1
+1048;Brilliance;2;one;1
+1048;Brilliance;3;one;1
+1048;Brilliance;4;one;1
+1049;Requiem;1;one;1
+1049;Requiem;2;one;1
+1049;Requiem;3;one;1
+1050;Teleport;1;one;1
+1050;Teleport;2;one;1
+1056;Cancellation;1;one;1
+1064;Silence;1;one;1
+1064;Silence;2;one;1
+1064;Silence;3;one;1
+1071;Surrender To Water;1;one;1
+1071;Surrender To Water;2;one;1
+1072;Sleeping Cloud;1;one;1
+1072;Sleeping Cloud;2;one;1
+1074;Surrender To Wind;1;one;1
+1074;Surrender To Wind;2;one;1
+1086;Haste;1;one;1
+1086;Haste;2;one;1
+1104;Engrave Seal Of Dull;1;one;1
+1104;Engrave Seal Of Dull;2;one;1
+1104;Engrave Seal Of Dull;3;one;1
+1104;Engrave Seal Of Dull;4;one;1
+1104;Engrave Seal Of Dull;5;one;1
+1108;Blaze Pressure;1;one;1
+1108;Blaze Pressure;2;one;1
+1129;Summon Skeletonwarrior;1;pet;1
+1129;Summon Skeletonwarrior;2;pet;1
+1139;Servitor Magic Shield;1;pet;1
+1139;Servitor Magic Shield;2;pet;1
+1140;Servitor Physical Shield;1;pet;1
+1140;Servitor Physical Shield;2;pet;1
+1140;Servitor Physical Shield;3;pet;1
+1141;Servitor Haste;1;pet;1
+1141;Servitor Haste;2;pet;1
+1148;Bone Spear;1;one;1
+1148;Bone Spear;2;one;1
+1148;Bone Spear;3;one;1
+1148;Bone Spear;4;one;1
+1154;Summon Zombi;1;pet;1
+1154;Summon Zombi;2;pet;1
+1154;Summon Zombi;3;pet;1
+1155;Corpse Explosion;1;one;1
+1155;Corpse Explosion;2;one;1
+1155;Corpse Explosion;3;one;1
+1155;Corpse Explosion;4;one;1
+1155;Corpse Explosion;5;one;1
+1155;Corpse Explosion;6;one;1
+1156;Remove Target;1;one;1
+1159;Curse:Pain;1;one;1
+1159;Curse:Pain;2;one;1
+1159;Curse:Pain;3;one;1
+1159;Curse:Pain;4;one;1
+1163;Curse:Distrust;1;one;1
+1163;Curse:Distrust;2;one;1
+1169;Curse:Fear;1;one;1
+1169;Curse:Fear;2;one;1
+1169;Curse:Fear;3;one;1
+1170;Anchor;1;one;1
+1170;Anchor;2;one;1
+1171;Fire Circle;1;one;1
+1171;Fire Circle;2;one;1
+1171;Fire Circle;3;one;1
+1171;Fire Circle;4;one;1
+1171;Fire Circle;5;one;1
+1171;Fire Circle;6;one;1
+1171;Fire Circle;7;one;1
+1171;Fire Circle;8;one;1
+1171;Fire Circle;9;one;1
+1171;Fire Circle;10;one;1
+1174;Aqua Wall;1;one;1
+1174;Aqua Wall;2;one;1
+1174;Aqua Wall;3;one;1
+1174;Aqua Wall;4;one;1
+1176;Wind Storm;1;one;1
+1176;Wind Storm;2;one;1
+1176;Wind Storm;3;one;1
+1176;Wind Storm;4;one;1
+1176;Wind Storm;5;one;1
+1176;Wind Storm;6;one;1
+1183;Aqua Scar;1;one;1
+1183;Aqua Scar;2;one;1
+1210;Aura Spiral;1;one;1
+1210;Aura Spiral;2;one;1
+1213;Entice Mirage;1;one;1
+1213;Entice Mirage;2;one;1
+1230;null;1;one;1
+1230;null;2;one;1
+1230;null;3;one;1
+1230;null;4;one;1
+1230;null;5;one;1
+1230;null;6;one;1
+1230;null;7;one;1
+1230;null;8;one;1
+1230;null;9;one;1
+1230;null;10;one;1
+1231;null;1;one;1
+1231;null;2;one;1
+1231;null;3;one;1
+1231;null;4;one;1
+1231;null;5;one;1
+1231;null;6;one;1
+1231;null;7;one;1
+1231;null;8;one;1
+1231;null;9;one;1
+1231;null;10;one;1
+1232;null;1;one;1
+1232;null;2;one;1
+1232;null;3;one;1
+1233;null;1;one;1
+1233;null;2;one;1
+1234;null;1;one;1
+1234;null;2;one;1
+1234;null;3;one;1
+1234;null;4;one;1
+1234;null;5;one;1
+1234;null;6;one;1
+1234;null;7;one;1
+1234;null;8;one;1
+1234;null;9;one;1
+1234;null;10;one;1
+1235;null;1;one;1
+1235;null;2;one;1
+1235;null;3;one;1
+1235;null;4;one;1
+1235;null;5;one;1
+1235;null;6;one;1
+1235;null;7;one;1
+1235;null;8;one;1
+1235;null;9;one;1
+1235;null;10;one;1
+1236;null;1;one;1
+1236;null;2;one;1
+1236;null;3;one;1
+1236;null;4;one;1
+1236;null;5;one;1
+1236;null;6;one;1
+1236;null;7;one;1
+1236;null;8;one;1
+1236;null;9;one;1
+1236;null;10;one;1
+1237;null;1;one;1
+1237;null;2;one;1
+1237;null;3;one;1
+1237;null;4;one;1
+1237;null;5;one;1
+1237;null;6;one;1
+1237;null;7;one;1
+1237;null;8;one;1
+1238;null;1;one;1
+1238;null;2;one;1
+1238;null;3;one;1
+1239;null;1;one;1
+1239;null;2;one;1
+1239;null;3;one;1
+1239;null;4;one;1
+1239;null;5;one;1
+1239;null;6;one;1
+1239;null;7;one;1
+1239;null;8;one;1
+1239;null;9;one;1
+1239;null;10;one;1
+1240;null;1;one;1
+1240;null;2;one;1
+1240;null;3;one;1
+1242;null;1;one;1
+1242;null;2;one;1
+1242;null;3;one;1
+1243;null;1;one;1
+1243;null;2;one;1
+1243;null;3;one;1
+1244;null;1;one;1
+1244;null;2;one;1
+1245;null;1;one;1
+1245;null;2;one;1
+1245;null;3;one;1
+1245;null;4;one;1
+1245;null;5;one;1
+1246;null;1;one;1
+1246;null;2;one;1
+1247;null;1;one;1
+1247;null;2;one;1
+1248;null;1;one;1
+1248;null;2;one;1
+1249;null;1;one;1
+1249;null;2;one;1
+1249;null;3;one;1
+1250;null;1;one;1
+1250;null;2;one;1
+1250;null;3;one;1
+1251;null;1;one;1
+1251;null;2;one;1
+1252;null;1;one;1
+1252;null;2;one;1
+1252;null;3;one;1
+1253;null;1;one;1
+1253;null;2;one;1
+1253;null;3;one;1
+13;Create Siege Machine;1;one;1
+284;null;1;one;1
+284;null;2;one;1
+284;null;3;one;1
+284;null;4;one;1
+284;null;5;one;1
+284;null;6;one;1
+284;null;7;one;1
+284;null;8;one;1
+284;null;9;one;1
+284;null;10;one;1
+284;null;11;one;1
+284;null;12;one;1
+284;null;13;one;1
+284;null;14;one;1
+284;null;15;one;1
+284;null;16;one;1
+284;null;17;one;1
+284;null;18;one;1
+284;null;19;one;1
+284;null;20;one;1
+284;null;21;one;1
+284;null;22;one;1
+284;null;23;one;1
+284;null;24;one;1
+1254;null;1;one;1
+1254;null;2;one;1
+1254;null;3;one;1
+1254;null;4;one;1
+1255;null;1;one;1
+1255;null;2;one;1
+1256;null;1;one;1
+1256;null;2;one;1
+1256;null;3;one;1
+1256;null;4;one;1
+1257;null;1;one;1
+1257;null;2;one;1
+1257;null;3;one;1
+285;null;1;one;1
+285;null;2;one;1
+285;null;3;one;1
+285;null;4;one;1
+285;null;5;one;1
+285;null;6;one;1
+285;null;7;one;1
+285;null;8;one;1
+285;null;9;one;1
+285;null;10;one;1
+285;null;11;one;1
+285;null;12;one;1
+285;null;13;one;1
+285;null;14;one;1
+285;null;15;one;1
+285;null;16;one;1
+285;null;17;one;1
+285;null;18;one;1
+1258;null;1;one;1
+1258;null;2;one;1
+1258;null;3;one;1
+1258;null;4;one;1
+1259;null;1;one;1
+1259;null;2;one;1
+14;Monster Confusion;1;one;1
+20;Throw;1;one;1
+20;Throw;2;one;1
+23;Locate Town;1;one;1
+31;Summon Allround Cubic;1;one;1
+31;Summon Allround Cubic;2;one;1
+31;Summon Allround Cubic;3;one;1
+32;none;1;one;1
+32;none;2;one;1
+32;none;3;one;1
+37;Summon Crow;1;one;1
+38;Summon Spirit of Coyote;1;one;1
+39;Summon Spirit of Hawk;1;one;1
+40;Piercing Shot;1;one;1
+40;Piercing Shot;2;one;1
+40;Piercing Shot;3;one;1
+41;Summon Dead Crow;1;one;1
+43;Soul Scavenge;1;one;1
+47;Shadow Step;1;one;1
+47;Shadow Step;2;one;1
+47;Shadow Step;3;one;1
+47;Shadow Step;4;one;1
+52;Transfer Curse;1;one;1
+53;Summon Mech Cannon;1;one;1
+55;Jab;1;one;1
+55;Jab;2;one;1
+55;Jab;3;one;1
+55;Jab;4;one;1
+57;Detect Enemy;1;one;1
+57;Detect Enemy;2;one;1
+57;Detect Enemy;3;one;1
+57;Detect Enemy;4;one;1
+57;Detect Enemy;5;one;1
+57;Detect Enemy;6;one;1
+57;Detect Enemy;7;one;1
+57;Detect Enemy;8;one;1
+57;Detect Enemy;9;one;1
+59;Create Spirit Shot;1;one;1
+62;Summon Defence Cubic;1;one;1
+62;Summon Defence Cubic;2;one;1
+63;Iron Fist;1;one;1
+64;Summon Undead Prince;1;one;1
+66;Summon Hell Crow;1;one;1
+68;Black Wind;1;one;1
+71;Drain Soul;1;one;1
+71;Drain Soul;2;one;1
+73;Detect Giant Weakness;1;one;1
+79;Berserker;1;one;1
+85;Detect Demon Weakness;1;one;1
+89;Resist Magic;1;one;1
+89;Resist Magic;2;one;1
+89;Resist Magic;3;one;1
+89;Resist Magic;4;one;1
+90;Sharpen Weapon;1;one;1
+90;Sharpen Weapon;2;one;1
+90;Sharpen Weapon;3;one;1
+93;Shield Attack;1;one;1
+93;Shield Attack;2;one;1
+108;Union;1;one;1
+108;Union;2;one;1
+108;Union;3;one;1
+114;Martyrdom;1;one;1
+114;Martyrdom;2;one;1
+117;Hide;1;one;1
+117;Hide;2;one;1
+117;Hide;3;one;1
+119;Gear Tuning;1;one;1
+119;Gear Tuning;2;one;1
+119;Gear Tuning;3;one;1
+119;Gear Tuning;4;one;1
+119;Gear Tuning;5;one;1
+119;Gear Tuning;6;one;1
+124;Tiger Chant;1;one;1
+124;Tiger Chant;2;one;1
+124;Tiger Chant;3;one;1
+124;Tiger Chant;4;one;1
+125;Bear Chant;1;one;1
+125;Bear Chant;2;one;1
+125;Bear Chant;3;one;1
+125;Bear Chant;4;one;1
+126;Fox Chant;1;one;1
+126;Fox Chant;2;one;1
+126;Fox Chant;3;one;1
+128;Transfer Bleeding;1;one;1
+128;Transfer Bleeding;2;one;1
+133;Riposte;1;one;1
+136;Day Walk;1;one;1
+140;Big Pocket;1;one;1
+149;Finishing Blow;1;one;1
+162;Achilles Punch;1;one;1
+162;Achilles Punch;2;one;1
+166;Repair Castle;1;one;1
+170;Forest Walk;1;one;1
+174;Night Stalker;1;one;1
+175;Night Rest;1;one;1
+178;Enlarge Elemental Magic;1;one;1
+178;Enlarge Elemental Magic;2;one;1
+182;Enlarge Inventory;1;one;1
+182;Enlarge Inventory;2;one;1
+182;Enlarge Inventory;3;one;1
+182;Enlarge Inventory;4;one;1
+183;Day Rest;1;one;1
+188;Control Transporter;1;one;1
+189;Fast Recovery;1;one;1
+189;Fast Recovery;2;one;1
+189;Fast Recovery;3;one;1
+215;Polearm Range Mastery;1;one;1
+218;Fist King;1;one;1
+218;Fist King;2;one;1
+219;Sprint;1;one;1
+220;Mana Shot;1;one;1
+220;Mana Shot;2;one;1
+220;Mana Shot;3;one;1
+1019;Create Holy Water;1;one;1
+1022;Remove Fear;1;one;1
+1023;Cure Disease;1;one;1
+1024;Greater Channel;1;one;1
+1024;Greater Channel;2;one;1
+1024;Greater Channel;3;one;1
+1024;Greater Channel;4;one;1
+1026;Banish Undead;1;one;1
+1029;Fury Of Heaven;1;one;1
+1037;Greater Arrow Ward;1;one;1
+1037;Greater Arrow Ward;2;one;1
+1037;Greater Arrow Ward;3;one;1
+1037;Greater Arrow Ward;4;one;1
+1038;Holy Ground;1;one;1
+1039;Celestial Vestment;1;one;1
+1041;Divine Armor;1;one;1
+1041;Divine Armor;2;one;1
+1046;Invisibility To Undead;1;one;1
+1047;Greater Mana Regeneration;1;one;1
+1047;Greater Mana Regeneration;2;one;1
+1047;Greater Mana Regeneration;3;one;1
+1047;Greater Mana Regeneration;4;one;1
+1051;Gate;1;one;1
+1053;Armor Burst;1;one;1
+1053;Armor Burst;2;one;1
+1053;Armor Burst;3;one;1
+1053;Armor Burst;4;one;1
+1054;Weapon Break;1;one;1
+1054;Weapon Break;2;one;1
+1055;Friendship;1;one;1
+1055;Friendship;2;one;1
+1057;Deafen;1;one;1
+1057;Deafen;2;one;1
+1058;Detection;1;one;1
+1061;Mirage;1;one;1
+1063;Wind Walking;1;one;1
+1065;Greater Quickness;1;one;1
+1067;Time Stop;1;one;1
+1070;Dim Vision;1;one;1
+1076;Phantasm;1;one;1
+1076;Phantasm;2;one;1
+1079;Charming;1;one;1
+1079;Charming;2;one;1
+1081;Invisibility;1;one;1
+1082;Avatar;1;one;1
+1084;Fly;1;one;1
+1089;Aura Wave;1;one;1
+1089;Aura Wave;2;one;1
+1089;Aura Wave;3;one;1
+1089;Aura Wave;4;one;1
+1091;Blood Feast;1;one;1
+1093;Dark Descend;1;one;1
+1094;Spirit Halation;1;one;1
+1094;Spirit Halation;2;one;1
+1094;Spirit Halation;3;one;1
+1094;Spirit Halation;4;one;1
+1094;Spirit Halation;5;one;1
+1106;Entice Wind;1;one;1
+1110;Summon Golem;1;one;1
+1110;Summon Golem;2;one;1
+1110;Summon Golem;3;one;1
+1110;Summon Golem;4;one;1
+1112;Summon Nymph;1;one;1
+1112;Summon Nymph;2;one;1
+1112;Summon Nymph;3;one;1
+1112;Summon Nymph;4;one;1
+1113;Summon Fire;1;one;1
+1113;Summon Fire;2;one;1
+1114;Summon Magic Shield;1;one;1
+1114;Summon Magic Shield;2;one;1
+1115;Summon Magic Arrow;1;one;1
+1115;Summon Magic Arrow;2;one;1
+1115;Summon Magic Arrow;3;one;1
+1116;Summon Attacker;1;one;1
+1116;Summon Attacker;2;one;1
+1117;Summon Physical Shield;1;one;1
+1117;Summon Physical Shield;2;one;1
+1118;Summon Undine;1;one;1
+1118;Summon Undine;2;one;1
+1118;Summon Undine;3;one;1
+1118;Summon Undine;4;one;1
+1118;Summon Undine;5;one;1
+1119;Summon Sylph;1;one;1
+1119;Summon Sylph;2;one;1
+1119;Summon Sylph;3;one;1
+1119;Summon Sylph;4;one;1
+1119;Summon Sylph;5;one;1
+1120;Summon Valkyrie;1;one;1
+1121;Summon Salamander;1;one;1
+1121;Summon Salamander;2;one;1
+1121;Summon Salamander;3;one;1
+1121;Summon Salamander;4;one;1
+1121;Summon Salamander;5;one;1
+1122;Summon Evil Eye;1;one;1
+1122;Summon Evil Eye;2;one;1
+1123;Summon Nimbus;1;one;1
+1123;Summon Nimbus;2;one;1
+1123;Summon Nimbus;3;one;1
+1124;Summon Sandman;1;one;1
+1124;Summon Sandman;2;one;1
+1124;Summon Sandman;3;one;1
+1125;Servitor Cancellation;1;one;1
+1130;Summon Darkspider;1;one;1
+1130;Summon Darkspider;2;one;1
+1130;Summon Darkspider;3;one;1
+1131;Summon Darksoldier;1;one;1
+1131;Summon Darksoldier;2;one;1
+1131;Summon Darksoldier;3;one;1
+1133;Summon Bomber;1;one;1
+1133;Summon Bomber;2;one;1
+1133;Summon Bomber;3;one;1
+1134;Summon Hieros;1;one;1
+1135;Charge Cubic;1;one;1
+1136;Cubic Cancellation;1;one;1
+1137;Summon Holly Eye;1;one;1
+1137;Summon Holly Eye;2;one;1
+1149;Vacuum;1;one;1
+1150;Corpse Mana Drain;1;one;1
+1150;Corpse Mana Drain;2;one;1
+1150;Corpse Mana Drain;3;one;1
+1150;Corpse Mana Drain;4;one;1
+1152;Curse:Betrayer;1;one;1
+1152;Curse:Betrayer;2;one;1
+1153;Invisible Spear;1;one;1
+1153;Invisible Spear;2;one;1
+1158;Curse:Blind;1;one;1
+1158;Curse:Blind;2;one;1
+1162;Extra Damage;1;one;1
+1162;Extra Damage;2;one;1
+1165;Curse:Disease;1;one;1
+1165;Curse:Disease;2;one;1
+1165;Curse:Disease;3;one;1
+1166;Curse:Confuse;1;one;1
+1166;Curse:Confuse;2;one;1
+1173;Aqua Storm;1;one;1
+1173;Aqua Storm;2;one;1
+1179;Fire Storm;1;one;1
+1179;Fire Storm;2;one;1
+1180;Fire Wall;1;one;1
+1180;Fire Wall;2;one;1
+1185;Water Walk;1;one;1
+1186;Water Breath;1;one;1
+1186;Water Breath;2;one;1
+1190;Wind Scar;1;one;1
+1190;Wind Scar;2;one;1
+1190;Wind Scar;3;one;1
+1192;Fire Scar;1;one;1
+1192;Fire Scar;2;one;1
+1192;Fire Scar;3;one;1
+1193;Clear Vision;1;one;1
+1196;Counter Fire;1;one;1
+1196;Counter Fire;2;one;1
+1197;Earthquake;1;one;1
+1197;Earthquake;2;one;1
+1197;Earthquake;3;one;1
+1198;Cure Mind;1;one;1
+1198;Cure Mind;2;one;1
+1199;Animal Life;1;one;1
+1199;Animal Life;2;one;1
+1202;Raid Dryad;1;one;1
+1202;Raid Dryad;2;one;1
+1203;Leprechaun Confuse;1;one;1
+1203;Leprechaun Confuse;2;one;1
+1211;Abysmal Dark;1;one;1
+1211;Abysmal Dark;2;one;1
+1212;Dread Shake;1;one;1
+1212;Dread Shake;2;one;1
+1214;Gaze Fire;1;one;1
+1214;Gaze Fire;2;one;1
+1214;Gaze Fire;3;one;1
+1214;Gaze Fire;4;one;1
+1214;Gaze Fire;5;one;1
+1215;Gaze Wind;1;one;1
+1215;Gaze Wind;2;one;1
+1215;Gaze Wind;3;one;1
+1215;Gaze Wind;4;one;1
+1215;Gaze Wind;5;one;1
+1221;Flooding;1;one;1
+1221;Flooding;2;one;1
+1221;Flooding;3;one;1
+1241;null;1;one;1
+26;Track Monster;1;one;1
+74;Crush Mana Flow;1;one;1
+74;Crush Mana Flow;2;one;1
+74;Crush Mana Flow;3;one;1
+74;Crush Mana Flow;4;one;1
+74;Crush Mana Flow;5;one;1
+74;Crush Mana Flow;6;one;1
+132;Spot Strike;1;one;1
+135;Heroism;1;one;1
+135;Heroism;2;one;1
+138;Melee Evasion;1;one;1
+138;Melee Evasion;2;one;1
+138;Melee Evasion;3;one;1
+138;Melee Evasion;4;one;1
+145;Robe Mastery;1;one;1
+145;Robe Mastery;2;one;1
+151;Mithril Weapon Mastery;1;one;1
+152;Mithril Armor Mastery;1;one;1
+154;White Magic Mastery;1;one;1
+155;Enlarge White Magic;1;one;1
+155;Enlarge White Magic;2;one;1
+156;Focus White Magic;1;one;1
+156;Focus White Magic;2;one;1
+156;Focus White Magic;3;one;1
+156;Focus White Magic;4;one;1
+157;Advanced White Magic;1;one;1
+158;Support Magic Mastery;1;one;1
+159;Enlarge Support Magic;1;one;1
+159;Enlarge Support Magic;2;one;1
+160;Focus Support Magic;1;one;1
+160;Focus Support Magic;2;one;1
+160;Focus Support Magic;3;one;1
+160;Focus Support Magic;4;one;1
+161;Advanced Support Magic;1;one;1
+167;Focus Summon Magic;1;one;1
+167;Focus Summon Magic;2;one;1
+167;Focus Summon Magic;3;one;1
+167;Focus Summon Magic;4;one;1
+177;Elemental Magic Mastery;1;one;1
+179;Focus Elemental Magic;1;one;1
+179;Focus Elemental Magic;2;one;1
+179;Focus Elemental Magic;3;one;1
+179;Focus Elemental Magic;4;one;1
+180;Advanced Elemental Magic;1;one;1
+184;Spirit Magic Mastery;1;one;1
+185;Enlarge Spirit Magic;1;one;1
+185;Enlarge Spirit Magic;2;one;1
+186;Focus Spirit Magic;1;one;1
+186;Focus Spirit Magic;2;one;1
+186;Focus Spirit Magic;3;one;1
+186;Focus Spirit Magic;4;one;1
+187;Advanced Spirit Magic;1;one;1
+192;Plate Mastery;1;one;1
+192;Plate Mastery;2;one;1
+192;Plate Mastery;3;one;1
+192;Plate Mastery;4;one;1
+192;Plate Mastery;5;one;1
+192;Plate Mastery;6;one;1
+192;Plate Mastery;7;one;1
+192;Plate Mastery;8;one;1
+192;Plate Mastery;9;one;1
+199;Black Magic Resist;1;one;1
+199;Black Magic Resist;2;one;1
+199;Black Magic Resist;3;one;1
+199;Black Magic Resist;4;one;1
+200;Black Magic Mastery;1;one;1
+201;Enlarge Black Magic;1;one;1
+201;Enlarge Black Magic;2;one;1
+202;Focus Black Magic;1;one;1
+202;Focus Black Magic;2;one;1
+202;Focus Black Magic;3;one;1
+202;Focus Black Magic;4;one;1
+203;Advanced Black Magic;1;one;1
+204;Blunt Expert;1;one;1
+206;Blunt Dagger Mastery;1;one;1
+207;Blunt Fist Mastery;1;one;1
+207;Blunt Fist Mastery;2;one;1
+207;Blunt Fist Mastery;3;one;1
+207;Blunt Fist Mastery;4;one;1
+207;Blunt Fist Mastery;5;one;1
+207;Blunt Fist Mastery;6;one;1
+224;See Invisibility;1;one;1
+237;Blunt Mastery;1;one;1
+237;Blunt Mastery;2;one;1
+237;Blunt Mastery;3;one;1
+237;Blunt Mastery;4;one;1
+238;Dagger Mastery;1;one;1
+238;Dagger Mastery;2;one;1
+238;Dagger Mastery;3;one;1
+238;Dagger Mastery;4;one;1
+240;none;1;one;1
+241;none;1;one;1
+242;none;1;one;1
+243;none;1;one;1
+1017;Quick Heal;1;one;1
+1017;Quick Heal;2;one;1
+1017;Quick Heal;3;one;1
+1025;Instant Heal;1;one;1
+1025;Instant Heal;2;one;1
+1025;Instant Heal;3;one;1
+1030;Sense Undead;1;one;1
+1052;Know Enemy;1;one;1
+1060;Stabilize;1;one;1
+1066;Accelerate;1;one;1
+1066;Accelerate;2;one;1
+1080;Light;1;one;1
+1088;Tug Gravity;1;one;1
+1088;Tug Gravity;2;one;1
+1088;Tug Gravity;3;one;1
+1088;Tug Gravity;4;one;1
+1098;Rageful Pain;1;one;1
+1103;Lazy Swarm;1;one;1
+1132;Summon Meal;1;one;1
+1138;Concentration Summon;1;one;1
+1138;Concentration Summon;2;one;1
+1142;Servitor Physical Enchant;1;one;1
+1142;Servitor Physical Enchant;2;one;1
+1142;Servitor Physical Enchant;3;one;1
+1142;Servitor Physical Enchant;4;one;1
+1143;Servitor Magic Enchant;1;one;1
+1143;Servitor Magic Enchant;2;one;1
+1143;Servitor Magic Enchant;3;one;1
+1143;Servitor Magic Enchant;4;one;1
+1161;Concentration Blackmagic;1;one;1
+1187;Momoriz Element Magic;1;one;1
+1187;Momoriz Element Magic;2;one;1
+1187;Momoriz Element Magic;3;one;1
+1188;Intensive Element Magic;1;one;1
+1188;Intensive Element Magic;2;one;1
+1188;Intensive Element Magic;3;one;1
+1188;Intensive Element Magic;4;one;1
+1188;Intensive Element Magic;5;one;1
+1194;Earth Hands;1;one;1
+1194;Earth Hands;2;one;1
+1194;Earth Hands;3;one;1
+1194;Earth Hands;4;one;1
+1194;Earth Hands;5;one;1
+1194;Earth Hands;6;one;1
+1195;Animal Mind;1;one;1
+1200;Poison Flower;1;one;1
+1200;Poison Flower;2;one;1
+1200;Poison Flower;3;one;1
+1200;Poison Flower;4;one;1
+1200;Poison Flower;5;one;1
+1200;Poison Flower;6;one;1
+1205;Poison Spore;1;one;1
+1205;Poison Spore;2;one;1
+1207;Concentration Spirits;1;one;1
+2001;none;1;one;1
+2002;none;1;one;1
+2003;none;1;one;1
+2004;none;1;one;1
+2005;none;1;one;1
+2006;none;1;one;1
+2007;none;1;one;1
+2008;none;1;one;1
+2009;none;1;one;1
+2010;none;1;one;1
+2011;none;1;one;1
+2012;none;1;one;1
+2013;none;1;one;1
+2014;none;1;one;1
+2015;none;1;one;1
+2016;none;1;one;1
+2017;none;1;one;1
+2018;none;1;one;1
+2019;none;1;one;1
+2020;none;1;one;1
+2021;none;1;one;1
+2022;none;1;one;1
+2023;none;1;one;1
+2024;none;1;one;1
+2025;none;1;one;1
+2026;none;1;one;1
+2027;none;1;one;1
+2028;none;1;one;1
+2029;none;1;one;1
+2030;none;1;one;1
+2031;none;1;one;1
+2032;none;1;one;1
+2033;none;1;one;1
+2034;none;1;one;1
+2035;none;1;one;1
+2036;none;1;one;1
+2037;none;1;one;1
+2038;none;1;one;1
+2039;none;1;one;1
+2040;none;1;one;1
+2041;none;1;one;1
+2042;none;1;one;1
+2043;none;1;one;1
+2044;none;1;one;1
+2045;none;1;one;1
+2046;null;1;one;1
+2047;null;1;one;1
+2048;null;1;one;1
+2049;null;1;one;1
+2050;null;1;one;1
+2051;null;1;one;1
+2052;null;1;one;1
+2053;null;1;one;1
+2054;null;1;one;1
+2055;null;1;one;1
+2056;null;1;one;1
+2057;null;1;one;1
+2058;null;1;one;1
+2059;null;1;one;1
+2060;null;1;one;1
+2061;null;1;one;1
+2062;null;1;one;1
+2063;null;1;one;1
+3001;INT+1;1;one;1
+3002;INT+2;1;one;1
+3003;STR+2;1;one;1
+3004;MAXMP+5;1;one;1
+3005;none;1;one;1
+3006;null;1;one;1
+7001;Summon Spartoi;1;one;1
+7002;none;1;one;1
+7003;Shield;1;one;1
+7004;Shield;1;one;1
+7005;Shield;1;one;1
+7006;Shield;1;one;1
+7007;Shield;1;one;1
+7008;Shield;1;one;1
+7009;Shield;1;one;1
+7010;Shield;1;one;1
+7011;Shield;1;one;1
+7012;Shield;1;one;1
+7013;Shield;1;one;1
+7014;Shield;1;one;1
+7015;Shield;1;one;1
+7016;Shield;1;one;1
+7017;Shield;1;one;1
+7018;Shield;1;one;1
+7019;Shield;1;one;1
+7020;Shield;1;one;1
+7021;Shield;1;one;1
+7022;Shield;1;one;1
+7023;Shield;1;one;1
+7024;Might;1;one;1
+7025;Might;1;one;1
+7026;Might;1;one;1
+7027;Wind Strike;1;one;1
+7028;Wind Strike;1;one;1
+7029;none;1;one;1
+7029;none;2;one;1
+7029;none;3;one;1
+7030;none;1;one;1
+7031;none;1;one;1
+7032;none;1;one;1
+4001;none;1;one;1
+4001;none;2;one;1
+4001;none;3;one;1
+4001;none;4;one;1
+4001;none;5;one;1
+4001;none;6;one;1
+4001;none;7;one;1
+4001;none;8;one;1
+4002;none;1;one;1
+4002;none;2;one;1
+4002;none;3;one;1
+4002;none;4;one;1
+4002;none;5;one;1
+4002;none;6;one;1
+4002;none;7;one;1
+4003;none;1;one;1
+4004;none;1;one;1
+4005;none;1;one;1
+4006;none;1;one;1
+4007;none;1;one;1
+4008;none;1;one;1
+4009;none;1;one;1
+4010;none;1;one;1
+4011;none;1;one;1
+4012;none;1;one;1
+4013;none;1;one;1
+4014;none;1;one;1
+4015;none;1;one;1
+4016;none;1;one;1
+4017;none;1;one;1
+4018;none;1;one;1
+4019;none;1;one;1
+4020;none;1;one;1
+4021;none;1;one;1
+4022;none;1;one;1
+4023;none;1;one;1
+4024;none;1;one;1
+4025;none;1;one;1
+4025;none;2;one;1
+4025;none;3;one;1
+4025;none;4;one;1
+4025;none;5;one;1
+4025;none;6;one;1
+4025;none;7;one;1
+4026;none;1;one;1
+4027;none;1;one;1
+4028;none;1;one;1
+4028;none;2;one;1
+4028;none;3;one;1
+4029;none;1;one;1
+4029;none;2;one;1
+4029;none;3;one;1
+4030;none;1;one;1
+4030;none;2;one;1
+4030;none;3;one;1
+4031;none;1;one;1
+4031;none;2;one;1
+4031;none;3;one;1
+4032;none;1;one;1
+4032;none;2;one;1
+4032;none;3;one;1
+4032;none;4;one;1
+4032;none;5;one;1
+4032;none;6;one;1
+4032;none;7;one;1
+4033;none;1;one;1
+4033;none;2;one;1
+4033;none;3;one;1
+4033;none;4;one;1
+4033;none;5;one;1
+4033;none;6;one;1
+4033;none;7;one;1
+4034;none;1;one;1
+4034;none;2;one;1
+4034;none;3;one;1
+4034;none;4;one;1
+4034;none;5;one;1
+4034;none;6;one;1
+4034;none;7;one;1
+4035;none;1;one;1
+4035;none;2;one;1
+4035;none;3;one;1
+4035;none;4;one;1
+4035;none;5;one;1
+4035;none;6;one;1
+4035;none;7;one;1
+4036;none;1;one;1
+4036;none;2;one;1
+4036;none;3;one;1
+4036;none;4;one;1
+4036;none;5;one;1
+4036;none;6;one;1
+4036;none;7;one;1
+4037;none;1;one;1
+4037;none;2;one;1
+4038;none;1;one;1
+4038;none;2;one;1
+4038;none;3;one;1
+4038;none;4;one;1
+4038;none;5;one;1
+4039;none;1;one;1
+4039;none;2;one;1
+4039;none;3;one;1
+4039;none;4;one;1
+4039;none;5;one;1
+4039;none;6;one;1
+4039;none;7;one;1
+4040;none;1;one;1
+4040;none;2;one;1
+4040;none;3;one;1
+4040;none;4;one;1
+4040;none;5;one;1
+4040;none;6;one;1
+4040;none;7;one;1
+4041;none;1;one;1
+4041;none;2;one;1
+4042;none;1;one;1
+4043;none;1;one;1
+4044;none;1;one;1
+4045;none;1;one;1
+4046;none;1;one;1
+4046;none;2;one;1
+4046;none;3;one;1
+4046;none;4;one;1
+4046;none;5;one;1
+4046;none;6;one;1
+4046;none;7;one;1
+4047;none;1;one;1
+4047;none;2;one;1
+4047;none;3;one;1
+4047;none;4;one;1
+4047;none;5;one;1
+4047;none;6;one;1
+4047;none;7;one;1
+4048;none;1;one;1
+4048;none;2;one;1
+4048;none;3;one;1
+4049;null;1;one;1
+4049;null;2;one;1
+4049;null;3;one;1
+4050;null;1;one;1
+4050;null;2;one;1
+4050;null;3;one;1
+4051;null;1;one;1
+4051;null;2;one;1
+4051;null;3;one;1
+4052;null;1;one;1
+4052;null;2;one;1
+4053;null;1;one;1
+4053;null;2;one;1
+4053;null;3;one;1
+4054;null;1;one;1
+4054;null;2;one;1
+4054;null;3;one;1
+4055;null;1;one;1
+4055;null;2;one;1
+4055;null;3;one;1
+4056;null;1;one;1
+4057;null;1;one;1
+4058;null;1;one;1
+4059;null;1;one;1
+4060;null;1;one;1
+4061;null;1;one;1
+4062;null;1;one;1
+4063;null;1;one;1
+4064;null;1;one;1
+4065;null;1;one;1
+4065;null;2;one;1
+4065;null;3;one;1
+4065;null;4;one;1
+4065;null;5;one;1
+4065;null;6;one;1
+4065;null;7;one;1
+4066;null;1;one;1
+4066;null;2;one;1
+4066;null;3;one;1
+4066;null;4;one;1
+4066;null;5;one;1
+4066;null;6;one;1
+4066;null;7;one;1
+4067;null;1;one;1
+4067;null;2;one;1
+4067;null;3;one;1
+4067;null;4;one;1
+4067;null;5;one;1
+4067;null;6;one;1
+4067;null;7;one;1
+4068;null;1;one;1
+4068;null;2;one;1
+4068;null;3;one;1
+4068;null;4;one;1
+4068;null;5;one;1
+4068;null;6;one;1
+4068;null;7;one;1
+4069;null;1;one;1
+4069;null;2;one;1
+4069;null;3;one;1
+4069;null;4;one;1
+4069;null;5;one;1
+4069;null;6;one;1
+4069;null;7;one;1
+4070;null;1;one;1
+4071;null;1;one;1
+4072;null;1;one;1
+4072;null;2;one;1
+4072;null;3;one;1
+4072;null;4;one;1
+4072;null;5;one;1
+4072;null;6;one;1
+4072;null;7;one;1
+4073;null;1;one;1
+4073;null;2;one;1
+4073;null;3;one;1
+4073;null;4;one;1
+4073;null;5;one;1
+4073;null;6;one;1
+4073;null;7;one;1
+4074;null;1;one;1
+4074;null;2;one;1
+4075;null;1;one;1
+4075;null;2;one;1
+4075;null;3;one;1
+4075;null;4;one;1
+4075;null;5;one;1
+4075;null;6;one;1
+4075;null;7;one;1
+4076;null;1;one;1
+4076;null;2;one;1
+4076;null;3;one;1
+4077;null;1;one;1
+4077;null;2;one;1
+4077;null;3;one;1
+4077;null;4;one;1
+4077;null;5;one;1
+4077;null;6;one;1
+4077;null;7;one;1
+4078;null;1;one;1
+4078;null;2;one;1
+4078;null;3;one;1
+4078;null;4;one;1
+4078;null;5;one;1
+4078;null;6;one;1
+4078;null;7;one;1
+4079;null;1;one;1
+4080;null;1;one;1
+4081;null;1;one;1
+4082;null;1;one;1
+4083;null;1;one;1
+4084;null;1;one;1
+4085;null;1;one;1
+4086;null;1;one;1
+4087;null;1;one;1
+4087;null;2;one;1
+4087;null;3;one;1
+4087;null;4;one;1
+4087;null;5;one;1
+4087;null;6;one;1
+4087;null;7;one;1
+4088;null;1;one;1
+4088;null;2;one;1
+4088;null;3;one;1
+4088;null;4;one;1
+4088;null;5;one;1
+4088;null;6;one;1
+4088;null;7;one;1
+4089;null;1;one;1
+4090;null;1;one;1
+4091;null;1;one;1
+4092;null;1;one;1
+4093;null;1;one;1
+4094;null;1;one;1
+4095;null;1;one;1
+4096;null;1;one;1
+4096;null;2;one;1
+4096;null;3;one;1
+4097;null;1;one;1
+4097;null;2;one;1
+4097;null;3;one;1
+4097;null;4;one;1
+4097;null;5;one;1
+4097;null;6;one;1
+4097;null;7;one;1
+4098;null;1;one;1
+4098;null;2;one;1
+4098;null;3;one;1
+4098;null;4;one;1
+4098;null;5;one;1
+4098;null;6;one;1
+4098;null;7;one;1
+4099;null;1;one;1
+4099;null;2;one;1
+4100;null;1;one;1
+4100;null;2;one;1
+4100;null;3;one;1
+4100;null;4;one;1
+4100;null;5;one;1
+4100;null;6;one;1
+4100;null;7;one;1
+4101;null;1;one;1
+4101;null;2;one;1
+4101;null;3;one;1
+4101;null;4;one;1
+4101;null;5;one;1
+4101;null;6;one;1
+4101;null;7;one;1
+4102;null;1;one;1
+4102;null;2;one;1
+4103;null;1;one;1
+4103;null;2;one;1
+4104;null;1;one;1
+4104;null;2;one;1
+4104;null;3;one;1
+4104;null;4;one;1
+4104;null;5;one;1
+4104;null;6;one;1
+4104;null;7;one;1
+4105;null;1;one;1
+4105;null;2;one;1
+4105;null;3;one;1
+4105;null;4;one;1
+4105;null;5;one;1
+4105;null;6;one;1
+4105;null;7;one;1
+4106;null;1;one;1
+4107;null;1;one;1
+4108;null;1;one;1
+4109;null;1;one;1
+4110;null;1;one;1
+4111;null;1;one;1
+4112;null;1;one;1
+4113;null;1;one;1
+4114;null;1;one;1
+4115;null;1;one;1
+4116;null;1;one;1
+4117;null;1;one;1
+4117;null;2;one;1
+4117;null;3;one;1
+4117;null;4;one;1
+4117;null;5;one;1
+4117;null;6;one;1
+4117;null;7;one;1
+4118;null;1;one;1
+4118;null;2;one;1
+4118;null;3;one;1
+4118;null;4;one;1
+4118;null;5;one;1
+4118;null;6;one;1
+4118;null;7;one;1
+4119;null;1;one;1
+4119;null;2;one;1
+4119;null;3;one;1
+4120;null;1;one;1
+4120;null;2;one;1
+4120;null;3;one;1
+4120;null;4;one;1
+4120;null;5;one;1
+4120;null;6;one;1
+4120;null;7;one;1
+4121;null;1;one;1
+4122;null;1;one;1
+4123;null;1;one;1
+4123;null;2;one;1
+4123;null;3;one;1
+4123;null;4;one;1
+4123;null;5;one;1
+4123;null;6;one;1
+4123;null;7;one;1
+4124;null;1;one;1
+4124;null;2;one;1
+4124;null;3;one;1
+4124;null;4;one;1
+4124;null;5;one;1
+4124;null;6;one;1
+4124;null;7;one;1
+4125;null;1;one;1
+4125;null;2;one;1
+4125;null;3;one;1
+4125;null;4;one;1

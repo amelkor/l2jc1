@@ -1,0 +1,5 @@
+# example file.
+# this contains the reference prices of all items in game
+# used for selling items to NPC merchants
+#id;price
+1;1000
